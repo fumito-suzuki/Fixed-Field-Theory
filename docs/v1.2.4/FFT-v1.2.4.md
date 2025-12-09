@@ -1344,3 +1344,225 @@ The result is a **non-dualistic, fully physical** account of mind:
 Instead:
 
 > **Mind is geometry acting on geometry.**
+
+
+## 8. Mathematical Consistency and Remaining Open Problems
+
+Although the Fixed-Field Theory (FFT) provides a unified geometric framework
+connecting quantum mechanics, cosmology, perception, and consciousness,
+several mathematical aspects remain open for refinement.
+
+This section summarizes **what is proven**, **what is conjectured**, and
+**what must be addressed** for full academic acceptance.
+
+### 8.1 Status of the Core Mathematical Structure
+
+FFT rests on three central components:
+
+1. the nonlinear fixed-field equation for Ψ (FFT-1),
+2. the χδ-driven phase–geometry evolution of C (FFT-2),
+3. and the density-operator construction ρ = $f^\dagger$ f (FFT-3).
+
+The following have been established:
+
+#### ✔ (A) Internal Consistency  
+- No contradictions arise between FFT-1, FFT-2, FFT-3.  
+- τ-projection and Z-dispersion scaling produce stable geometry.  
+- The χδ term correctly induces self-similarity and C–T coupling.
+
+#### ✔ (B) Low-energy reduction  
+In the limit of small χδ-curvature, FFT reproduces:
+
+- Schrödinger-type linear dynamics,  
+- standard ΔxΔp uncertainty,  
+- classical trajectories as τ-level-set curves.
+
+Thus the theory has correct IR behavior.
+
+#### ✔ (C) Cosmology  
+The derived cosmological constant λ matches observed order of magnitude  
+when τ-curvature is inserted into the fixed-field background metric.
+
+### 8.2 Open Mathematical Problems
+
+Despite its internal coherence, several components require formal proof.
+
+#### **Problem 1 — Explicit Construction of the Projection f**
+
+FFT-3 defines the density operator as:
+
+$$
+\rho = f^\dagger f,
+$$
+
+but:
+
+- the exact kernel of **f**,
+- whether f is strictly an isometry,
+- and how f acts on multi-particle entangled Ψ
+
+remain open.
+
+**Required:**  
+A closed-form definition of f as one of the following:
+
+- integral transform,
+- nonlinear differential operator,
+- χδ-weighted projection onto XY slices.
+
+This is the most important mathematical task for v1.3.
+
+#### **Problem 2 — Full derivation of quantum entanglement measures**
+
+Current FFT reproduces:
+
+- non-factorization of ρAB,
+- collapse as τ-fixing,
+- teleportation as Z-re-alignment.
+
+However:
+
+$$
+S(\rho_{AB}) 
+\quad\text{(von Neumann entropy)}
+$$
+
+must be **derived exactly** from χδ geometry, not only relationally.
+
+This requires:
+
+- proving that χδ interference defines a unique Schmidt decomposition,
+- showing that entanglement entropy equals Z-variance under projection.
+
+#### **Problem 3 — Rigorous link between ΔZ ΔXY and Δx Δp**
+
+FFT provides the geometric inequality:
+
+$$
+\Delta_Z \, \Delta_{XY} \ge \text{const.}
+$$
+
+But to fully match Heisenberg’s relation, one must show:
+
+$$
+\Delta_{XY} \propto \Delta x,
+\qquad
+\Delta_Z \propto \Delta p,
+$$
+
+under the low-energy mapping C → Ψ.
+
+This mapping functions numerically,  
+but a proof must be constructed.
+
+#### **Problem 4 — χδ as a “universal scaling operator”**
+
+FFT asserts:
+
+- χ = curvature injection  
+- δ = harmonic dispersion  
+
+together form a **unified scaling operator**:
+
+$$
+\chi\delta = \text{generator of self-similar geometry}.
+$$
+
+However:
+
+- eigenvalues of χδ,  
+- convergence of iterated χδ-flows,  
+- and domain stability
+
+require mathematical characterization.
+
+This becomes essential for Appendix Z+6 (“色即是空”).
+
+#### **Problem 5 — Global structure of the τ-geometry**
+
+FFT uses τ as the intrinsic temporal order of T-fibers.
+
+Open problems include:
+
+- Is τ globally integrable?  
+- Are τ-level-sets guaranteed to be spherical (Appendix Z+37B)?  
+- Do singularities correspond to Z-axis folds?  
+- Is τ-topology unique?
+
+Solving this provides a full geometric cosmology.
+
+#### **Problem 6 — C-wave Observables (Measurement Theory)**
+
+We interpret:
+
+- T-wave = continuous real wave  
+- C-wave = receptor-dependent wave (sound, smell, EM, etc.)
+
+But FFT still requires an explicit operator:
+
+$$
+\hat{O}_C : C \mapsto \text{observable}.
+$$
+
+Possible candidates:
+
+- frequency moments,  
+- ξ-driven noise terms,  
+- χδ-curvature modulation.
+
+A mathematically clean definition is not yet settled.
+
+#### **Problem 7 — Formal Model of Consciousness (G-Operator)**
+
+Section 7 defined:
+
+$$
+\mathcal{G}: \Psi \mapsto \Pi_{XY}\bigl(\Psi(\tau_0)\bigr),
+$$
+
+but still open:
+
+- Can G be expressed as a contraction map on Hilbert/Finsler space?  
+- Is G nonlinear or piecewise-linear?  
+- Does repeated G-application converge?  
+
+This determines whether FFT yields a fully rigorous theory of mind.
+
+### 8.3 Conceptual Open Questions
+
+Beyond the strict mathematics, several conceptual issues remain.
+
+### **(1) Energy Conservation and Inter-universal T-fiber Flow**
+FFT allows T-fiber exchange between universes (black hole model).  
+Does this violate global conservation?  
+Or is conservation local to τ-level-sets?
+
+### **(2) Role of χδ in biological systems**
+Does χδ-enhancement directly correlate with:
+
+- attention,  
+- emotional resonance,  
+- trauma encoding?
+
+Preliminary models suggest yes, but experiments are needed.
+
+### **(3) Whether the universe is a τ-sphere**
+Appendix Z+37B predicts spherical τ-geometry.  
+This remains an open geometric result.
+
+### 8.4 Summary of What is Needed for FFT v1.3
+
+To reach publishable academic rigor, the following must be completed:
+
+1. **Explicit kernel for f**  
+2. **Exact entanglement entropy derivation**  
+3. **Proof of ΔZΔXY → ΔxΔp correspondence**  
+4. **Spectral theory of χδ**  
+5. **Global τ-geometry**  
+6. **Measurement operator for C-waves**  
+7. **Functional analysis of G-operator**
+
+These are not weaknesses—  
+they are what every new unifying framework must eventually provide.
+
+FFT now has a clear roadmap to full mathematical maturity.

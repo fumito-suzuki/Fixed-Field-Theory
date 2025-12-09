@@ -344,7 +344,7 @@ yet mass emerges from ρ in specific limits (shown in Section 5 and 6).
 We have introduced:
 
 | Symbol | Meaning | Domain | Notes |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | T |	T-fiber causal field | 3D + τ |	continuous, fractal |
 | C |	C-wave conceptual field |	XY-plane | receptor-dependent |
 | χ | causal accumulation | derivative along Z | gives depth |
@@ -355,3 +355,158 @@ We have introduced:
 
 This geometric structure forms the backbone from which all later physics will emerge.
 
+## 3. Minimal Dynamics of the Fixed Field
+
+Fixed-Field Theory (FFT) is governed by a minimal set of three coupled dynamical equations describing the evolution of:
+- the T-fiber field \Psi (causal substrate),
+- the information density \rho,
+- the C-wave field C (observer-dependent projection).
+
+These equations form a closed dynamical loop:
+
+$$
+C \;\rightarrow\; \delta \;\rightarrow\; \psi \;\rightarrow\; \rho
+\;\rightarrow\; \chi \;\rightarrow\; \Psi \;\rightarrow\; C.
+$$
+
+This loop expresses the core idea of FFT:
+observation, information, and causal geometry mutually generate one another.
+
+⸻
+
+### 3.1 FFT-1 — Nonlinear Fractal Fixed-Field Equation
+
+The fundamental dynamical equation for the T-fiber field $\Psi$ is:
+
+$\boxed{
+\hat{\mathcal{S}}_{\mathrm{FFT}} \Psi = 0
+}
+\tag{FFT-1}$
+
+The operator $\hat{\mathcal{S}}_{\mathrm{FFT}}$ is defined as:
+
+$\hat{\mathcal{S}}_{\mathrm{FFT}} = i\hbar \partial_t + \frac{\hbar^2}{2m}\left(\Delta + \ell_D^{\,2-D}\,\Delta^D\right) - \hbar\left(c_1 \partial_z + c_2 \partial_\theta + c_3 \partial_{\log r}\right) - \left(V + \mathcal{N}[\Psi;\rho,C] + \mathcal{J}[\rho,C]\right).$
+
+Interpretation of Terms
+
+Term	Meaning
+i\hbar\partial_t	phase-time evolution of the T-fiber
+\Delta	standard spatial dispersion
+\Delta^D	fractal dispersion (T-fiber self-similarity)
+drift terms	geometric rearrangement driven by \chi, \delta
+V	potential or geometric background
+\mathcal{N}	nonlinear self-organization via \psi
+\mathcal{J}	information-response term from C and \rho
+
+Unlike the Schrödinger equation, FFT-1 is not a wave equation on spacetime.
+It is a self-organizing field equation for spacetime’s causal substrate.
+
+⸻
+
+3.2 FFT-2 — Information-Density Continuity Equation
+
+Information density \rho evolves according to:
+
+\boxed{
+\partial_t \rho + \nabla \cdot \mathbf{J} + \mathcal{S}_\rho = 0
+}
+\tag{FFT-2}
+
+where the information current \mathbf{J} consists of:
+
+\mathbf{J}
+=
+\underbrace{\frac{\hbar}{2mi}
+\left(
+\Psi^\*\nabla\Psi - \Psi\nabla\Psi^\*
+\right)}_{\text{standard quantum current } \mathbf{J}^{(\mathrm{std})}}
++
+\underbrace{
+\frac{\hbar}{2mi}\,
+\ell_D^{\,2-D}
+\left(
+\Psi^\*\nabla^{D}\Psi - \Psi\nabla^{D}\Psi^\*
+\right)
+}_{\text{fractal current } \mathbf{J}^{(D)}}
++
+\underbrace{
+\rho\,\mathbf{v}_{\mathrm{geo}}
+}_{\text{geometric drift current}}.
+
+The source term:
+
+\mathcal{S}_\rho
+=
+\frac{2}{\hbar}\,
+\Im\big[
+\Psi^\*(\mathcal{N}+\mathcal{J})\Psi
+\big].
+
+Physical Meaning
+	•	\mathcal{S}_\rho > 0: self-amplification (structure formation)
+	•	\mathcal{S}_\rho < 0: dissipation
+	•	fractal currents encode the non-integer dimensional flow of information
+	•	geometric drift reflects changes driven by \chi and \delta
+
+In FFT, mass is a derived phenomenon, emerging from \rho under specific limits.
+
+⸻
+
+3.3 FFT-3 — Projected C-wave Dynamics (Observer Equation)
+
+Observation arises from the XY-plane projection of T-fiber dynamics.
+The C-wave evolves according to:
+
+\boxed{
+i\hbar \partial_t C
+=
+\Pi_{XY}
+\big[
+(V + \mathcal{N}[\Psi;\rho,C] + \mathcal{J}[\rho,C])\Psi
+\big]
+}
+\tag{FFT-3}
+
+where \Pi_{XY} is the projection operator removing Z-depth and extracting the observable component.
+
+Interpretation
+	•	C is the observer’s accessible field, not the full T-fiber.
+	•	Collapse occurs when C reaches a fixed point under FFT-3.
+	•	Decoherence corresponds to unbounded growth of Z-axis variance in \Psi.
+	•	2.5D perception arises because observers only access \Pi_{XY}(\Psi),
+not its Z-structure.
+
+Thus, FFT-3 formalizes measurement as a geometric projection,
+not a stochastic process or external postulate.
+
+⸻
+
+3.4 Interdependence of FFT-1, FFT-2, FFT-3 (Closed Loop)
+
+The three equations form a mutually reinforcing cycle:
+	1.	C-wave determines interference density \delta.
+	2.	Together with \chi, this yields the information gradient \psi = \chi\delta.
+	3.	ψ drives changes in information density ρ (FFT-2).
+	4.	ρ alters T-fiber geometry (FFT-1).
+	5.	T-fiber geometry determines the future evolution of C-wave (FFT-3).
+
+This loop establishes self-organizing causality.
+No external measurement postulate or hidden variable is required.
+
+⸻
+
+3.5 Summary of Minimal Dynamics
+
+Equation	Governs	Role in FFT
+FFT-1	\Psi	causal geometry & fractal dynamics of the T-fiber
+FFT-2	\rho	information flow, precursor to physical mass
+FFT-3	C	observer-side projection, measurement, 2.5D perception
+
+These equations jointly describe:
+	•	structure formation
+	•	quantum phenomena
+	•	perception
+	•	cosmological behavior
+	•	consciousness and free will (in later sections)
+
+They constitute the mathematical backbone of FFT.

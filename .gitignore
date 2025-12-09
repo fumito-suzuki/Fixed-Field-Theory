@@ -1,0 +1,63 @@
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+*.swp
+
+# ---------------------------
+# LaTeX / PDF build
+# ---------------------------
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+*.brf
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.pdf
+!docs/**/*.pdf   # keep only official PDFs inside docs
+
+# ---------------------------
+# MacOS / Windows noise
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Node / JS (future UI tools)
+# ---------------------------
+node_modules/
+npm-debug.log
+
+# ---------------------------
+# Build / Release artefacts
+# ---------------------------
+build/
+dist/
+out/
+tmp/
+cache/
+
+# ---------------------------
+# IDE / Editor configs
+# ---------------------------
+.vscode/
+.idea/
+*.iml
+
+# ---------------------------
+# Figures generation temp
+# ---------------------------
+*.svg.backup
+*.tmp

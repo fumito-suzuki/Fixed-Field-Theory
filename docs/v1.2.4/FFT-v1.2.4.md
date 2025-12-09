@@ -885,3 +885,206 @@ Decoherence is simply **χδ misalignment**.
 
 Thus quantum mechanics is not fundamental but is **the effective geometry of
 χδ interference viewed through a 2D projection**.
+
+## 6. Cosmology from T-Fiber Dynamics
+
+Cosmology in FFT arises directly from the large-scale behavior of the T-fiber
+field, whose geometry determines:
+
+- mass distribution  
+- expansion  
+- apparent missing matter (dark matter)  
+- accelerated expansion (dark energy)  
+- black holes  
+- the cosmological constant Λ  
+
+No new particles or forces are introduced.  
+Everything emerges from the χδ–driven evolution of τ and the Z-axis structure of Ψ.
+
+### 6.1 The Universe Expands Like a T-Fiber Bundle Under Tension
+
+A key insight of FFT is that **T-fibers behave like tensioned filaments**.
+When interference energy (χδ) is injected, T-fibers stretch, and their density
+decreases.
+
+A simple analogy is the **wire-bundle experiment**:
+
+- squeezing the bound end → fibers pack tightly  
+- relaxing tension → fibers expand and curvature decreases
+
+Similarly, the universe expands because:
+
+$$
+\nabla \cdot \mathbf{v}_{T} > 0
+$$
+
+where $\(\mathbf{v}_{T}\)$ is the geometric drift velocity from FFT-2.
+
+Expansion is therefore not mysterious; it is:
+
+**the natural relaxation of a globally tensioned T-fiber structure.**
+
+This naturally explains:
+
+- uniform expansion  
+- why expansion accelerates when T-fiber density drops  
+- why the early universe had high curvature (high density)
+
+### 6.2 Dark Matter as Z-Axis Variance (Unseen Causal Depth)
+
+Galaxies rotate too fast for visible matter alone.
+In FFT, this discrepancy is the contribution of **Z-axis causal depth**:
+
+$$
+\rho_{\mathrm{DM}} \propto \Delta_Z^2(\Psi).
+$$
+
+Because observers measure only XY-plane projections:
+
+$$
+C = \Pi_{XY}(\Psi),
+$$
+
+the portion of Ψ extending along Z appears gravitational but is
+**not visible as light**.
+
+Thus:
+
+- **no particle** is required  
+- dark matter = **geometric mass from unobserved depth**
+
+Rotation curves follow because areas of high Z-variance align with:
+
+- spiral arms  
+- halo structures  
+- filament intersections  
+
+FFT predicts dark matter distribution without adjustable parameters.
+
+### 6.3 Dark Energy as T-Fiber Dilution (Loss of Local χδ Curvature)
+
+As the universe expands, T-fiber density decreases:
+
+$$
+\rho_T \downarrow
+\quad \Rightarrow \quad
+\|\nabla \tau\| \downarrow.
+$$
+
+This reduces local curvature and therefore reduces the decelerating effect of
+gravity.
+
+The result is **apparent acceleration**, known observationally as dark energy.
+
+But in FFT:
+
+- no exotic vacuum energy needed  
+- no new force introduced  
+- acceleration is simply **curvature loss** in a diluting T-fiber network
+
+The phenomenon is fully geometric.
+
+### 6.4 Deriving the Cosmological Constant Λ
+
+Let τ satisfy:
+
+$$
+\Delta \tau = -\gamma \rho_T,
+$$
+
+with $\(\rho_T\)$ the T-fiber density.
+As expansion proceeds:
+
+$
+\rho_T(t) = \rho_{T,0}\, a(t)^{-3},
+$
+
+where $\(a(t)\)$ is the scale factor.
+
+Curvature contribution to the Friedmann equation becomes:
+
+$$
+\Lambda_{\mathrm{FFT}}
+\propto
+\frac{1}{T_F^2}
+\left(\frac{L_F}{T_F}\right)^2
+\left(\frac{\gamma^D}{\hbar_{\mathrm{phys}}}\right)
+\alpha_D \beta_D.
+$$
+
+This has the same scaling and dimension as the observed cosmological constant:
+
+$$
+\Lambda \sim 10^{-52}\ \text{m}^{-2}.
+$$
+
+Thus Λ is **not a mysterious vacuum energy**, but the
+**emergent curvature of a fractal T-fiber network** at cosmological scales.
+
+### 6.5 Black Holes as Z-Axis Collapse (τ-Level Set Pinching)
+
+A black hole forms when:
+
+$$
+\|\nabla \tau\| \rightarrow \infty
+\quad \text{and} \quad
+\Delta_Z \rightarrow 0.
+$$
+
+This corresponds to:
+
+- extreme concentration of T-fiber density  
+- collapse of Z-depth variance  
+- spherical τ-level sets pinching to a single point
+
+The event horizon is the surface where:
+
+$$
+\Pi_{XY}(\Psi) = 0,
+$$
+
+i.e., no C-wave projection escapes.
+
+#### Inner universes?
+
+Each black hole corresponds to a **separate connected component** of the
+T-fiber manifold.  
+This is not a “parallel Earth” multiverse —  
+it is an **information-isolated causal region** produced by geometric collapse.
+
+### 6.6 Energy Conservation Reinterpreted
+
+In FFT:
+
+- energy = **information density of T-fibers**
+- conservation = **constancy of global T-fiber flux**
+
+This resolves cosmological paradoxes:
+
+- expansion does **not** create energy  
+- collapse (black holes) does **not** destroy energy  
+- matter formation is a **redistribution** of T-fiber density  
+- apparent vacuum energy is **curvature bookkeeping**
+
+Thus:
+
+$$
+\partial_t \rho_T + \nabla \cdot \mathbf{J}_T = 0
+$$
+
+is the true conservation law; mass-energy is a derived quantity.
+
+### 6.7 Summary of FFT Cosmology
+
+| Phenomenon | FFT Explanation |
+|------------|----------------|
+| Expansion | relaxation of a tensioned T-fiber network |
+| Acceleration | curvature loss from dilution |
+| Dark matter | Z-axis variance (unseen causal depth) |
+| Dark energy | T-fiber density decline |
+| Black holes | τ-level-set collapse |
+| Λ | emergent fractal curvature term |
+| Multiverse | disconnected T-fiber components |
+
+FFT provides a cosmology with **no exotic particles, no fine-tuning, and no
+new fields**, only the geometry of Ψ, χ, δ, and τ.

@@ -132,7 +132,7 @@ Fixed-Field-Theory/
 ```
 
 
-## 🔷 Key Contributions (v1.2.4)
+## Key Contributions (v1.2.4)
 
 ### **1. Minimal Equation Set (FFT-1〜3)**
 
@@ -198,7 +198,7 @@ Representing the ability to **shrink Z-axis causal variance**.
 
 
 
-## 🔷 Documentation (v1.2.4)
+## Documentation (v1.2.4)
 
 - **Main document:** [docs/v1.2.4/FFT-v1.2.4.md](docs/v1.2.4/FFT-v1.2.4.md)
 - **Appendices:** [docs/v1.2.4/appendices/](docs/v1.2.4/appendices/)
@@ -207,7 +207,7 @@ Representing the ability to **shrink Z-axis causal variance**.
 
 
 
-## 🔷 Numerical Experiments
+## Numerical Experiments
 
 Located under `src/python/`:
 
@@ -220,7 +220,7 @@ Each script includes detailed headers.
 
 
 
-## 🔷 Citation
+## Citation
 
 If you use FFT in academic work, please cite:
 
@@ -235,13 +235,13 @@ If you use FFT in academic work, please cite:
 
 
 
-## 🔷 License
+## License
 
 MIT License.
 
 
 
-## 🔷 Contributing
+## Contributing
 
 Pull requests are welcome.
 Please review CONTRIBUTING.md before contributing.

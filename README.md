@@ -1,95 +1,147 @@
+README
+
 # 🌌 Fixed-Field Theory (FFT)
-*A unified geometric field theory for quantum mechanics, cosmology, and consciousness*
+*A unified geometric field theory connecting quantum mechanics, cosmology, and perception.*
 
----
 
-## 🔷 Overview
 
-**Fixed-Field Theory (FFT)** proposes that all observable physical and cognitive phenomena emerge from the geometry of a **fractal time-like field**—the **T-fiber**—and its two complementary waves:
+## Overview
 
-- **T-wave** — continuous, propagating field  
-- **C-wave** — discrete, receptor-dependent field (measurement carrier)
+**Fixed-Field Theory (FFT)** proposes that physical, cognitive, and cosmological
+phenomena all emerge from a single geometric substrate:  
+the **T-fiber**, a continuous fractal causal field, together with two interacting modes:
 
-FFT introduces a single unifying interaction:
+- **T-wave** — continuous, propagating causal flow  
+- **C-wave** — discrete, receptor-dependent conceptual interference  
+
+FFT introduces a unifying interaction:
 
 $$
-\chi\delta \quad (\text{entangle–expand})
+\chi \delta \quad (\text{entangle–expand})
 $$
 
-which mathematically encodes the classical Buddhist principle:
+This reflects the classical Buddhist identity:
 
-> **色即是空・空即是色** (Form is emptiness; emptiness is form)
+> **色即是空・空即是色** (“Form is emptiness; emptiness is form.”)
 
-Using this, FFT provides geometric derivations of:
+From this geometric mechanism, FFT derives:
 
 - Planck constant  
 - Newtonian gravitational constant  
 - Cosmological constant λ  
-- Quantum entanglement & measurement collapse  
-- Decoherence  
-- Perception & consciousness  
+- Quantum entanglement, collapse, and decoherence  
+- Perception geometry (2.5D projection)  
 - Dark matter / dark energy  
-- Spherical geometry of observation  
+- Temporal emergence (τ-time)  
 
 All **without introducing new particles**.
 
----
 
-### 🔷 Key Contributions in v1.2.2
 
-#### **1. Minimal Equation Set**
-FFT is built upon three core equations (FFT-1 to FFT-3):
+## ⚠️ Interpretation Notes (Important)
 
-- **FFT-1** — Nonlinear fractal fixed-field equation  
-- **FFT-2** — Information density flow & fractal current  
-- **FFT-3** — C-wave dynamics on the XY-plane
+FFT introduces several unconventional concepts that should not be interpreted literally.
+The following clarifications prevent common misunderstandings and define the intended
+mathematical meaning.
 
-These constitute the theoretical foundation.
+### 1. “Zero-dimensional origin”
+FFT does **not** claim the universe is physically 0D.  
+This refers to an *unexpanded informational basepoint*—a mathematical origin from which
+the T-fiber fractal geometry unfolds.  
+It is a **topological basepoint**, not a spatial location.
 
----
+### 2. “The world is 2D”
+Physical space is **not** two-dimensional.  
+FFT states:
 
-#### **2. Geometric Origin of Quantum Mechanics**
+- Physical reality evolves in 3D within the T-fiber field  
+- Perception arises as a **2.5D projection**  
+  - XY-plane: instantaneous visual surface  
+  - Z-axis: causal delay (past-depth)  
 
-FFT shows:
+This explains spherical appearance, depth perception, and perspective geometry.
 
-- density operator arises as
- 
+### 3. “Everything is wave”
+This is not metaphysics.  
+FFT expresses all observable structures as **solutions of PDEs** involving:
+
+- T-wave = continuous causal field  
+- C-wave = measurement/conceptual field  
+
+No mystical “energy waves” or new particles are introduced.
+
+### 4. “Time is solid”
+“Solid” refers to **phase alignment stability** along τ (emergent time).  
+It does **not** imply crystallization.
+
+- T-fiber is **not a lattice**  
+- It is a **continuous, fractal causal field**  
+- Local phase fixation gives the *appearance* of temporal solidity
+
+This describes stability of causal stacking, not physical solidity.
+
+### 5. “Matter is fluid”
+Matter is described as **information-density flow** arising from ψ-gradients
+and TC-wave interference.  
+It is not a literal fluid; it behaves as a **continuity solution** in FFT.
+
+### 6. “Reality emerges from TC-wave”
+This means observable structure is encoded via interacting continuous (T) and
+discrete (C) modes.  
+It does not imply simulation hypotheses or idealist metaphysics.
+
+Readers should understand these clarifications before interpreting FFT concepts.
+
+
+
+## 🔷 Key Contributions (v1.2.4)
+
+### **1. Minimal Equation Set (FFT-1〜3)**
+
+- **FFT-1:** Nonlinear fractal fixed-field equation  
+- **FFT-2:** Information-flow equation with fractal currents  
+- **FFT-3:** C-wave projected dynamics (XY-plane observer equation)  
+
+These three equations constitute the mathematical backbone of FFT.
+
+### **2. Geometric Origin of Quantum Mechanics**
+
+FFT demonstrates:
+
+- Density operator:
+
 $$
 \rho_{\mathrm{QM}} = \mathcal{G}[C] = f^\dagger f
 $$
 
-- entanglement = Z-axis misalignment  
-- teleportation = Z-axis realignment  
-- collapse = minimization of Z-variance  
+- Entanglement = Z-axis misalignment  
+- Teleportation = Z-axis realignment  
+- Collapse = minimization of Z-variance  
 
-Low-energy limit yields the standard uncertainty relation:
-
-$$
-\Delta x\, \Delta p \ge \frac{\hbar}{2}
-$$
-
-via the geometric constraint:
+Low-energy limit reduces to:
 
 $$
-\Delta_Z \cdot \Delta_{XY} \ge \text{const.}
+\Delta x \, \Delta p \ge \frac{\hbar}{2}
 $$
 
----
+### **3. Cosmology Without New Particles**
 
-#### **3. Cosmology Without New Particles**
+FFT provides geometric explanations for:
 
-FFT derives:
+- Dark matter → suppressed T-fiber tension  
+- Dark energy → global relaxation of T-fiber curvature  
+- Cosmological constant λ → χδ-driven drift term  
+- Expansion → “wire-bundle divergence”（針金実験の幾何対応）
 
-- **dark matter** as regions of suppressed T-fiber tension  
-- **dark energy** as global relaxation of T-fiber curvature  
-- **λ** from fractal drift and χδ-interaction  
-- universe expansion as **wire-bundle divergence** (針金実験の幾何学類似)
+### **4. Perception, Consciousness, Free Will**
 
----
+Perception is constructed from:
 
-#### **4. Perception, Consciousness, Free Will**
+- XZ-plane wave  
+- YZ-plane wave  
+- Z = causal delay (past-depth layer)
 
-Observation = fusion of **XZ-plane wave + YZ-plane wave**, with Z carrying **past delay**.
+Thus human observation is **2.5-dimensional**.
 
 Consciousness:
 
@@ -104,98 +156,33 @@ $$
 = \arg\min_{\rho \in \mathcal{G}[C]} \mathrm{Var}_Z(\rho)
 $$
 
----
+Representing the ability to **shrink Z-axis causal variance**.
 
-#### **5. Predictive Power**
 
-FFT yields testable predictions:
 
-- measurable C-wave frequencies  
-- λ estimation from τ-geometry  
-- entanglement = Z-axis misalignment  
-- decoherence rate predicted by T-fiber turbulence  
+## 🔷 Documentation (v1.2.4)
 
----
+- **Main document:** [docs/v1.2.4/FFT-v1.2.4.md](docs/v1.2.4/FFT-v1.2.4.md)
+- **Appendices:** [docs/v1.2.4/appendices/](docs/v1.2.4/appendices/)
+- **Equations:** [docs/v1.2.4/equations/](docs/v1.2.4/equations/)
+- **Figures:** [docs/v1.2.4/figures/](docs/v1.2.4/figures/) 
 
-### 📁 Repository Structure
 
-```text
-Fixed-Field-Theory/
-│
-├── README.md
-├── LICENSE
-├── CHANGELOG.md
-├── .gitignore
-│
-├── docs/
-│   ├── v1.2.2/
-│   │   ├── FFT-v1.2.2.md
-│   │   ├── figures/
-│   │   │   ├── t-wave.png
-│   │   │   ├── c-wave.png
-│   │   │   ├── tau-geometry.png
-│   │   │   ├── z-projection.png
-│   │   │   └── uncertainty.png
-│   │   ├── equations/
-│   │   │   ├── FFT-1.tex
-│   │   │   ├── FFT-2.tex
-│   │   │   ├── FFT-3.tex
-│   │   │   ├── Lambda-derivation.tex
-│   │   │   └── density-matrix.tex
-│   │   └── appendices/
-│   │       ├── Z1-Twave-vs-Cwave.md
-│   │       ├── Z2-human-observation.md
-│   │       ├── Z3-z-fourier.md
-│   │       ├── Z4-QFT-connection.md
-│   │       ├── Z5-GR-connection.md
-│   │       ├── Z6-chdelta.md
-│   │       ├── Z18-observables.md
-│   │       └── Z37B-spherical-universe.md
-│   └── drafts/
-│       ├── v1.2.1-draft.md
-│       ├── v1.2.2-pre.md
-│       └── notes.txt
-│
-├── src/
-│   ├── python/
-│   │   ├── simulate_twave.py
-│   │   ├── cwave_projection.py
-│   │   ├── z_fourier_transform.py
-│   │   └── lambda_estimator.py
-│   └── latex/
-│       ├── FFT-paper.tex
-│       ├── sections/
-│       └── figures/
-│
-└── tools/
-    ├── build_pdf.sh
-    ├── generate_equations.py
-    └── validate_refs.py
-```
 
----
+## 🔷 Numerical Experiments
 
-### 🔷 Documentation (v1.2.2)
-
-- **Main document:** [docs/v1.2.2/FFT-v1.2.2.md](docs/v1.2.2/FFT-v1.2.2.md)
-- **Appendices:** [docs/v1.2.2/appendices/](docs/v1.2.2/appendices/)
-- **Figures:** [docs/v1.2.2/figures/](docs/v1.2.2/figures/)
-- **Equations (LaTeX):** [docs/v1.2.2/equations/](docs/v1.2.2/equations/)
-
----
-
-### 🔷 Numerical Experiments
-
-`src/python/` includes:
+Located under `src/python/`:
 
 - `simulate_twave.py` — T-wave simulation  
-- `cwave_projection.py` — C-wave projection algorithm  
-- `z_fourier_transform.py` — Z-axis Fourier decomposition  
-- `lambda_estimator.py` — estimation of cosmological constant λ  
+- `cwave_projection.py` — observer-side C-wave dynamics  
+- `z_fourier_transform.py` — Z-axis depth decomposition  
+- `lambda_estimator.py` — cosmological constant estimator  
 
----
+Each script includes detailed headers.
 
-### 🔷 Citation
+
+
+## 🔷 Citation
 
 If you use FFT in academic work, please cite:
 
@@ -208,15 +195,17 @@ If you use FFT in academic work, please cite:
 }
 ```
 
----
 
-### 🔷 License
+
+## 🔷 License
 
 MIT License.
 
----
 
-### 🔷 Contributing
+
+## 🔷 Contributing
 
 Pull requests are welcome.
 Please review CONTRIBUTING.md before contributing.
+
+

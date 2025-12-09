@@ -94,6 +94,44 @@ Readers should understand these clarifications before interpreting FFT concepts.
 
 
 
+## 📁 Repository Structure
+
+The FFT repository is organized into clear layers separating
+theory, documentation, equations, numerical experiments, and tools.
+
+``` Repositry Structure
+Fixed-Field-Theory/
+│
+├── docs/
+│   └── v1.2.4/
+│       ├── FFT-v1.2.4.md          # Main document
+│       ├── equations/             # FFT-1/2/3 and derived equations
+│       ├── appendices/            # Z-series (Z1–Z37B)
+│       ├── figures/               # Diagrams and geometry illustrations
+│       └── notes/                 # Research notes and drafts
+│
+├── src/
+│   ├── python/
+│   │   ├── simulate_twave.py      # T-wave simulation
+│   │   ├── cwave_projection.py    # Observer-side C-wave simulation
+│   │   ├── z_fourier_transform.py # Z-axis depth decomposition
+│   │   ├── lambda_estimator.py    # Λ-estimation scripts
+│   │   └── common/                # Shared utilities
+│   │
+│   └── latex/
+│       └── fft-paper.tex          # Academic paper (arXiv-ready)
+│
+├── tools/
+│   ├── build_pdf.sh               # Build script for LaTeX documents
+│   └── validate_equations.py      # Consistency checker
+│
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+└── .gitignore
+```
+
+
 ## 🔷 Key Contributions (v1.2.4)
 
 ### **1. Minimal Equation Set (FFT-1〜3)**

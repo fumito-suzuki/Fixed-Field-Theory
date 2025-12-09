@@ -355,37 +355,41 @@ We have introduced:
 
 This geometric structure forms the backbone from which all later physics will emerge.
 
-## 3. Minimal Dynamics of the Fixed Field
+# 3. Minimal Dynamics of the Fixed Field
 
-Fixed-Field Theory (FFT) is governed by a minimal set of three coupled dynamical equations describing the evolution of:
-- the T-fiber field \Psi (causal substrate),
-- the information density \rho,
-- the C-wave field C (observer-dependent projection).
+Fixed-Field Theory (FFT) is governed by a minimal set of three coupled dynamical
+equations describing the evolution of:
 
-These equations form a closed dynamical loop:
+- the **T-fiber field** \(\Psi\),
+- the **information density** \(\rho\),
+- the **C-wave field** \(C\).
 
-$$
-C \;\rightarrow\; \delta \;\rightarrow\; \psi \;\rightarrow\; \rho
-\;\rightarrow\; \chi \;\rightarrow\; \Psi \;\rightarrow\; C.
-$$
+These equations form a **closed dynamical loop**:
 
-This loop expresses the core idea of FFT:
-observation, information, and causal geometry mutually generate one another.
+\[
+C \rightarrow \delta \rightarrow \psi \rightarrow \rho 
+\rightarrow \chi \rightarrow \Psi \rightarrow C.
+\]
 
-⸻
+This loop expresses the core idea of FFT:  
+**observation, information, and causal geometry mutually generate one another.**
 
-### 3.1 FFT-1 — Nonlinear Fractal Fixed-Field Equation
+---
 
-The fundamental dynamical equation for the T-fiber field $\Psi$ is:
+## 3.1 FFT-1 — Nonlinear Fractal Fixed-Field Equation
 
-$\boxed{
+The fundamental dynamical equation for the T-fiber field \(\Psi\) is:
+
+\[
+\boxed{
 \hat{\mathcal{S}}_{\mathrm{FFT}} \Psi = 0
 }
-\tag{FFT-1}$
+\tag{FFT-1}
+\]
 
-The operator $\hat{\mathcal{S}}_{\mathrm{FFT}}$ is defined as:
+The operator \(\hat{\mathcal{S}}_{\mathrm{FFT}}\) is defined as:
 
-$$
+\[
 \hat{\mathcal{S}}_{\mathrm{FFT}}
 =
 i\hbar \partial_t
@@ -399,79 +403,83 @@ c_1 \partial_z + c_2 \partial_\theta + c_3 \partial_{\log r}
 - \left(
 V + \mathcal{N}[\Psi;\rho,C] + \mathcal{J}[\rho,C]
 \right).
-$$
+\]
 
+### Interpretation of Terms
 
-Interpretation of Terms
+| Term | Meaning |
+|------|---------|
+| \(i\hbar\partial_t\) | phase-time evolution of the T-fiber |
+| \(\Delta\) | standard spatial dispersion |
+| \(\Delta^D\) | fractal dispersion (T-fiber self-similarity) |
+| drift terms | geometric rearrangement driven by \(\chi, \delta\) |
+| \(V\) | potential or geometric background |
+| \(\mathcal{N}\) | nonlinear self-organization via \(\psi\) |
+| \(\mathcal{J}\) | information-response term from \(C\) and \(\rho\) |
 
-Term	Meaning
-i\hbar\partial_t	phase-time evolution of the T-fiber
-\Delta	standard spatial dispersion
-\Delta^D	fractal dispersion (T-fiber self-similarity)
-drift terms	geometric rearrangement driven by \chi, \delta
-V	potential or geometric background
-\mathcal{N}	nonlinear self-organization via \psi
-\mathcal{J}	information-response term from C and \rho
+FFT-1 is not a quantum wave equation on spacetime.  
+It is a **self-organizing field equation for spacetime’s causal substrate**.
 
-Unlike the Schrödinger equation, FFT-1 is not a wave equation on spacetime.
-It is a self-organizing field equation for spacetime’s causal substrate.
+---
 
-⸻
+## 3.2 FFT-2 — Information-Density Continuity Equation
 
-3.2 FFT-2 — Information-Density Continuity Equation
+Information density \(\rho\) evolves according to:
 
-Information density \rho evolves according to:
-
+\[
 \boxed{
 \partial_t \rho + \nabla \cdot \mathbf{J} + \mathcal{S}_\rho = 0
 }
 \tag{FFT-2}
+\]
 
-where the information current \mathbf{J} consists of:
+where the information current \(\mathbf{J}\) consists of:
 
+\[
 \mathbf{J}
 =
-\underbrace{\frac{\hbar}{2mi}
+\frac{\hbar}{2mi}
 \left(
 \Psi^\*\nabla\Psi - \Psi\nabla\Psi^\*
-\right)}_{\text{standard quantum current } \mathbf{J}^{(\mathrm{std})}}
+\right)
 +
-\underbrace{
 \frac{\hbar}{2mi}\,
 \ell_D^{\,2-D}
 \left(
 \Psi^\*\nabla^{D}\Psi - \Psi\nabla^{D}\Psi^\*
 \right)
-}_{\text{fractal current } \mathbf{J}^{(D)}}
 +
-\underbrace{
-\rho\,\mathbf{v}_{\mathrm{geo}}
-}_{\text{geometric drift current}}.
+\rho\,\mathbf{v}_{\mathrm{geo}}.
+\]
 
 The source term:
 
+\[
 \mathcal{S}_\rho
 =
 \frac{2}{\hbar}\,
 \Im\big[
 \Psi^\*(\mathcal{N}+\mathcal{J})\Psi
 \big].
+\]
 
-Physical Meaning
-	•	\mathcal{S}_\rho > 0: self-amplification (structure formation)
-	•	\mathcal{S}_\rho < 0: dissipation
-	•	fractal currents encode the non-integer dimensional flow of information
-	•	geometric drift reflects changes driven by \chi and \delta
+### Physical Meaning
 
-In FFT, mass is a derived phenomenon, emerging from \rho under specific limits.
+- \(\mathcal{S}_\rho > 0\): self-amplification (structure formation)  
+- \(\mathcal{S}_\rho < 0\): dissipation  
+- fractal currents encode non-integer dimensional flow  
+- geometric drift reflects changes driven by \(\chi\) and \(\delta\)
 
-⸻
+In FFT, **mass is a derived phenomenon**, emerging from \(\rho\) under specific limits.
 
-3.3 FFT-3 — Projected C-wave Dynamics (Observer Equation)
+---
 
-Observation arises from the XY-plane projection of T-fiber dynamics.
+## 3.3 FFT-3 — Projected C-wave Dynamics (Observer Equation)
+
+Observation arises from the XY-plane projection of T-fiber dynamics.  
 The C-wave evolves according to:
 
+\[
 \boxed{
 i\hbar \partial_t C
 =
@@ -481,47 +489,49 @@ i\hbar \partial_t C
 \big]
 }
 \tag{FFT-3}
+\]
 
-where \Pi_{XY} is the projection operator removing Z-depth and extracting the observable component.
+where \(\Pi_{XY}\) removes Z-depth and extracts the observable component.
 
-Interpretation
-	•	C is the observer’s accessible field, not the full T-fiber.
-	•	Collapse occurs when C reaches a fixed point under FFT-3.
-	•	Decoherence corresponds to unbounded growth of Z-axis variance in \Psi.
-	•	2.5D perception arises because observers only access \Pi_{XY}(\Psi),
-not its Z-structure.
+### Interpretation
 
-Thus, FFT-3 formalizes measurement as a geometric projection,
-not a stochastic process or external postulate.
+- \(C\) is the **observer’s accessible field**, not the full T-fiber.  
+- Collapse occurs when \(C\) becomes a fixed point of FFT-3.  
+- Decoherence corresponds to unbounded growth of Z-axis variance in \(\Psi\).  
+- 2.5D perception arises because observers access only \(\Pi_{XY}(\Psi)\),  
+  not its Z-structure.
 
-⸻
+---
 
-3.4 Interdependence of FFT-1, FFT-2, FFT-3 (Closed Loop)
+## 3.4 Interdependence of FFT-1, FFT-2, FFT-3 (Closed Loop)
 
 The three equations form a mutually reinforcing cycle:
-	1.	C-wave determines interference density \delta.
-	2.	Together with \chi, this yields the information gradient \psi = \chi\delta.
-	3.	ψ drives changes in information density ρ (FFT-2).
-	4.	ρ alters T-fiber geometry (FFT-1).
-	5.	T-fiber geometry determines the future evolution of C-wave (FFT-3).
 
-This loop establishes self-organizing causality.
-No external measurement postulate or hidden variable is required.
+1. **C-wave** determines interference density \(\delta\).  
+2. With \(\chi\), this yields the information gradient \(\psi = \chi\delta\).  
+3. \(\psi\) drives changes in **information density** \(\rho\) (FFT-2).  
+4. \(\rho\) alters **T-fiber geometry** (FFT-1).  
+5. T-fiber geometry determines the evolution of **C-wave** (FFT-3).
 
-⸻
+This establishes **self-organizing causality** without requiring  
+external measurement postulates.
 
-3.5 Summary of Minimal Dynamics
+---
 
-Equation	Governs	Role in FFT
-FFT-1	\Psi	causal geometry & fractal dynamics of the T-fiber
-FFT-2	\rho	information flow, precursor to physical mass
-FFT-3	C	observer-side projection, measurement, 2.5D perception
+## 3.5 Summary
 
-These equations jointly describe:
-	•	structure formation
-	•	quantum phenomena
-	•	perception
-	•	cosmological behavior
-	•	consciousness and free will (in later sections)
+| Equation | Governs | Role |
+|---------|---------|------|
+| **FFT-1** | \(\Psi\) | causal geometry & fractal dynamics |
+| **FFT-2** | \(\rho\) | information flow & mass precursor |
+| **FFT-3** | \(C\) | observer projection & measurement |
 
-They constitute the mathematical backbone of FFT.
+Together they describe:
+
+- structure formation  
+- quantum behavior  
+- perceptual geometry  
+- cosmological dynamics  
+- consciousness and free will (later sections)
+
+They form the mathematical backbone of FFT.

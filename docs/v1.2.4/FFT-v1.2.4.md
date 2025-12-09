@@ -385,7 +385,22 @@ $\boxed{
 
 The operator $\hat{\mathcal{S}}_{\mathrm{FFT}}$ is defined as:
 
-$\hat{\mathcal{S}}_{\mathrm{FFT}} = i\hbar \partial_t + \frac{\hbar^2}{2m}\left(\Delta + \ell_D^{\,2-D}\,\Delta^D\right) - \hbar\left(c_1 \partial_z + c_2 \partial_\theta + c_3 \partial_{\log r}\right) - \left(V + \mathcal{N}[\Psi;\rho,C] + \mathcal{J}[\rho,C]\right).$
+$$
+\hat{\mathcal{S}}_{\mathrm{FFT}}
+=
+i\hbar \partial_t
++ \frac{\hbar^2}{2m}
+\left(
+\Delta + \ell_D^{\,2-D}\,\Delta^D
+\right)
+- \hbar\left(
+c_1 \partial_z + c_2 \partial_\theta + c_3 \partial_{\log r}
+\right)
+- \left(
+V + \mathcal{N}[\Psi;\rho,C] + \mathcal{J}[\rho,C]
+\right).
+$$
+
 
 Interpretation of Terms
 

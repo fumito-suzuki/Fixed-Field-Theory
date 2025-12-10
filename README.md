@@ -3,7 +3,7 @@ README
 # 🌌 Fixed-Field Theory (FFT)
 *A unified geometric field theory connecting quantum mechanics, cosmology, and perception.*
 
-
+FFT is a unified geometric framework; physics emerges as its special limit.
 
 ## Overview
 

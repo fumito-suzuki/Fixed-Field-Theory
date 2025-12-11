@@ -1,13 +1,23 @@
-# Appendix Z+0  
-## The χδ Principle — Foundational Axiom of Fixed-Field Theory  
-### (Complete Mathematical Specification of Curvature–Interference Geometry)
+# Appendix Z+0 — The χδ Principle  
+*(Fixed-Field Theory v1.2.x Supplemental Material)*  
 
-This appendix establishes the **core axiom** of Fixed-Field Theory (FFT):  
-the χδ principle. It provides a fully formal mathematical foundation
-incorporating functional analysis, operator theory, geometric scaling, and
-variational structure.
+## 1. Purpose and Scope  
+This appendix presents the **foundational axiom** of Fixed-Field Theory:  
+the χδ principle, from which all other structures — ψ, C-wave, T-fiber geometry,
+curvature, perception, cosmology, and the Sora Equation — are generated.
 
-At the heart of FFT is the statement:
+It establishes:
+
+- operator definitions of χ and δ,  
+- their algebra and scaling relations,  
+- the construction of ψ as appearance geometry (not a physical wave),  
+- vacuum classification,  
+- and the variational backbone used in Appendix C and FFT-1–3.
+
+---
+
+## 2. Background (χδ–ψ Framework)  
+FFT begins with the operator identity:
 
 \[
 \boxed{\psi = \chi\delta}
@@ -15,257 +25,188 @@ At the heart of FFT is the statement:
 
 where:
 
-- **χ** encodes **causal curvature** along the Z-axis,
-- **δ** encodes **interference structure** in the XY-plane,
-- **ψ** is the **generator field** from which all geometry and dynamics arise.
+- **χ** — causal curvature operator acting along Z (depth / τ-direction)  
+- **δ** — interference operator acting in XY (delayed-plane geometry)  
+- **ψ** — appearance field reconstructed from χδ (not a physical wave)  
 
-This operator identity is the mathematical translation of:
+This expresses the FFT interpretation of:
 
 > 色即是空・空即是色  
-> *“Form is emptiness; emptiness is form.”*
+> *Form is emptiness; emptiness is form.*
 
-Everything in FFT—from T-fiber geometry, to the Sora Equation, to cosmology,
-to perception, to consciousness—emerges from this single axiom.
+All observables (C-wave), all dynamics (Sora Equation), and all geometry (T-wave)
+arise from this single axiom.
 
 ---
 
-# Z+0.1 Functional Framework (Spaces of Fields)
+## 3. Main Derivation / Model  
 
-To ensure rigorous operator action, define the function spaces:
+### 3.1 Functional Framework  
+Fields live in the following spaces:
 
-- **T-fiber field**  
+- T-fiber:  
   \[
   \Psi(x,y,z,t) \in L^2(\mathbb{R}^3)
   \]
-- **Interference/observable field (C-wave)**  
+- Observable C-wave (delayed-plane projection):  
   \[
   C(x,y,t) \in L^2(\mathbb{R}^2)
   \]
-- **Information density**  
+- Information density:  
   \[
-  \rho(x,y,z,t) \in L^1(\mathbb{R}^3) \cap L^2(\mathbb{R}^3)
+  \rho \in L^1 \cap L^2
   \]
 
-Operators will be defined so that:
+Operators:
 
 \[
-\chi, \delta : L^2(\mathbb{R}^3) \rightarrow L^2(\mathbb{R}^3)
+\chi,\;\delta : L^2(\mathbb{R}^3) \to L^2(\mathbb{R}^3)
 \]
 
-are bounded (or closable) linear operators under physically realistic kernels.
-
-This provides the functional backbone for all later constructions (FFT-1–3,
-Appendix Z+18, GR derivation, etc.).
+are assumed closable and densely defined.
 
 ---
 
-# Z+0.2 Definition of χ (Causal Curvature Operator)
-
-The operator χ acts along the Z-direction:
+### 3.2 Definition of χ（Causal Curvature）  
 
 \[
-(\chi\Psi)(x,y,z,t) = 
-\alpha_z(x,y,z,t)\,\partial_z\Psi 
-+ \alpha_0(x,y,z,t)\,\Psi.
+(\chi\Psi)(x,y,z,t)
+=
+\alpha_z\,\partial_z\Psi
++
+\alpha_0\,\Psi.
 \]
 
 Properties:
 
-1. **Z-axis locality:**  
-   χ acts only through Z-differentiation or Z-weighting.
-
-2. **Curvature interpretation:**  
-   χ measures variations in causal-depth (T-fiber thickness).
-
-3. **Positive curvature sector:**  
-   \[
-   \langle \Psi, \chi\Psi \rangle \ge 0.
-   \]
-
-A singular χ (e.g., diverging α_z) produces unobservable curvature—identified
-with *dark-matter-like vacuum* (Z+6).
+- curvature acts along Z → τ-depth  
+- positive sector corresponds to observable curvature  
+- singular χ corresponds to dark-curvature residuals  
 
 ---
 
-# Z+0.3 Definition of δ (Interference Operator)
-
-The operator δ acts within the XY-plane:
+### 3.3 Definition of δ（Interference Operator）  
 
 \[
 \delta
 =
 \beta_{xy}\nabla_{xy}
 +
-\beta_{\theta}\partial_{\theta}
+\beta_{\theta}\partial_\theta
 +
-\beta_{r}\partial_{\log r}
+\beta_r\partial_{\log r}
 +
 \beta_0.
 \]
 
-Captures:
-
-- phase interference,
-- superposition,
-- rotational/spatial wave mixing,
-- spiral/scale transformations (log-r).
-
-A divergent δ produces transient interference without stabilized curvature—
-identified with *emptiness vacuum*.
+Captures planar interference, rotation, scale mixing, and log-r spirals.
+This operator acts on the delayed planes (XτZ / YτZ) used in FFT-3.
 
 ---
 
-# Z+0.4 Algebraic Definition of ψ
-
-The generator field is defined as the operator composition:
-
+### 3.4 Algebraic Definition of ψ  
 \[
-\boxed{\psi[\Psi] = (\chi\delta)[\Psi]}.
+\boxed{\psi[\Psi] = (\chi\delta)[\Psi]}
 \]
 
-Key algebraic structure:
+with:
 
-- **Non-commutativity:**  
-  \[
-  [\chi,\delta] \neq 0.
-  \]
-- **Associativity on Ψ:**  
-  ensures well-defined evolution.
-- **Positive ψ-curvature:**  
-  \[
-  \rho_T \propto \|\nabla(\psi)\|^2 \ge 0.
-  \]
-
-This is the algebraic statement of **form emerging from coupled curvature and
-interference**.
+- **non-commutativity:** \([ \chi , \delta ] \neq 0\)  
+- **positivity:** \( \rho_T \propto \|\nabla\psi\|^2 \ge 0 \)  
+- **geometric interpretation:** ψ is not a wave but an *appearance field*  
 
 ---
 
-# Z+0.5 Scaling Law of χ, δ, ψ (Fractal Geometry)
+## 4. Relation to χδ Geometry  
 
-FFT requires scale covariance:
+### 4.1 Scaling Law  
+Define scaling exponents:
 
 \[
-\chi_\lambda = \lambda^{a}\chi, \qquad
+\chi_\lambda = \lambda^{a}\chi,\qquad
 \delta_\lambda = \lambda^{b}\delta.
 \]
 
-Thus:
+Then:
 
 \[
 \psi_\lambda = \lambda^{a+b}\psi.
 \]
 
-This identifies:
+Thus:
 
-- **a** = Z-axis scaling exponent,  
-- **b** = XY-plane fractal interference exponent,  
-- **D = a + b** = effective fractal dimension (used in cosmology and Λ-derivation).
+\[
+\boxed{D = a + b}
+\]
 
-This scaling law is essential for Appendix Z+7 (dark energy) and Z+21 (GR).
+is the effective fractal dimension used in:
+
+- fractal Laplacian Δᴰ (Appendix B)  
+- cosmological constant scaling (Appendix Z+7)  
+- structure formation  
 
 ---
 
-# Z+0.6 Degenerate Vacua of χδ
+### 4.2 Vacuum Classification  
 
-The χδ algebra has three degenerate vacuum sectors.
-
-### 1. Trivial vacuum
-\[
-\chi = 0,\quad \delta = 0 \Rightarrow \psi = 0.
-\]
-
-### 2. χ-vacuum (curvature-only)
-\[
-\chi \neq 0,\quad \delta = 0 \Rightarrow 
-\psi = 0,\quad \mathcal{K}_{ij}^{(\chi)} \neq 0.
-\]
-
-→ Dark-matter-like: curvature exists but is unobserved.
-
-### 3. δ-vacuum (interference-only)
-\[
-\chi = 0,\quad \delta \neq 0 \Rightarrow \psi = 0.
-\]
-
-→ Transient emptiness.
-
-### 4. Physical vacuum
-\[
-\chi \neq 0,\quad \delta \neq 0 \Rightarrow \psi \neq 0.
-\]
-
-→ Observable universe.
+| Sector | Condition | Interpretation |
+|--------|-----------|----------------|
+| Trivial | χ=0, δ=0 | ψ=0 |
+| χ-vacuum | χ≠0, δ=0 | dark curvature（unobserved） |
+| δ-vacuum | χ=0, δ≠0 | transient interference |
+| Physical vacuum | χ≠0, δ≠0 | ψ>0 → observable universe |
 
 ---
 
-# Z+0.7 χδ and the Variational Principle (Action)
+## 5. Implications for Main Sections  
 
-FFT dynamics emerge from the **action**:
+### Section 1–2  
+- χδ defines the operators entering FFT-1 / FFT-2 / FFT-3.  
+- Establishes ψ as computed appearance (not fundamental matter).
 
-\[
-\mathcal{A}[\psi] 
-=
-\int 
-\left(
-\frac{1}{2}|\nabla\psi|^2
-+
-V(\psi)
-+
-\mathcal{N}[\psi]
-\right)
-dV dt.
-\]
+### Section 3 (Irreversibility)  
+- ψ-curvature generates τ-depth and ΔZ behavior.  
 
-Core postulate:
+### Section 4 (Perception)  
+- δ governs contrast/interference of C-wave (XτZ / YτZ projection).  
 
-\[
-\boxed{
-\delta \mathcal{A}[\psi] = 0
-\quad\text{with}\quad
-\psi = \chi\delta.
-}
-\]
+### Section 5 (Quantum)  
+- Small χδ curvature recovers Heisenberg-like relations.
 
-This yields:
+### Section 6 (Cosmology)  
+- D = a+b directly controls Λ and dark-curvature sectors.
 
-- Sora Equation  
-- FFT-1 (main operator equation)  
-- Nonlinear ψ-evolution terms (κ‖∇ψ‖²)  
-
-Thus FFT is a **variational theory**, like GR or QFT.
+### Section 7 (Consciousness)  
+- ψ stability determines χ-band reconstruction via G-operator.  
 
 ---
 
-# Z+0.8 Relation to Observable Geometry
+## 6. Link to Open Problems (Section 8)
 
-Because ψ = χδ:
+This appendix underpins:
 
-- C-wave is generated via projection: \( C = f(\Psi) \).
-- Observable world is the 2D interference of ψ.
-- Perception reconstructs hidden Z-structure using G = f†f.
-
-This makes χδ the bridge between **causal geometry** and **observable geometry**.
+- **8.1** — projection operator f（χδ geometry defines domain）  
+- **8.2** — G-operator（Z-structure reconstruction）  
+- **8.5** — Λ-derivation（D-scaling）  
+- **8.6** — dark curvature sector  
+- **8.10** — χ-selection in consciousness geometry  
 
 ---
 
-# Z+0.9 Summary (Axiom)
+## 7. Summary  
 
 \[
-\boxed{
-\psi = \chi\delta
-}
+\boxed{\psi = \chi\delta}
 \]
 
 with:
 
-- χ: Z-axis curvature operator  
-- δ: XY-plane interference operator  
-- ψ: generator field  
-- Scaling: ψ_\lambda = λ^{a+b} ψ  
-- Variational condition: δA[ψ] = 0  
-- Vacua classify physical / dark / transient sectors  
-- χδ → all FFT equations
+- χ: Z-axis causal curvature  
+- δ: XY delayed-plane interference  
+- ψ: appearance field（not a wave）  
+- Scaling: D = a + b  
+- Variational principle: \( \delta\mathcal{A}[\psi]=0 \)  
+- Defines all vacua, all dynamics, all perceptual geometry  
 
-> **The χδ principle is the single foundational axiom from which
-> all structure, dynamics, perception, and cosmology in FFT emerge.**
+> **The χδ principle is the single generative law from which  
+> Fixed-Field Theory derives its entire structure.**

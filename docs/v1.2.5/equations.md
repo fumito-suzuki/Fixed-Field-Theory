@@ -1,14 +1,14 @@
-# FFT Equations — Master Reference  
-This document collects the core equations of Fixed-Field Theory (FFT), including  
-the three foundational field equations (FFT-1/2/3) and all essential derived  
-relations used throughout the main manuscript and appendices.
+# FFT Equations — Master Reference (v1.2.5.1 Synced)
+This document collects the core equations of Fixed-Field Theory (FFT),
+synchronized with the main manuscript FFT v1.2.5.1.
+All notation, operators, and projection rules reflect the current definitions.
 
 ---
 
-# 1. FFT-1: The Fundamental Fixed-Field Equation
+# 1. FFT-1: The Fundamental Fixed-Field Equation (Updated)
 
 \[
-\hat{\mathcal{S}}_{\mathrm{FFT}}\Psi = 0
+\hat{\mathcal{S}}_{\mathrm{FFT}} \Psi = 0
 \tag{FFT-1}
 \]
 
@@ -18,20 +18,32 @@ with operator
 \hat{\mathcal{S}}_{\mathrm{FFT}}
 =
 i\hbar\partial_t
-+ D\Delta
-+ \ell_D^{\,2-D}\Delta^{D}
-- \hat{\Sigma}[\Psi;\rho,C].
-\tag{1.1}
++
+\frac{\hbar^2}{2m}
+\left(
+\Delta
++
+\ell_D^{\,2-D}\Delta^{D}
+\right)
+- V
+- \hbar\left(
+c_1\partial_z
++ c_2\partial_\theta
++ c_3\partial_{\log r}
+\right)
+- \mathcal{N}[\Psi;\rho]
+- \mathcal{J}[\rho,C].
+\tag{1.1-upd}
 \]
 
-### Parameter Notes
-- **D** — fractal dimension of diffusion  
-- **\(\ell_D\)** — scale parameter for fractal Laplacian  
-- **\(\hat{\Sigma}\)** — nonlinear backreaction term  
-- **\(\Psi\)** — full T-fiber field (complex)
+### Notes
+- **Ψ** — T-fiber (real causal field)  
+- **D** — effective fractal dimension  
+- **Fractal Laplacian Δ^D** applies to T-fiber membrane thickness  
+- Drift terms (∂z, ∂θ, ∂log r) encode gravitational whirl / cosmic flows  
+- **V**, **𝒩**, **𝒥** represent potential, self-interaction, and information backreaction  
 
-This is the master evolution law of FFT, reducing to the Schrödinger equation  
-when \(D=2\) and \(\hat{\Sigma}=V\Psi\).
+FFT-1 governs the **actual physical field Ψ**, not the observable ψ.
 
 ---
 
@@ -45,7 +57,7 @@ when \(D=2\) and \(\hat{\Sigma}=V\Psi\).
 \tag{FFT-2}
 \]
 
-where the current is
+Current:
 
 \[
 \mathbf{J}
@@ -61,60 +73,65 @@ where the current is
 \tag{2.1}
 \]
 
-The source/sink term:
+Source term:
 
 \[
 \mathcal{S}_\rho
 =
-\frac{2}{\hbar}\,
-\Im\big[\Psi^\*\hat{\Sigma}\Psi\big]
-=
-\frac{2}{\hbar}\,
-\Im\big[\Psi^\*(\mathcal{N}+\mathcal{J})\Psi\big].
+\frac{2}{\hbar}
+\Im[\Psi^\*(\mathcal{N}+\mathcal{J})\Psi].
 \tag{2.2}
 \]
 
-### Interpretation
-- **\(\rho\)** is information density, not probability.  
-- **J** contains three flows:
-  - standard quantum flow  
-  - fractal flow  
-  - geometric drift  
-- **\(\mathcal{S}_\rho\)** expresses creation/annihilation of information density by χδ interactions.
+### Updated Interpretation
+- **ρ is information density**, not probability.  
+- Three flows = quantum + fractal + geometric drift.  
+- Information is created/annihilated via χδ-related terms in **𝒩 + 𝒥**.
 
 ---
 
-# 3. FFT-3: C-wave Projection Equation
+# 3. FFT-3: C-wave Projection (Updated to Π_obs)
+
+C-wave is the receptor-dependent wave (light / EM / thermal / acoustic)
+arising when Ψ is projected onto **delayed planes XτZ, YτZ**, not merely XY.
 
 \[
 i\hbar \partial_t C
 =
-\Pi_{XY}
+\Pi_{\mathrm{obs}}
 \left[
 V\Psi
 + \mathcal{N}[\Psi;\rho,C]\Psi
 + \mathcal{J}[\rho,C]\Psi
-\right]
+\right].
 \tag{FFT-3}
 \]
 
-### Notes
-- **C** represents concept-wave / optical projection field.  
-- **\(\Pi_{XY}\)** extracts the XY interference plane of Ψ.  
-- C includes light, EM waves, IR, radio (all receptor-dependent waves).
+### Notes (Updated)
+- **Π_obs** = full projection kernel including  
+  - XY-plane interference  
+  - Z-depth → τ(Z) conversion  
+  - receptor-band filtering  
+- **C** = observable projection (2.5D):  
+  \[
+  C = \{X\tau Z,\;Y\tau Z\}.
+  \]
 
 ---
 
-# 4. Sora Equation (Derived Generator Evolution)
+# 4. Sora Equation (Updated)
 
-The generator field:
+The observable generator field:
 
 \[
 \psi = \chi\delta
 \tag{4.0}
 \]
 
-obeys the Sora evolution equation:
+**ψ is not a physical field** (not mass, not T-fiber).  
+It exists *only at the moment of observation* on the C-wave.
+
+Time evolution:
 
 \[
 \partial_t \psi
@@ -122,21 +139,19 @@ obeys the Sora evolution equation:
 \omega_0'
 + D\Delta\psi
 + \kappa\|\nabla\psi\|^2
-+ \xi .
++ \xi.
 \tag{4.1}
 \]
 
-### Parameters
-- \(\omega_0'\)：基準巻込み速度（原子時計周波数）  
-- \(D\)：情報的拡散  
-- \(\kappa\)：非線形増幅  
-- \(\xi\)：カラードノイズ  
-
-This expresses how causal curvature χ and interference δ recursively reinforce each other.
+### Updated Notes
+- ψ controls **appearance** (refraction, edges, heating, contrast).  
+- ψ **does not modify** the real field Ψ.  
+- χ = Z-depth gradient (τ-projection)  
+- δ = interference texture on XτZ/YτZ planes  
 
 ---
 
-# 5. T-wave Density Equation
+# 5. T-wave Density Evolution
 
 \[
 \partial_t \rho_T
@@ -149,34 +164,34 @@ This expresses how causal curvature χ and interference δ recursively reinforce
 \tag{5.1}
 \]
 
-- ρ_T：T-fiber（Z-axis causal strands）の密度  
-- β1：ψ-wave からの生成  
-- β2：C-wave 干渉からの生成  
-- γ：T-fiber 減衰（因果の散逸）
+- ρ_T = T-wave (uprising + whirl) density  
+- Generated by ψ-gradients and C-wave interference  
+- Decays by causal dissipation γ  
 
-This governs structure formation in both perception and cosmology.
+This equation links cosmology, structure formation, and perceptual edge formation.
 
 ---
 
 # 6. FFT Uncertainty Relations
 
-## 6.1 Geometric Uncertainty
+## 6.1 Geometric Uncertainty Relation
 
 \[
 \Delta_Z \cdot \Delta_{XY} \ge \Lambda_{\mathrm{geom}}.
 \tag{6.1}
 \]
 
-- ΔZ = Z-axis accumulation width (τ-lag)  
-- ΔXY = transverse interference width  
+- ΔZ = Z-depth width after τ-projection (τ-lag distribution)  
+- ΔXY = interference width on XτZ/YτZ planes  
 
-This arises from the projection \(\Pi_{XY}\circ\mathcal{G}\).
+Arises from non-invertibility of  
+\(\Pi_{\mathrm{obs}} \circ \mathcal{G}\).
 
 ---
 
-## 6.2 Low-Energy Reduction to Heisenberg
+## 6.2 Reduction to Heisenberg QM
 
-When ψ-gradients flatten:
+When χ and δ flatten:
 
 \[
 \Delta_Z \sim \frac{\Delta p}{m\omega_0'},
@@ -184,20 +199,17 @@ When ψ-gradients flatten:
 \Delta_{XY} \sim \Delta x,
 \]
 
-we obtain:
-
 \[
 \Delta x \cdot \Delta p
-\simeq
-\frac{\hbar}{2}.
+\simeq \frac{\hbar}{2}.
 \tag{6.2}
 \]
 
-Thus FFT reproduces standard QM in the low-energy, small-curvature limit.
+Thus QM appears as the **low-energy projection limit** of χδ-geometry.
 
 ---
 
-# 7. Fundamental Constants Derived from χδ Geometry
+# 7. Constants from χδ Geometry (Optional Theoretical Section)
 
 ## 7.1 Planck Constant
 
@@ -209,93 +221,110 @@ Thus FFT reproduces standard QM in the low-energy, small-curvature limit.
 \tag{7.1}
 \]
 
-- γ：Z-axis propagation constant  
-- \(M_F,L_F,T_F\)：FFT 基準スケール  
-- α_D：無次元定数  
-
----
-
 ## 7.2 Gravitational Constant
 
 \[
 G_{\mathrm{phys}}
 =
-c^{5}\,
-\frac{f(D,\gamma)}{K(D)\,|\gamma|^{D}\,\kappa^{2}}
+c^{5}
+\frac{f(D,\gamma)}{K(D)\,|\gamma|^{D}\,\kappa^{2}}.
 \tag{7.2}
 \]
 
-where \(K(D)\) is a geometric factor from curvature accumulation.
-
----
-
 ## 7.3 Cosmological Constant
-
-Λ arises from the average δ-drift:
 
 \[
 \Lambda
-\;\propto\;
+\propto
 \partial_t\langle \delta \rangle.
 \tag{7.3}
 \]
 
-This connects cosmic acceleration to concept-wave density drift.
-
 ---
 
-# 8. Observation and Consciousness Geometry
+# 8. Consciousness Geometry (Updated)
 
-## 8.1 Maximum-Entropy Z-extension
+## 8.1 Z-depth Reconstruction (G-operator)
 
 \[
 \mathcal{G}[C]
 =
-\arg\max_\rho
-S[\rho]
+\arg\max_\rho S[\rho]
 \quad
-\text{subject to}
-\quad
+\text{s.t.}\quad
 \int\rho\,dz=q(x,y),
 \tag{8.1}
 \]
 
-where  
+with  
 \[
-q(x,y)=\frac{|C|^2}{\int|C|^2 dxdy}.
+q(x,y)=\frac{|C|^2}{\int |C|^2 dxdy}.
 \]
+
+This gives the **most natural Z-extension** consistent with C.
 
 ---
 
-## 8.2 Reflection (反省)
+## 8.2 Reflection (反省) — ΔZ-Minimization
 
 \[
-\rho_{\text{reflected}}
+\rho_{\text{ref}}
 =
 \arg\min_{\rho\in\mathcal{G}[C]}
 \operatorname{Var}_{z}(\rho).
 \tag{8.2}
 \]
 
-This defines “freedom as Z-axis collapse”.
+Reflection = narrowing the Z-distribution  
+→ geometric definition of clarity, stability, moral agency.
 
 ---
 
-# 9. Summary Table of Primary Variables
+## 8.3 Free Will (Updated)
+
+Free will corresponds to the ability to actively reshape χ:
+
+\[
+\text{FreeWillBandwidth}
+\propto
+\left|\frac{d\chi}{dt}\right|.
+\tag{8.3}
+\]
+
+Systems that cannot modify χ have no agency.
+
+---
+
+## 8.4 Historical Freedom (Updated)
+
+Reconstruction of past C-wave data:
+
+\[
+\rho_Z^{(\mathrm{history})}
+=
+\mathcal{G}[C_{\mathrm{history}}].
+\tag{8.4}
+\]
+
+Past Z-depth is reconfigurable → meaning / trauma / memory can reorganize.
+
+---
+
+# 9. Summary Table of Primary Variables (Updated)
 
 | Symbol | Meaning |
 |--------|---------|
-| χ | causal curvature (Z-axis) |
-| δ | interference density (XY-plane) |
-| ψ | generator field ψ = χδ |
-| Ψ | full T-fiber field |
-| C | concept-wave (XY projection) |
-| ρ | information density |
+| χ | causal depth gradient (Z → τ mapping) |
+| δ | interference density on XτZ/YτZ planes |
+| ψ | observable generator (ψ = χδ) — **not a physical field** |
+| Ψ | real T-fiber field (physical causality) |
+| C | C-wave projection: {XτZ, YτZ} |
+| ρ | information density of Ψ |
 | ρ_T | T-wave density |
-| τ | phase-time |
-| ΔZ | Z-axis width (past-lag) |
-| ΔXY | interference width |
+| τ | phase-time (interference stability) |
+| ΔZ | width of τ-projected Z-depth |
+| ΔXY | interference width on projected planes |
 
 ---
 
-# End of FFT Equation Catalogue
+# End of Updated FFT Equation Catalogue (v1.2.5.1)

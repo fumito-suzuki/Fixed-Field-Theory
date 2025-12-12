@@ -1572,12 +1572,17 @@ This section summarizes the unified structure of Fixed-Field Theory (FFT) and
 presents the remaining open problems that must be addressed for FFT to reach  
 full mathematical and empirical maturity.
 
-**Reading Notice.**  
-This section should be read only after consulting **`appendices/README.md`**.
+### ⚠ Reading Notice (Important)
 
-The appendix guide clarifies how the open problems listed here
-are already supported by partial constructions and geometric mechanisms
-developed throughout the Z-series appendices.
+**This section should be read only after consulting `appendices/README.md`.**
+
+The Appendix Guide explains how the open problems listed here are **not isolated
+gaps**, but are already supported by **partial constructions, geometric
+mechanisms, and formal results** developed throughout the Z-series appendices.
+
+> In FFT, the Appendices are not optional supplements.  
+> They contain the structural pathways through which the synthesis in this
+> section becomes intelligible
 
 FFT proposes that **all layers of reality**—from microscopic quantum behavior  
 to cosmological expansion and conscious perception—arise from the same  

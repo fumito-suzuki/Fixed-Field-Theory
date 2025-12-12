@@ -253,8 +253,7 @@ FFT provides a geometric model of perception and agency:
 
 - Reflection (反省) corresponds to causal variance reduction:
   $$
-  \rho_{\text{reflected}}
-  =
+  \rho_{\text{reflected}} =
   \arg\min_{\rho \in \mathcal{G}[C]} \mathrm{Var}_Z(\rho)
   $$
 

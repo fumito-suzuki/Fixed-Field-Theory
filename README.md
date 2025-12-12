@@ -203,6 +203,7 @@ as intrinsic indeterminism.
 Key results:
 
 - Density operator:
+
   $$
   \rho = \mathcal{G}[C] = f^\dagger f
   $$

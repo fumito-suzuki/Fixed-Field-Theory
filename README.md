@@ -204,9 +204,9 @@ Key results:
 
 - Density operator:
 
-  $$
+$$
   \rho = \mathcal{G}[C] = f^\dagger f
-  $$
+$$
 
 - Quantum entanglement → **Z-axis alignment**  
 - Quantum teleportation → **Z-delay reassignment (arrival-time difference)**  

@@ -177,6 +177,7 @@ Fixed-Field-Theory/
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── .gitignore
+```
 
 ## Key Contributions (v1.2.5)
 

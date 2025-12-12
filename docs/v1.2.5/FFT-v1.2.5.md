@@ -220,6 +220,11 @@ Fixed-Field Theory (FFT):
 - **T-field** – the irreversible accumulation of past causal structure  
 - **ψ** – the appearance generated on the C-wave by the interaction χδ
 
+> **Terminology note:**  
+> The symbol **Z** denotes *causal depth in the real field* and is **never directly observable**;  
+> all observed depth is reconstructed via τ on the C-wave.  
+> See `appendices/README.md` for details.
+
 FFT’s most important stance is captured in a single statement:
 
 > **The world’s substance is the T-fiber/T-wave structure;  

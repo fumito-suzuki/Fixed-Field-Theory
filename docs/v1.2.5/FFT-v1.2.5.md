@@ -1571,12 +1571,6 @@ Meaning:
 
 ## 8. Synthesis and Open Problems  
 
-### (Integrating χδ Geometry Across Quantum Physics, Cosmology, and Consciousness)
-
-This section summarizes the unified structure of Fixed-Field Theory (FFT) and  
-presents the remaining open problems that must be addressed for FFT to reach  
-full mathematical and empirical maturity.
-
 ### ⚠ Reading Notice (Important)
 
 **This section should be read only after consulting `appendices/README.md`.**
@@ -1588,6 +1582,12 @@ mechanisms, and formal results** developed throughout the Z-series appendices.
 > In FFT, the Appendices are not optional supplements.  
 > They contain the structural pathways through which the synthesis in this
 > section becomes intelligible
+
+### (Integrating χδ Geometry Across Quantum Physics, Cosmology, and Consciousness)
+
+This section summarizes the unified structure of Fixed-Field Theory (FFT) and  
+presents the remaining open problems that must be addressed for FFT to reach  
+full mathematical and empirical maturity.
 
 FFT proposes that **all layers of reality**—from microscopic quantum behavior  
 to cosmological expansion and conscious perception—arise from the same  

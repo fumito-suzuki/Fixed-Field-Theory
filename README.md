@@ -6,8 +6,6 @@
 FFT is a unified geometric framework in which known physics appears as
 a **special, narrow–view limit** of a broader geometric structure.
 
----
-
 ## Overview
 
 **Fixed-Field Theory (FFT)** proposes that physical, cognitive, and cosmological
@@ -41,8 +39,6 @@ From this geometric mechanism, FFT derives — without introducing new particles
 - Dark matter / dark energy  
 - Emergent time (τ-time)
 
----
-
 ## ⚠️ Interpretation Notes (Important)
 
 FFT uses unconventional language.  
@@ -52,8 +48,6 @@ The following clarifications prevent common misreadings.
 This does **not** mean the universe is physically 0D.  
 It refers to an **informational basepoint** — a topological origin from which
 T-fiber geometry unfolds.
-
----
 
 ### 2. “The world is 2D”
 Physical space is **not** two-dimensional.
@@ -65,8 +59,6 @@ FFT states:
   - XY-plane: observable surface  
   - Z-axis: causal delay (past-depth)
 
----
-
 ### 3. “Everything is wave”
 This is not metaphysical.
 
@@ -77,8 +69,6 @@ All observable structures are described as **solutions of PDEs** involving:
 
 No mystical energy waves or speculative particles are introduced.
 
----
-
 ### 4. “Time is solid”
 “Solid” refers to **phase alignment stability** along τ.
 
@@ -86,22 +76,16 @@ No mystical energy waves or speculative particles are introduced.
 - It is continuous and fractal  
 - Local phase fixation creates the *appearance* of solidity
 
----
-
 ### 5. “Matter is fluid”
 Matter is modeled as **information-density flow** arising from ψ-gradients.
 
 This is a continuum description, not a literal fluid.
-
----
 
 ### 6. “Reality emerges from T/C-wave interaction”
 This is a geometric statement, not idealism or simulation theory.
 
 Observable structure arises from interaction between
 continuous (T) and discrete (C) modes.
-
----
 
 ## 🚨 How to Read FFT (Very Important)
 
@@ -126,8 +110,6 @@ Sections 1–8 of the main text correctly:
 **The deeper you go into the Appendices,  
 the more the main text reorganizes itself naturally.**
 
----
-
 ## 📐 Why FFT Does Not Conflict with Existing Physics
 
 - **Quantum theory** observes the micro-world with a **narrow viewing angle**  
@@ -142,8 +124,6 @@ Therefore:
 - As FFT’s viewing angle is narrowed, it smoothly converges to known physics  
 
 There is no contradiction — only difference of scope.
-
----
 
 ## 📁 Repository Structure
 
@@ -193,8 +173,6 @@ These three equations form the irreducible backbone of FFT.
 All quantum, gravitational, perceptual, and cosmological phenomena
 are derived as **geometric limits or projections** of this set.
 
----
-
 ### 2. Quantum Mechanics as Geometry
 
 FFT reinterprets quantum mechanics as **projection geometry**, not
@@ -205,7 +183,7 @@ Key results:
 - Density operator:
 
 $$
-  \rho = \mathcal{G}[C] = f^\dagger f
+\rho = \mathcal{G}[C] = f^\dagger f
 $$
 
 - Quantum entanglement → **Z-axis alignment**  
@@ -222,8 +200,6 @@ $$
 showing that Heisenberg uncertainty is a **projection artifact**, not a
 fundamental axiom.
 
----
-
 ### 3. Cosmology Without New Particles
 
 FFT explains cosmological phenomena **without introducing new entities**:
@@ -236,8 +212,6 @@ FFT explains cosmological phenomena **without introducing new entities**:
 
 General Relativity emerges as the **coarse-grained limit** of χδ curvature
 dynamics.
-
----
 
 ### 4. Perception, Consciousness, and Free Will
 
@@ -266,8 +240,6 @@ $$
 This embeds cognition and agency naturally within the same geometry
 that governs physics.
 
----
-
 ## Documentation
 
 - **Main manuscript:**  
@@ -282,13 +254,9 @@ that governs physics.
 - **Figures:**  
   `docs/v1.2.5/figures/`
 
----
-
 ## License
 
 MIT License.
-
----
 
 ## Contributing
 

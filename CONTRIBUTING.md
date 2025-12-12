@@ -7,7 +7,7 @@ This project welcomes contributions from physics, mathematics, computer science,
 and cognitive science communities. To maintain consistency and scientific rigor,  
 please follow the guidelines below.
 
----
+
 
 ## 1. Ways to Contribute
 

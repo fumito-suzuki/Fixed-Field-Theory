@@ -1,7 +1,9 @@
 # Appendix Z+XX — [Short Title Here]
+
 *(Fixed-Field Theory v1.2.x Supplemental Material)*  
 
 ## 1. Purpose and Scope  
+
 This appendix provides additional mathematical, physical, or conceptual
 structure that supports Section [N] of the main text.  
 It addresses the following goals:
@@ -11,9 +13,8 @@ It addresses the following goals:
 - connect χ, δ, ψ, τ to […]  
 - extend the results of Section [N] to […]  
 
----
-
 ## 2. Background (χδ–ψ Framework)  
+
 Within Fixed-Field Theory, the relevant quantities are:
 
 - χ — causal curvature injection  
@@ -27,16 +28,16 @@ The main text states that:
 
 This appendix formalizes and expands that statement.
 
----
-
 ## 3. Main Derivation / Model  
 
 ### 3.1 Setup  
+
 Define the fields:
 
 ψ(x,y,z,t), Ψ(x,y,z,t), ρ(x,y,z,t), C(x,y,t).
 
 ### 3.2 Key Equations  
+
 Avoid placing symbols at the beginning of a line. For example:
 
 The generator field satisfies  
@@ -46,6 +47,7 @@ The Sora Equation provides the evolution:
 `∂_t ψ = ω₀' + DΔψ + κ‖∇ψ‖² + ξ`.
 
 ### 3.3 Result  
+
 Provide here:
 
 - the main derived expression  
@@ -54,9 +56,8 @@ Provide here:
 - geometric interpretation  
 - diagrams (textual if needed)
 
----
-
 ## 4. Relation to χδ Geometry  
+
 Explain how the results modify or support:
 
 - χ–δ coupling  
@@ -64,9 +65,8 @@ Explain how the results modify or support:
 - Z-delay and τ  
 - mass density `ρ_T ∝ ‖∇ψ‖²`  
 
----
-
 ## 5. Implications for Main Sections  
+
 This appendix refines Section [N] by clarifying:
 
 - quantum behavior  
@@ -80,9 +80,8 @@ Example wording:
 > is a direct consequence of the χδ interaction under the given boundary
 > conditions.
 
----
-
 ## 6. Link to Open Problems (Section 8)  
+
 This appendix contributes to solving the following open problems:
 
 - **8.X** — [short summary of relevance]  
@@ -90,9 +89,8 @@ This appendix contributes to solving the following open problems:
 
 This section keeps appendices integrated with FFT development.
 
----
-
 ## 7. Summary  
+
 Key points:
 
 - […]  

@@ -1,6 +1,6 @@
 # Fixed-Field-Theory v1.2.5
 
-**Abstract**
+## Abstract
 
 Fixed-Field Theory (FFT) proposes a unified geometric framework in which
 quantum mechanics, cosmology, and perceptual phenomena emerge from a single
@@ -17,7 +17,7 @@ The interaction is formalized in the Sora equation, the time-evolution law of FF
 where χδ serves as the generative operator linking microscopic interference to
 macroscopic structure.
 
-This interaction generates the field $\(\psi = \chi\delta\)$, which governs the
+This interaction generates the field $\psi = \chi\delta$, which governs the
 geometry of the T-fiber field Ψ. The resulting structure replaces spacetime as
 the fundamental substrate of physical law, producing emergent time (τ) and
 the 2.5-dimensional projection geometry underlying perception.
@@ -33,7 +33,7 @@ which restores hidden Z-axis causal depth.
 The χδ framework thereby offers a coherent synthesis across physics and
 cognition, suggesting that observable structure emerges from the geometry of ψ
 rather than from independent physical postulates. FFT identifies concrete open
-problems—including explicit construction of the projection kernel $\(f\)$,
+problems—including explicit construction of the projection kernel $f$,
 derivation of the cosmological constant Λ from ψ-divergence, characterization
 of τ-dynamics, and empirical detection of the universal C-wave—pointing toward
 a unified and testable theory of causal geometry.  
@@ -75,7 +75,7 @@ $$
 
 the **information-gradient field** that drives all emergent structure. ψ
 determines the curvature of the T-fiber field Ψ, the formation of mass density
-$\(\rho_T \propto \|\nabla\psi\|^2\)$, the stability of perceptual frames, the
+$\rho_T \propto \|\nabla\psi\|^2$, the stability of perceptual frames, the
 bandwidth of quantum entanglement, and the thinning or thickening of causal
 structure at cosmological scales.
 

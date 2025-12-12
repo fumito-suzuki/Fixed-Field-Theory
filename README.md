@@ -247,11 +247,13 @@ FFT provides a geometric model of perception and agency:
   - Z-axis: causal delay (past-depth)
 
 - Consciousness is defined as a reconstruction process:
+
 $$
 \textbf{Consciousness} = \mathcal{G} \circ \Pi_{XY}
 $$
 
 - Reflection (反省) corresponds to causal variance reduction:
+
 $$
 \rho_{\text{reflected}} =
 \arg\min_{\rho \in \mathcal{G}[C]} \mathrm{Var}_Z(\rho)

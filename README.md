@@ -90,7 +90,22 @@ It does not imply simulation hypotheses or idealist metaphysics.
 
 Readers should understand these clarifications before interpreting FFT concepts.
 
+## How to Read FFT (Important)
 
+Before reading the main manuscript, **please read `appendices/README.md` first**.
+
+The Appendices are not optional supplements.
+They contain the structural keys required to interpret Sections 1–8 correctly,
+including χδ geometry, τ-time, projection operators, and reconstruction logic.
+
+> ⚠ Note  
+> Once you start reading the Appendices, you may find yourself repeatedly
+> drawn deeper into the theory.  
+> This is not accidental — FFT is designed so that understanding is
+> progressively *injected* through cross-referenced appendices.
+
+In FFT, the deeper you explore the Appendices,  
+the more the theory reorganizes itself internally.
 
 ## 📁 Repository Structure
 

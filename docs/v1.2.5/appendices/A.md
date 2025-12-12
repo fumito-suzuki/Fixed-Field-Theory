@@ -13,27 +13,30 @@ and well-posedness of the ψ–ρ–C coupled dynamics.
 
 ---
 
-# 1. Purpose and Scope  
+## 1. Purpose and Scope  
+
 This appendix supports the main manuscript Sections 1–4 by providing:
 
-- explicit operator definitions for FFT-1, FFT-2, FFT-3  
-- precise meaning of drift and fractal operators  
-- χδ-induced nonlinearities that generate ψ (appearance field)  
-- rigorous forms of projection, coupling, and noise terms  
-- analytic conditions for well-posedness  
+- explicit operator definitions for FFT-1, FFT-2, FFT-3,  
+- precise meaning of drift and fractal operators,  
+- χδ-induced nonlinearities that generate ψ (appearance field),  
+- rigorous forms of projection, coupling, and noise terms,  
+- analytic conditions for well-posedness.  
 
-It connects the formal ψ–ρ–C system to the χδ axiom and τ-based observation geometry.
+It connects the formal ψ–ρ–C system to the χδ generative principle
+and τ-based observation geometry.
 
 ---
 
-# 2. Background (χδ–ψ Framework)  
+## 2. Background (χδ–ψ Framework)  
+
 Fixed-Field Theory uses the following hierarchy:
 
-- χ: causal depth gradient (Z → τ)  
-- δ: interference density on delayed planes  
-- ψ = χδ: appearance field (not a physical wave)  
-- Ψ: physical T-fiber field  
-- C: XτZ / YτZ projection of Ψ via Π_obs  
+- χ — causal depth gradient (Z → τ),  
+- δ — interference density on delayed planes,  
+- ψ = χδ — appearance field (not a physical wave),  
+- Ψ — physical T-fiber field,  
+- C — XτZ / YτZ projection of Ψ via Π_obs.  
 
 The main text states:
 
@@ -43,9 +46,10 @@ Appendix A provides the operators that make this system mathematically well-defi
 
 ---
 
-# 3. Main Derivation / Model  
+## 3. Main Derivation / Model  
 
-## 3.1 FFT-1 Operator  
+### 3.1 FFT-1 Operator  
+
 The primary evolution law is:
 
 $$
@@ -68,12 +72,12 @@ $$
 
 Definitions:
 
-- Laplacian  
+- **Laplacian**  
   $$
   \Delta = \partial_x^2 + \partial_y^2 + \partial_z^2.
   $$
 
-- Fractal Laplacian  
+- **Fractal Laplacian**  
   $$
   \widehat{\Delta^D f}(k) = -|k|^{2D}\hat f(k).
   $$
@@ -84,7 +88,7 @@ Definitions:
 
 ---
 
-## 3.2 FFT-2: Information Density Equation  
+### 3.2 FFT-2 — Information Density Equation  
 
 $$
 \partial_t \rho + \nabla\cdot\mathbf{J} + \mathcal{S}_\rho = 0.
@@ -102,19 +106,20 @@ $$
 \mathbf{J}^{(\mathrm{geo})}.
 $$
 
-- Standard flow  
+- **Standard flow**  
   $$
   \mathbf{J}^{(\mathrm{std})}
   = \frac{\hbar}{2mi}(\Psi^*\nabla\Psi - \Psi\nabla\Psi^*).
   $$
 
-- Fractal flow  
+- **Fractal flow**  
   $$
   \mathbf{J}^{(D)}
-  = \ell_D^{2-D}\frac{\hbar}{2mi}(\Psi^*\nabla^D\Psi - \Psi\nabla^D\Psi^*).
+  = \ell_D^{2-D}\frac{\hbar}{2mi}
+  (\Psi^*\nabla^D\Psi - \Psi\nabla^D\Psi^*).
   $$
 
-- Geometric drift  
+- **Geometric drift**  
   $$
   \mathbf{v}_{\mathrm{geo}} = \nabla(\chi).
   $$
@@ -129,7 +134,7 @@ $$
 
 ---
 
-## 3.3 FFT-3: C-Wave Projection on Delayed Planes (Π_obs)
+### 3.3 FFT-3 — C-Wave Projection on Delayed Planes (Π_obs)  
 
 FFT-3 evolves the observable C-wave:
 
@@ -138,12 +143,15 @@ i\hbar\partial_t C
 =
 \Pi_{\mathrm{obs}}
 \big[
-V\Psi + \mathcal{N}[\Psi;\rho,C]\Psi + \mathcal{J}[\rho,C]\Psi
+V\Psi
++ \mathcal{N}[\Psi;\rho,C]\Psi
++ \mathcal{J}[\rho,C]\Psi
 \big].
 $$
 
-### Projection operator Π_obs  
-Instead of XY-projection（旧仕様）, FFT uses τ-aware delayed-plane projection:
+#### Projection operator Π_obs  
+
+Instead of a naive XY projection, FFT employs a τ-aware delayed-plane projection:
 
 $$
 (\Pi_{\mathrm{obs}}\Psi)(x,y,t)
@@ -154,9 +162,10 @@ $$
 
 where:
 
-- $ K_{\mathrm{obs}}(z,\tau) $ is the τ-dependent kernel,  
-- extending the mathematical kernel $f$ from Appendix Z+18,  
-- producing **XτZ / YτZ** という 2.5D C-wave.
+- $K_{\mathrm{obs}}(z,\tau)$ is a τ-dependent projection kernel,  
+- extending the general mathematical projection kernel $f$
+  (to be formalized in a later appendix),  
+- producing **XτZ / YτZ** as a 2.5D observable C-wave.
 
 Thus:
 
@@ -166,7 +175,7 @@ Thus:
 
 ---
 
-# 4. Relation to χδ Geometry  
+## 4. Relation to χδ Geometry  
 
 - Nonlinearity $\mathcal{N}$ arises from χδ coupling:  
   $$
@@ -177,49 +186,52 @@ Thus:
 - Interference anisotropy follows δ.  
 - ρ and C serve as Ψ’s informational and observational projections.  
 
-These operators are the analytic realization of the axiom in Appendix Z+0.
+These operators constitute the analytic realization of the
+χδ generative principle described in Appendix Z+0.
 
 ---
 
-# 5. Implications for Main Sections  
+## 5. Implications for Main Sections  
 
 This appendix refines:
 
-### **Section 1–2:**  
-- precise structure of FFT-1 / 2 / 3  
-- how fractal and drift operators enter the dynamics
+### **Sections 1–2**  
+- precise operator structure of FFT-1 / FFT-2 / FFT-3,  
+- explicit role of fractal and drift operators.
 
-### **Section 4:**  
-- defines C-wave properly as XτZ / YτZ projection  
-- clarifies that ψ is not a wave but an appearance field
+### **Section 4**  
+- rigorous definition of the C-wave as XτZ / YτZ projection,  
+- clarification that ψ is an appearance field, not a wave.
 
-### **Section 5:**  
-- identifies which terms reduce to QM under small χδ curvature
+### **Section 5**  
+- identification of limits in which FFT operators reduce to QM.
 
-### **Section 7:**  
-- explains how ψ, ρ, C interact to form stable χ-band inputs for consciousness
+### **Section 7**  
+- explanation of how ψ, ρ, and C interact to form stable χ-band
+  inputs for consciousness.
 
 ---
 
-# 6. Link to Open Problems (Section 8)
+## 6. Link to Open Problems (Section 8)  
 
 This appendix contributes to:
 
-- **8.1** — rigorous definition of projection operator f（via K_obs）  
-- **8.2** — full G-operator characterization（ρ → χ-band）  
-- **8.6** — T-fiber mass/energy balance（via drift and fractal operators）  
-- **8.8** — ψ-dynamics stability & turbulence（nonlinear operator analysis）
+- **8.4.1** — rigorous definition of projection operator f (via $K_{\mathrm{obs}}$),  
+- **8.4.2** — full G-operator characterization (ρ → χ-band reconstruction),  
+- **8.4.6** — T-fiber mass/energy balance (drift and fractal operators),  
+- **8.4.8** — ψ-dynamics stability and turbulence analysis.
 
 ---
 
-# 7. Summary
+## 7. Summary  
 
-- FFT-1 combines classical/fractal Laplacians, χ-induced drift, nonlinear χδ terms.  
+- FFT-1 combines classical and fractal Laplacians, χ-induced drift,
+  and nonlinear χδ terms.  
 - FFT-2 extends continuity with fractal and geometric flows.  
-- FFT-3 uses Π_obs（XτZ / YτZ projection） to define observable C-wave.  
+- FFT-3 employs Π_obs (XτZ / YτZ projection) to define the observable C-wave.  
 - ψ = χδ is the source of nonlinearity and appearance.  
-- τ controls noise correlation（ξ）and projection geometry.  
+- τ controls noise correlation and projection geometry.  
 - Operator well-posedness ensures ψ–ρ–C dynamics are mathematically consistent.
 
 Appendix A thus provides the operator-theoretic backbone for the χδ–ψ
-framework formalized in FFT v1.2.5.1.
+framework formalized in Fixed-Field Theory v1.2.5.1.

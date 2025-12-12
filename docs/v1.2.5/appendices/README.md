@@ -1,5 +1,12 @@
 # 📚 Appendix Guide — Fixed-Field Theory (FFT)
 
+> **Note on Perspective**  
+> Fixed-Field Theory (FFT) does not contradict existing physical theories.  
+> Quantum theory observes the microscopic world through a narrow field of view,  
+> while cosmology observes the macroscopic world through a similarly constrained lens.  
+> FFT adopts a **wider field of view**, within which both limits are naturally recovered.  
+> As this field of view is narrowed, FFT converges smoothly with established theories.
+
 This directory contains all supplementary materials for the FFT v1.2.x series.  
 The appendices provide mathematical proofs, projection operators, χδ geometry,
 τ-time analysis, perceptual models, cosmological extensions, and experimental

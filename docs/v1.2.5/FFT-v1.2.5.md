@@ -1,6 +1,6 @@
 # Fixed-Field Theory v1.2.5.1
 
-**Abstract**
+## Abstract
 
 Fixed-Field Theory (FFT) is a framework that explains what appear to be
 separate layers of phenomena—quantum effects, gravity, cosmology, perception,
@@ -28,12 +28,10 @@ Buddhist identity
 
 > **色即是空・空即是色** (“Form is emptiness; emptiness is form”).
 
-
-
 In FFT, ψ is **not matter itself, but the phenomenon that arises on the
 C-wave when observation happens**. ψ is defined as the product of
 
-- χ — causal accumulation along $\(Z_{\mathrm{real}}\)$, i.e., the gradient of
+- χ — causal accumulation along $Z_{\mathrm{real}}$, i.e., the gradient of
   T-fiber density  
 - δ — interference / information intensity on the XY plane  
 
@@ -48,12 +46,10 @@ $$
 refraction, heating, scattering, boundary enhancement, and stabilization of
 the image.
 
-
-
 A key point in FFT is that when the C-wave received by an observer passes
 through the T-fiber / T-wave structure of the target, it **folds the real
-causal depth $\(Z_{\mathrm{real}}\)$ into an arrival delay τ**. As a result,
-the observed image is not in the real coordinates $\((X, Y, Z_{\mathrm{real}})\)$,
+causal depth $Z_{\mathrm{real}}$ into an arrival delay τ**. As a result,
+the observed image is not in the real coordinates $(X, Y, Z_{\mathrm{real}})$,
 but arises as the composition of **two delay-modulated projection planes**:
 
 - the **XτZ-plane**, where τZ is folded into the X component  
@@ -61,8 +57,6 @@ but arises as the composition of **two delay-modulated projection planes**:
 
 The reason our observed world appears as a “flattened” version of the 3D
 T-fiber structure lies in this projection geometry.
-
-
 
 FFT provides the following main framework:
 
@@ -72,7 +66,7 @@ FFT provides the following main framework:
 - Gravity = local sinking (“whirlpools”) of T-fiber  
 - Cosmic expansion = global damping of T-waves  
 - Quantum phenomena = contraction / synchronization / multiplicity of
-  $\(Z_{\mathrm{real}}\)$  
+  $Z_{\mathrm{real}}$  
 - Consciousness = geometric operation (G-operator) that reconstructs
   Z-depth from the observational image C  
 
@@ -86,11 +80,6 @@ cosmological constant Λ from the divergence of ψ, among others.
 Even so, it aims to be a unified and testable theory that shows
 
 > **the world emerges from the geometry of χ and δ.**
-
-
-
-
-
 
 ## Introduction
 
@@ -163,7 +152,7 @@ From this single geometric mechanism, FFT reconstructs the familiar domains:
 The guiding objective of this paper is to formalize this framework and show:
 
 > **The world does not appear as it exists;  
->  it appears as χ and δ make it appear on the C-wave.**
+> it appears as χ and δ make it appear on the C-wave.**
 
 Thus FFT provides a unified generative principle for physics, observation, and  
 consciousness, without introducing new particles, hidden variables, or extra  
@@ -184,18 +173,14 @@ The remainder of this document is organized as follows:
 In short:
 
 > **FFT is a theory of how the real world (T-fiber/T-wave)  
->  becomes the visible world (ψ = χδ).  
->  It is a geometry of appearance.**
-
-
+> becomes the visible world (ψ = χδ).  
+> It is a geometry of appearance.**
 
 ## FFT Unified Principle (χδ Declaration)
 
 The χδ Declaration consists of the three foundational statements that support the entire structure of Fixed-Field Theory.
 
-
-
-**1. The world arises as an observable image generated on the C-wave by the interaction of causal depth χ and interference density δ.  
+**1. The world arises as an observable image generated on the C-wave by the interaction of causal depth χ and interference density δ.　　
 FFT is the geometry that describes this generative process.**
 
 - The real structure resides in the T-fiber/T-wave layer.  
@@ -204,8 +189,6 @@ FFT is the geometry that describes this generative process.**
   - XτZ  
   - YτZ  
   which together form the perceptual field.
-
-
 
 **2. Classical physics, quantum theory, and cosmology are not separate domains but different projection limits of χδ geometry onto XτZ/YτZ.  
 Their foundational structure is unified in the single T-fiber/T-wave architecture.**
@@ -216,7 +199,6 @@ Their foundational structure is unified in the single T-fiber/T-wave architectur
 
 All physical theories are different manifestations of the **same χδ geometry** viewed under different observational limits.
 
-
 **3. FFT is not a fixed or closed theory.  
 It is an extensible generative framework grounded in χδ geometry, whose precision increases as observation and analysis refine the underlying structure.**
 
@@ -225,15 +207,8 @@ It is an extensible generative framework grounded in χδ geometry, whose precis
 - Open problems (projection kernels, C-wave decomposition, Λ derivation, etc.)  
   are expansions of the same unified structure.
 
-
-
 **These three statements together constitute the χδ Declaration —  
 the foundational principle of Fixed-Field Theory.**
-
-
-
-
-
 
 ## 1. Foundations
 
@@ -259,8 +234,6 @@ Thus, observation is not an intentional act performed by a subject but a
 **universal physical process** occurring whenever T-fiber and C-wave intersect.  
 Biological vision is merely one specialized, amplified instance of this universal mechanism.
 
-
-
 ### 1.1 Why modern physics became fragmented
 
 Contemporary physics is divided into distinct frameworks:
@@ -278,10 +251,9 @@ Quantum nonlocality, gravitational sinking, perceptual depth,
 and temporal ordering all arise from distinct ways in which χ (causal depth)  
 and δ (interference density) project onto observation.
 
+### 1.2 The world’s substrate is T-fiber density
 
-
-### 1.2 The world’s substrate is T-fiber density;  
-### T-wave produces spatial extension
+#### T-wave produces spatial extension
 
 The core structure is:
 
@@ -295,8 +267,6 @@ Crucially:
 > but its **delayed projections** XτZ and YτZ through the C-wave.
 
 The world has a 3D (+τ) structure, but its observed form is always a collapsed rendering of it.
-
-
 
 ### 1.3 Z is not “spatial depth” but **causal depth**
 
@@ -315,21 +285,22 @@ $$
 
 Although equations use *t* for convenience, the underlying dynamics are τ-driven.
 
-
-
 ### 1.4 Unified definitions of T-fiber, T-wave, and T-field
 
 #### **T-fiber**  
+
 - The real substrate of the world  
 - Carries mass, density, and informational thickness  
 - Subject to T-wave undulation
 
 #### **T-wave**  
+
 - The spatial undulation generated by interference among T-fibers  
 - Creates curvature, boundaries, and perceived deformation  
 - Manifests primarily as **surface geometry (XY-plane undulation)**
 
 #### **T-field**  
+
 - The irreversible accumulation of past causal structure  
 - Behaves like a layered “memory field”  
 - Corresponds to the geometric notion of “emptiness” (空)
@@ -338,8 +309,6 @@ Although equations use *t* for convenience, the underlying dynamics are τ-drive
 T-fiber resembles a vertical brush of bundled threads,  
 while T-wave is not a vertical oscillation but the **XY-surface undulation**  
 of the fiber cross-section.
-
-
 
 ### 1.5 Observation as the generation of appearance: ψ = χδ
 
@@ -366,8 +335,6 @@ However:
 > **ψ does not alter T-fiber.**  
 It determines only “how the world appears,” not the world itself.
 
-
-
 ### 1.6 Why FFT requires a new mathematics
 
 FFT simultaneously involves:
@@ -384,8 +351,6 @@ Euclidean 3D coordinates or classical spacetime tensors.
 Therefore, FFT requires a new geometry that combines:
 
 **fiber bundles + interference + delayed projection.**
-
-
 
 ### 1.7 Minimal symbol set (updated)
 
@@ -414,11 +379,6 @@ Therefore, FFT requires a new geometry that combines:
 - The world is 3.5D in substance but 2.5D in appearance  
 - FFT unifies physics by separating substance (Ψ) from appearance (ψ)
 
-
-
-
-
-
 ## 2. χδ Geometry and the Sora Equation
 
 This section defines the two geometric quantities that govern all observable phenomena in FFT:
@@ -442,9 +402,8 @@ A central clarification of FFT:
 
 ψ is not matter; it is a phenomenon arising only upon observation.
 
+### 2.1 χ: Injected causal depth
 
-
-### 2.1 χ: Injected causal depth  
 #### (Real Z-depth → observed τZ)
 
 In FFT, Z is not spatial depth but **causal thickness** inside the T-field.  
@@ -470,9 +429,8 @@ Interpretation:
 
 Thus, χ measures **how deeply causal structure is impressed upon the C-wave**.
 
-
-
 ### 2.2 δ: Interference density on the delayed projection planes  
+
 ### (δ lives on XτZ and YτZ, not on the physical XY-plane)
 
 In conventional optics δ is “interference on the XY-plane.”  
@@ -496,8 +454,6 @@ $$
 δ is not merely “fine detail”;  
 it is the **entire interference structure of the delayed world**.
 
-
-
 ### 2.3 ψ = χδ: The geometry of appearance
 
 Observation generates **appearance**, not substance:
@@ -519,9 +475,8 @@ Thus:
 
 ψ is the “visible world,” not the real world.
 
-
-
 ### 2.4 The Sora Equation  
+
 #### The time evolution of ψ (appearance)
 
 The temporal dynamics of ψ are governed by the **Sora Equation**:
@@ -536,9 +491,7 @@ $$
 
 Each term has a geometric/physical interpretation:
 
-
-
-### • Baseline oscillation  
+#### • Baseline oscillation  
 
 $$
 \omega_0'
@@ -547,9 +500,7 @@ $$
 The minimal intrinsic tempo determined by atomic-scale T-fiber periodicity.  
 All appearance fluctuates on top of this base frequency.
 
-
-
-### • Diffusive smoothing  
+#### • Diffusive smoothing  
 
 $$
 D \Delta \psi
@@ -561,10 +512,7 @@ Represents the natural flow of appearance toward stability:
 - attenuation of light and sound  
 - smoothing of surface patterns  
 
-
-
-
-### • Nonlinear steepening (boundary formation)  
+#### • Nonlinear steepening (boundary formation)  
 
 $$
 \kappa \|\nabla\psi\|^2
@@ -577,18 +525,13 @@ Produces:
 - enhanced contour contrast  
 - local compression of T-wave undulations as seen through χδ  
 
-
-
-### • Noise  
+#### • Noise  
 
 $$
 \xi
 $$
 
 Environmental fluctuation, thermal noise, biological jitter, micro-turbulence, etc.
-
-
-
 
 ### 2.5 Why ψ does *not* modify the real world
 
@@ -604,9 +547,6 @@ Therefore:
 > **ψ changes how the world *appears*, never how the world *is*.**
 
 This distinction is the core of FFT.
-
-
-
 
 ### 2.6 Quantum phenomena as low-energy projections of χδ
 
@@ -676,8 +616,6 @@ Accordingly, the goal of this section is:
 
 > **To define how Ψ evolves, and how ρ, C, and ψ arise from Ψ in a closed minimal loop.**
 
----
-
 ### 3.1 FFT-1: The fundamental equation of T-fiber (Ψ)
 
 Ψ represents the full causal architecture of the world:  
@@ -714,15 +652,15 @@ Interpretation of terms:
   membrane-like spreading + fractal thickness of T-fiber.
 
 - **Directional derivatives**  
-  $\((\partial_z, \partial_\theta, \partial_{\log r})\)$:  
+  $(\partial_z, \partial_\theta, \partial_{\log r})$:  
   encode vortex geometry and large-scale drift of T-waves.
 
 - **Nonlinear self-interaction**  
-  $\(\mathcal{N}[\Psi;\rho]\)$:  
+  $\mathcal{N}[\Psi;\rho]$:  
   formation of mass, memory, and density contrast.
 
 - **Feedback from information density and observation**  
-  $\(\mathcal{J}[\rho,C]\)$
+  $\mathcal{J}[\rho,C]$
 
 Parameters:
 
@@ -734,8 +672,6 @@ Most importantly:
 
 > **FFT-1 is the only equation that acts on the real field Ψ.  
 > ψ never modifies Ψ directly.**
-
----
 
 ### 3.2 FFT-2: Extended continuity equation for information density ρ
 
@@ -781,9 +717,7 @@ This accounts for creation/destruction of ρ due to:
 
 ρ therefore connects the real geometry (Ψ) with its information content.
 
----
-
-## 3.3 FFT-3: The observational projection C (XτZ / YτZ)
+### 3.3 FFT-3: The observational projection C (XτZ / YτZ)
 
 Observers—biological or artificial—never access Ψ directly.  
 Only a **τ-delayed projection** of Ψ is detectable:
@@ -792,7 +726,7 @@ $$
 C = \Pi_{\mathrm{obs}}(\Psi)
 $$
 
-$\(\Pi_{\mathrm{obs}}\)$ maps:
+$\Pi_{\mathrm{obs}}$ maps:
 
 - real coordinates $(X, Y, Z\_{\mathrm{real}})$  
 - delay τ(Z)  
@@ -821,9 +755,8 @@ Key insight:
 
 This explains why image geometry never matches real geometry exactly.
 
-
-
 ### 3.4 The full phenomenon loop:  
+
 #### Ψ → ρ → C → ψ → (feedback) → Ψ
 
 The minimal closed system of FFT is:

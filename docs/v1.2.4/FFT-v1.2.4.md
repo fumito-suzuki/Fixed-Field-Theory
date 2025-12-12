@@ -17,7 +17,7 @@ The interaction is formalized in the Sora equation, the time-evolution law of FF
 where χδ serves as the generative operator linking microscopic interference to
 macroscopic structure.
 
-This interaction generates the field $\(\psi = \chi\delta\)$, which governs the
+This interaction generates the field $$\psi = \chi\delta$$, which governs the
 geometry of the T-fiber field Ψ. The resulting structure replaces spacetime as
 the fundamental substrate of physical law, producing emergent time (τ) and
 the 2.5-dimensional projection geometry underlying perception.
@@ -33,7 +33,7 @@ which restores hidden Z-axis causal depth.
 The χδ framework thereby offers a coherent synthesis across physics and
 cognition, suggesting that observable structure emerges from the geometry of ψ
 rather than from independent physical postulates. FFT identifies concrete open
-problems—including explicit construction of the projection kernel $\(f\)$,
+problems—including explicit construction of the projection kernel $$f$$,
 derivation of the cosmological constant Λ from ψ-divergence, characterization
 of τ-dynamics, and empirical detection of the universal C-wave—pointing toward
 a unified and testable theory of causal geometry.  
@@ -75,7 +75,7 @@ $$
 
 the **information-gradient field** that drives all emergent structure. ψ
 determines the curvature of the T-fiber field Ψ, the formation of mass density
-$\(\rho_T \propto \|\nabla\psi\|^2\)$, the stability of perceptual frames, the
+$$\rho_T \propto \|\nabla\psi\|^2$$, the stability of perceptual frames, the
 bandwidth of quantum entanglement, and the thinning or thickening of causal
 structure at cosmological scales.
 
@@ -96,7 +96,7 @@ a nonlinear fixed-field equation for the T-fiber Ψ (FFT-1), an extended
 continuity equation for information density ρ (FFT-2), and a perceptual
 projection equation governing the conceptual-wave field C (FFT-3). These three
 equations, together with the Sora Equation, form a closed dynamical loop
-$\(\psi \rightarrow \Psi \rightarrow \rho \rightarrow C \rightarrow \psi\)$,
+$$\psi \rightarrow \Psi \rightarrow \rho \rightarrow C \rightarrow \psi$$,
 providing a unified description of physical, perceptual, and cognitive
 phenomena.
 
@@ -106,7 +106,7 @@ disciplines:
 - **Quantum mechanics**: collapse corresponds to a reduction of Z-axis
   variance; entanglement corresponds to Z-axis alignment; teleportation arises
   from Z-axis reindexing; and uncertainty emerges from a geometric inequality
-  $\(\Delta_Z \cdot \Delta_{XY} \ge \text{const.}\)$
+  $$\Delta_Z \cdot \Delta_{XY} \ge \text{const.}$$
 
 - **Cosmology**: cosmic expansion reflects the global thinning of T-fiber
   density; dark matter corresponds to curvature residues of χ; dark energy
@@ -117,7 +117,7 @@ disciplines:
   geometric reconstruction combining XY interference, finite Z-delay, and
   ψ-dependent stabilization of perceptual objects.
 
-- **Consciousness**: the geometric operator $\(\mathcal{G}\)$ maps perceptual
+- **Consciousness**: the geometric operator $$\mathcal{G}$$ maps perceptual
   fields to maximal Z-extensions, describing awareness, reflection, and
   historical reinterpretation as geometric processes.
 
@@ -224,7 +224,7 @@ $$
 ψ is the **information-gradient field**, the unique microscopic variable that:
 
 - shapes the curvature of Ψ,  
-- generates mass density $\( \rho_T \propto \|\nabla\psi\|^2 \)$,  
+- generates mass density $$ \rho_T \propto \|\nabla\psi\|^2 $$,  
 - stabilizes perceptual frames,  
 - determines quantum decoherence and entanglement bandwidth,  
 - drives cosmological thinning or thickening.
@@ -240,7 +240,7 @@ $$
 C = \Pi_{XY}(\Psi),
 $$
 
-where $\(\Pi_{XY}\)$ removes Z-axis depth and produces a 2D field.
+where $$\Pi_{XY}$$ removes Z-axis depth and produces a 2D field.
 
 The perceived 3D world arises from:
 
@@ -297,7 +297,7 @@ This makes FFT capable of describing:
 ## 2. Geometry of χδ and the Sora Equation
 
 This section establishes the geometric and dynamical foundations of the field  
-\(\psi = \chi \, \delta\), which governs all micro-level behavior in Fixed-Field Theory (FFT).  
+$\psi = \chi \, \delta$, which governs all micro-level behavior in Fixed-Field Theory (FFT).  
 Where Ψ, ρ, and C describe the macroscopic fixed field, **ψ is the unique microscopic driver**  
 of structure, mass formation, perception, and the emergence of quantum behavior.
 
@@ -365,7 +365,7 @@ combine to create spatial structure.
 ψ determines:
 
 - the shape of the T-fiber field Ψ  
-- the mass density $ρ\_T$ via $\(|\nabla \psi|^2\)$ 
+- the mass density $ρ\_T$ via $$|\nabla \psi|^2$$ 
 - the stability of perception (Section 4)  
 - decoherence and entanglement bandwidth (Section 5)  
 - the growth or thinning of causal curvature (Section 6)  
@@ -512,7 +512,7 @@ Thus:
 
 This section introduces the three principal macroscopic equations of
 Fixed-Field Theory (FFT). Together with the Sora Equation—which governs
-the microscopic field $\(\psi = \chi \delta\)$—they form a closed dynamical loop:
+the microscopic field $$\psi = \chi \delta$$—they form a closed dynamical loop:
 
 $$
 \psi \quad\longrightarrow\quad \Psi 
@@ -524,16 +524,16 @@ $$
 Where Section 2 established the χδ geometry and the Sora Equation,  
 the present section formalizes the macroscopic evolution laws:
 
-- **FFT-1**: The fixed-field (T-fiber) equation for $\(\Psi\)$  
-- **FFT-2**: The extended continuity equation for information density $\(\rho\)$  
-- **FFT-3**: The perceptual projection equation for the conceptual-wave field $\(C\)$
+- **FFT-1**: The fixed-field (T-fiber) equation for $$\Psi$$  
+- **FFT-2**: The extended continuity equation for information density $$\rho$$  
+- **FFT-3**: The perceptual projection equation for the conceptual-wave field $$C$$
 
 These three equations constitute the **minimal macroscopic closure**  
 of the fixed-field dynamics.
 
-### 3.1 FFT-1: Principal Fixed-Field Equation for $\(\Psi\)$
+### 3.1 FFT-1: Principal Fixed-Field Equation for $$\Psi$$
 
-The field \(\Psi(x,y,z,t)\) encodes the **T-fiber density and curvature**,  
+The field $\Psi(x,y,z,t)$ encodes the **T-fiber density and curvature**,  
 which determine mass, memory structure, and large-scale causal geometry.
 
 Its evolution is governed by:
@@ -565,16 +565,16 @@ $$
 - The Laplacian + fractional Laplacian terms describe **geometric spreading**  
   of T-fiber curvature.
 - The angular and logarithmic derivatives represent **anisotropic causal flow**.
-- $\(\mathcal{N}\)$ introduces **nonlinear curvature feedback**, typically dependent on  
-  $\(\|\nabla\psi\|^2\)$.
-- $\(\mathcal{J}\)$ encodes **interactions with information density and conceptual fields**.
+- $$\mathcal{N}$$ introduces **nonlinear curvature feedback**, typically dependent on  
+  $$\|\nabla\psi\|^2$$.
+- $$\mathcal{J}$$ encodes **interactions with information density and conceptual fields**.
 
 Thus the Ψ-field does not evolve independently—its curvature is sculpted by ψ,
 which encodes the instantaneous χδ geometry.
 
-### 3.2 FFT-2: Information Density Equation for $\(\rho\)$
+### 3.2 FFT-2: Information Density Equation for $$\rho$$
 
-$\(\rho(x,y,z,t)\)$ represents the **information-density distribution**, which is  
+$$\rho(x,y,z,t)$$ represents the **information-density distribution**, which is  
 a macroscopic measure of how strongly the fixed field constrains nearby dynamics.
 
 Its evolution satisfies an extended continuity equation:
@@ -586,7 +586,7 @@ $$
 \tag{FFT-2}
 $$
 
-where the information flow $\(\mathbf{J}\)$ is composed of three terms:
+where the information flow $$\mathbf{J}$$ is composed of three terms:
 
 $$
 \mathbf{J}=
@@ -629,9 +629,9 @@ $$
 so steep gradients in ψ act as **information sources**,  
 corresponding physically to mass formation or perceptual stabilization.
 
-### 3.3 FFT-3: Perceptual Projection Equation for $\(C\)$
+### 3.3 FFT-3: Perceptual Projection Equation for $$C$$
 
-Observation does not access the full fixed field $\(\Psi\)$.  
+Observation does not access the full fixed field $$\Psi$$.  
 Instead, an observer perceives a **projection onto the XY-plane**:
 
 $$
@@ -660,7 +660,7 @@ Key consequences:
 - Z-axis depth contributes only via **delay and curvature**,  
 - measurement collapse arises from **ψ-stabilization of projected patterns**.
 
-$\(C\)$ inherits nonlinearities from $\(\Psi\)$,  
+$$C$$ inherits nonlinearities from $$\Psi$$,  
 but is constrained by projection; thus perceptual reality is a **filtered
 subset** of fixed-field dynamics.
 
@@ -669,11 +669,11 @@ subset** of fixed-field dynamics.
 FFT features a self-consistent cycle:
 
 1. **ψ = χδ** evolves via the Sora Equation (microscopic).  
-2. ψ shapes the nonlinear operators $\(\mathcal{N}, \mathcal{J}\)$ in FFT-1.  
+2. ψ shapes the nonlinear operators $$\mathcal{N}, \mathcal{J}$$ in FFT-1.  
 3. FFT-1 determines Ψ, the macroscopic T-fiber field.  
-4. Ψ determines the flow and source terms of $\(\rho\)$ via FFT-2.  
-5. $\(\rho\)$ and Ψ jointly determine the perceptual field $\(C\)$ via FFT-3.  
-6. $\(C\)$ feeds back into δ and thus into ψ, closing the loop.
+4. Ψ determines the flow and source terms of $$\rho$$ via FFT-2.  
+5. $$\rho$$ and Ψ jointly determine the perceptual field $$C$$ via FFT-3.  
+6. $$C$$ feeds back into δ and thus into ψ, closing the loop.
 
 This closed structure is what enables FFT to unify:
 
@@ -702,7 +702,7 @@ $$
 C = \Pi_{XY}(\Psi),
 $$
 
-where the perceptual field $\(C(x,y,t)\)$ is a filtered, flattened, and
+where the perceptual field $$C(x,y,t)$$ is a filtered, flattened, and
 interference-stabilized representation of Ψ.
 
 ### 4.1 Why Perception Is Not 3D: Limited Access to Z
@@ -909,7 +909,7 @@ from geometric relations between:
 
 - Z-axis causal depth,
 - XY-plane interference,
-- and the microscopic generator field \(\psi = \chi \delta\).
+- and the microscopic generator field $\psi = \chi \delta$.
 
 This section reformulates quantum phenomena—collapse, entanglement, teleportation,
 and uncertainty—as consequences of ψ dynamics and τ-geometry.
@@ -1125,8 +1125,8 @@ quantum phenomena, without invoking measurement postulates or nonlocal action.
 ## 6. Cosmology in χδ Geometry
 
 Cosmology in Fixed-Field Theory (FFT) emerges from the global behavior of the
-information-gradient field $\(\psi = \chi \delta\)$ and the macroscopic evolution
-of the T-fiber field $\(\Psi\)$. FFT provides geometric explanations for cosmic
+information-gradient field $$\psi = \chi \delta$$ and the macroscopic evolution
+of the T-fiber field $$\Psi$$. FFT provides geometric explanations for cosmic
 expansion, dark matter, dark energy, and black-hole formation without invoking
 additional particles or exotic fields. All cosmological dynamics stem from
 variations in:
@@ -1150,7 +1150,7 @@ $$
 D \Delta \psi,
 $$
 
-causes a **global flattening of ψ**, decreasing $\(\|\nabla\psi\|\)$ and thus
+causes a **global flattening of ψ**, decreasing $$\|\nabla\psi\|$$ and thus
 reducing T-fiber density.
 
 This produces:
@@ -1360,19 +1360,19 @@ $$
 \mathcal{G} : C \mapsto \rho,
 $$
 
-which maps a perceptual field $\(C(x,y,t)\)$ to the **maximal entropy Z-extension**
+which maps a perceptual field $$C(x,y,t)$$ to the **maximal entropy Z-extension**
 consistent with observed information.
 
 ### 7.1 Definition of the G-Operator
 
-Given a perceptual field \(C(x,y,t)\), FFT defines the observed XY density:
+Given a perceptual field $C(x,y,t)$, FFT defines the observed XY density:
 
 $$
 q(x,y,t) = 
 \frac{|C(x,y,t)|^2}{\int |C|^2 \, dx \, dy}.
 $$
 
-The information-density field $\(\rho(x,y,z,t)\)$ is defined as:
+The information-density field $$\rho(x,y,z,t)$$ is defined as:
 
 $$
 \rho = \mathcal{G}[C] := 
@@ -1388,7 +1388,7 @@ subject to:
 2. **geometric moment matching**
    $g^{(\rho)}_{ij}(t) = g^{(C)}_{ij}(t).$
 
-Thus $\(\mathcal{G}\)$ finds the “least biased” Z-distribution compatible with
+Thus $$\mathcal{G}$$ finds the “least biased” Z-distribution compatible with
 observed XY interference.
 
 This is analogous to:
@@ -1425,7 +1425,7 @@ perceptual data.
 ### 7.3 Reflection as Z-Axis Convergence
 
 Reflection (“self-observation” or “introspection”) corresponds to selecting,
-among all possible Z-extensions allowed by $\(\mathcal{G}\)$, the one with the
+among all possible Z-extensions allowed by $$\mathcal{G}$$, the one with the
 minimum Z-variance:
 
 $$
@@ -1480,7 +1480,7 @@ Thus:
 
 ### 7.5 Historical Freedom: Rewriting One’s Z-Axis
 
-Given a historical perceptual field $\(C_{\mathrm{history}}\)$, FFT defines:
+Given a historical perceptual field $$C_{\mathrm{history}}$$, FFT defines:
 
 $$
 \boxed{
@@ -1565,7 +1565,7 @@ between stability and adaptability.
 
 | Concept | FFT Interpretation |
 |--------|---------------------|
-| Consciousness | Z-axis reconstruction via $\(\mathcal{G}$ $\circ$ $\Pi_{XY}\)$ |
+| Consciousness | Z-axis reconstruction via $$\mathcal{G}$ $\circ$ $\Pi_{XY}$$ |
 | Reflection | minimal Z-variance extension |
 | Free will | rate of χ-modulation |
 | Historical freedom | reinterpreted Z-axis from past XY data |
@@ -1588,36 +1588,36 @@ problems remain unresolved. These open problems identify the mathematical,
 empirical, and conceptual challenges that must be addressed for FFT to be
 established as a complete physical theory.
 
-### 8.1 Rigorous Definition of the Projection Operator $\( f \)$
+### 8.1 Rigorous Definition of the Projection Operator $$ f $$
 
-FFT asserts that the perceptual field $\( C = f(\Psi) \)$ is obtained by a
-projection from the full T-fiber field $\( \Psi(x,y,z,t) \)$ onto the XY-plane.
-The operator $\( f \)$ has been characterized qualitatively as:
+FFT asserts that the perceptual field $$ C = f(\Psi) $$ is obtained by a
+projection from the full T-fiber field $$ \Psi(x,y,z,t) $$ onto the XY-plane.
+The operator $$ f $$ has been characterized qualitatively as:
 
 - a nonlinear projection,
 - sensitive to Z-delay,
 - collapsing interference onto 2.5D perceptual geometry.
 
-However, a **fully explicit functional form** of $\( f \)$ remains open:
+However, a **fully explicit functional form** of $$ f $$ remains open:
 
 $$
 C(x,y,t) =
 \int K(x,y,z,t)\, \Psi(x,y,z,t)\, dz,
 $$
 
-where the kernel $\( K \)$ is not yet rigorously specified.
+where the kernel $$ K $$ is not yet rigorously specified.
 
 **Open questions include:**
 
-- What is the exact kernel structure of $\( f \)$?  
+- What is the exact kernel structure of $$ f $$?  
 - Is the projection linear, quasi-linear, or explicitly nonlinear?  
 - How is τ (phase-time) embedded in the kernel?  
-- Can $\( f \)$ be experimentally constrained through perceptual illusions or
+- Can $$ f $$ be experimentally constrained through perceptual illusions or
 temporal-asynchrony experiments?
 
 ### 8.2 Full Characterization of the G-Operator
 
-The operator $\( \mathcal{G} = f^\dagger f \)$ reconstructs Z-axis causal density
+The operator $$ \mathcal{G} = f^\dagger f $$ reconstructs Z-axis causal density
 from XY perceptual projections. While FFT provides the variational definition:
 
 $$
@@ -1625,13 +1625,13 @@ $$
 \arg\max_{\rho} S[\rho],
 $$
 
-the general solution for arbitrary $\(C\)$ remains unknown.
+the general solution for arbitrary $$C$$ remains unknown.
 
 Key challenges:
 
-- Uniqueness of the solution for $\(\rho\)$,
+- Uniqueness of the solution for $$\rho$$,
 - Regularity conditions ensuring smooth Z-extensions,
-- Closed-form solutions for multi-modal or discontinuous $\(C\)$.
+- Closed-form solutions for multi-modal or discontinuous $$C$$.
 
 ### 8.3 Experimental Detection of the C-Wave
 
@@ -1663,14 +1663,14 @@ $$
 
 What remains is to derive explicitly:
 
-- the mapping from Z-curvature to physical momentum $\(p\)$,
-- the constants relating geometric quantities to $\(\hbar\)$,
+- the mapping from Z-curvature to physical momentum $$p$$,
+- the constants relating geometric quantities to $$\hbar$$,
 - the precise limits under which the correspondence becomes exact.
 
 Without this, FFT remains a powerful generalization but not yet a verified
 extension of quantum mechanics.
 
-### 8.5 Derivation of the Cosmological Constant \( \Lambda \)
+### 8.5 Derivation of the Cosmological Constant $ \Lambda $
 
 FFT provides a promising geometric interpretation:
 
@@ -1685,7 +1685,7 @@ yet the theory must still demonstrate:
 - quantitative estimation consistent with astronomical observations,  
 - stability analysis across cosmic timescales,  
 - determination of the proportionality constant in terms of  
-  $\(\omega_0', D, \kappa,\)$ and χ.
+  $$\omega_0', D, \kappa,$$ and χ.
 
 The goal is to derive Λ purely from χδ geometry without fine-tuning.
 
@@ -1719,7 +1719,7 @@ has not yet been completed.
 Targets for future work:
 
 - determine whether GR is the low-curvature limit of χδ dynamics,  
-- derive the effective metric $\(g_{\mu\nu}\)$ from ψ and χ,  
+- derive the effective metric $$g_{\mu\nu}$$ from ψ and χ,  
 - identify how τ replaces coordinate time in relativistic settings.
 
 ### 8.8 Stability and Turbulence in ψ Dynamics
@@ -1742,7 +1742,7 @@ Open challenges:
 
 - emergent from interference stability,  
 - distinct from continuous coordinate time,  
-- linked to atomic clock frequency $\(\omega_0'\)$.
+- linked to atomic clock frequency $$\omega_0'$$.
 
 Unresolved questions:
 
@@ -1774,7 +1774,7 @@ This forms a bridge between FFT and neuroscience.
 
 | Domain | Open Problem |
 |--------|--------------|
-| Mathematics | Explicit kernel of $\( f \)$, full characterization of $\( \mathcal{G} \)$, τ-equation |
+| Mathematics | Explicit kernel of $$ f $$, full characterization of $$ \mathcal{G} $$, τ-equation |
 | Quantum Theory | Low-energy equivalence, operator mapping, uncertainty reduction |
 | Cosmology | Precise Λ derivation, energy conservation in T-fibers, structure formation |
 | Perception | C-wave detectability, Z-delay geometry, 2.5D reconstruction |
@@ -1816,9 +1816,9 @@ FFT provides a coherent set of results:
 
 2. **Perception as 2.5D Geometry**  
    Observable reality is generated by a projection operator  
-   \(
+   $
    C = f(\Psi)
-   \),
+   $,
    flattening Z-depth into an interference-based perceptual field.
 
 3. **Quantum Theory from χδ Geometry**  
@@ -1857,7 +1857,7 @@ Several essential tasks remain:
 
 - derive standard quantum mechanics rigorously as a low-energy limit,  
 - obtain Λ from ψ-divergence with observational accuracy,  
-- formalize the projection operator $\( f \)$ and the G-operator $\( \mathcal{G} \)$,  
+- formalize the projection operator $$ f $$ and the G-operator $$ \mathcal{G} $$,  
 - identify measurable signatures of the universal C-wave,  
 - determine τ-equations governing emergent temporal structure,  
 - explore artificial systems capable of ψ-steepening and causal reconstruction.

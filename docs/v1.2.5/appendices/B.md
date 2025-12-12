@@ -29,9 +29,9 @@ The χδ axiom (Appendix Z+0) defines:
 
 From this scaling:
 
-\[
+$$
 D = a + b
-\]
+$$
 
 defines the natural order of the fractal Laplacian Δᴰ appearing in FFT-1.
 
@@ -42,13 +42,13 @@ This appendix expands on how Δᴰ represents non-local causal geometry.
 # 3. Main Derivation / Model  
 
 ## 3.1 Mathematical Definition  
-For \(f \in L^2(\mathbb{R}^n)\):
+For $f \in L^2(\mathbb{R}^n)$:
 
-\[
+$$
 \widehat{\Delta^D f}(k) = -|k|^{2D}\hat f(k),
 \qquad
 0 < D \le 1.
-\]
+$$
 
 Properties:
 
@@ -56,19 +56,19 @@ Properties:
 - self-adjoint,  
 - negative definite,  
 - non-local,  
-- reduces to Δ when \(D=1\).  
+- reduces to Δ when $D=1$.  
 
 ---
 
 ## 3.2 Riesz Kernel Representation  
 
-\[
+$$
 (\Delta^D f)(x)
 =
 C_{n,D}
 \int_{\mathbb{R}^n}
 \frac{f(x) - f(y)}{|x-y|^{n+2D}}\,dy.
-\]
+$$
 
 Interpretation:
 
@@ -101,9 +101,9 @@ all emerge from Δᴰ acting on ψ = χδ.
 ### 5.1 Section 2（FFT-1）  
 The hybrid operator:
 
-\[
+$$
 \Delta + \ell_D^{\,2-D}\Delta^D
-\]
+$$
 
 generates:
 
@@ -118,9 +118,9 @@ This explains why Ψ develops filamentary and nested curvature structures.
 
 Δᴰ induces **Z-direction superdiffusion**:
 
-\[
+$$
 \Delta^D f \sim \text{super-diffusive spreading}.
-\]
+$$
 
 This provides a geometric basis for:
 
@@ -169,11 +169,11 @@ This implements the **geometric origin** of quantum behavior.
 
 Since ψ is a product of non-commuting χ and δ fields:
 
-\[
+$$
 \Delta^D(\chi\delta)
 \neq
 \chi\delta\,\Delta^D.
-\]
+$$
 
 This leads to:
 
@@ -184,11 +184,11 @@ This leads to:
 
 FFT-1’s nonlinear term:
 
-\[
+$$
 \kappa\|\nabla\psi\|^2
 \sim 
 \psi\,\Delta^D\psi
-\]
+$$
 
 is a direct consequence of this structure.
 
@@ -198,9 +198,9 @@ is a direct consequence of this structure.
 
 FFT predicts:
 
-\[
+$$
 \Lambda \propto |\gamma|^D,
-\]
+$$
 
 where γ is the Z-propagation constant.
 

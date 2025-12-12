@@ -19,9 +19,9 @@ It establishes:
 ## 2. Background (χδ–ψ Framework)  
 FFT begins with the operator identity:
 
-\[
+$$
 \boxed{\psi = \chi\delta}
-\]
+$$
 
 where:
 
@@ -45,23 +45,23 @@ arise from this single axiom.
 Fields live in the following spaces:
 
 - T-fiber:  
-  \[
+  $$
   \Psi(x,y,z,t) \in L^2(\mathbb{R}^3)
-  \]
+  $$
 - Observable C-wave (delayed-plane projection):  
-  \[
+  $$
   C(x,y,t) \in L^2(\mathbb{R}^2)
-  \]
+  $$
 - Information density:  
-  \[
+  $$
   \rho \in L^1 \cap L^2
-  \]
+  $$
 
 Operators:
 
-\[
+$$
 \chi,\;\delta : L^2(\mathbb{R}^3) \to L^2(\mathbb{R}^3)
-\]
+$$
 
 are assumed closable and densely defined.
 
@@ -69,13 +69,13 @@ are assumed closable and densely defined.
 
 ### 3.2 Definition of χ（Causal Curvature）  
 
-\[
+$$
 (\chi\Psi)(x,y,z,t)
 =
 \alpha_z\,\partial_z\Psi
 +
 \alpha_0\,\Psi.
-\]
+$$
 
 Properties:
 
@@ -87,7 +87,7 @@ Properties:
 
 ### 3.3 Definition of δ（Interference Operator）  
 
-\[
+$$
 \delta
 =
 \beta_{xy}\nabla_{xy}
@@ -97,7 +97,7 @@ Properties:
 \beta_r\partial_{\log r}
 +
 \beta_0.
-\]
+$$
 
 Captures planar interference, rotation, scale mixing, and log-r spirals.
 This operator acts on the delayed planes (XτZ / YτZ) used in FFT-3.
@@ -105,14 +105,14 @@ This operator acts on the delayed planes (XτZ / YτZ) used in FFT-3.
 ---
 
 ### 3.4 Algebraic Definition of ψ  
-\[
+$$
 \boxed{\psi[\Psi] = (\chi\delta)[\Psi]}
-\]
+$$
 
 with:
 
-- **non-commutativity:** \([ \chi , \delta ] \neq 0\)  
-- **positivity:** \( \rho_T \propto \|\nabla\psi\|^2 \ge 0 \)  
+- **non-commutativity:** $[ \chi , \delta ] \neq 0$  
+- **positivity:** $ \rho_T \propto \|\nabla\psi\|^2 \ge 0 $  
 - **geometric interpretation:** ψ is not a wave but an *appearance field*  
 
 ---
@@ -122,22 +122,22 @@ with:
 ### 4.1 Scaling Law  
 Define scaling exponents:
 
-\[
+$$
 \chi_\lambda = \lambda^{a}\chi,\qquad
 \delta_\lambda = \lambda^{b}\delta.
-\]
+$$
 
 Then:
 
-\[
+$$
 \psi_\lambda = \lambda^{a+b}\psi.
-\]
+$$
 
 Thus:
 
-\[
+$$
 \boxed{D = a + b}
-\]
+$$
 
 is the effective fractal dimension used in:
 
@@ -195,9 +195,9 @@ This appendix underpins:
 
 ## 7. Summary  
 
-\[
+$$
 \boxed{\psi = \chi\delta}
-\]
+$$
 
 with:
 
@@ -205,7 +205,7 @@ with:
 - δ: XY delayed-plane interference  
 - ψ: appearance field（not a wave）  
 - Scaling: D = a + b  
-- Variational principle: \( \delta\mathcal{A}[\psi]=0 \)  
+- Variational principle: $ \delta\mathcal{A}[\psi]=0 $  
 - Defines all vacua, all dynamics, all perceptual geometry  
 
 > **The χδ principle is the single generative law from which  

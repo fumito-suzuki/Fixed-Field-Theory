@@ -9,7 +9,7 @@ mechanics.
 
 The resulting equation is:
 
-\[
+$$
 \boxed{
 \partial_t\psi
 =
@@ -18,7 +18,7 @@ The resulting equation is:
 + \kappa\|\nabla\psi\|^2
 + \xi
 }
-\]
+$$
 
 ---
 
@@ -51,9 +51,9 @@ This appendix shows that ψ must satisfy a **variationally optimal evolution law
 # 3. Main Derivation / Model  
 
 ## 3.1 Definition of the Generator Field  
-\[
+$$
 \psi = \chi\delta.
-\]
+$$
 
 Because χ and δ are non-commuting geometric operators:
 
@@ -68,7 +68,7 @@ Because χ and δ are non-commuting geometric operators:
 
 Define the action:
 
-\[
+$$
 \boxed{
 \mathcal{A}[\psi]
 =
@@ -83,7 +83,7 @@ Define the action:
 \xi\psi
 \right] dV\, dt
 }
-\]
+$$
 
 This action includes:
 
@@ -100,46 +100,46 @@ These correspond directly to the terms in the Sora Equation.
 
 Euler–Lagrange condition:
 
-\[
+$$
 \frac{\partial\mathcal{L}}{\partial\psi}
 -
 \nabla\cdot
 \frac{\partial\mathcal{L}}{\partial(\nabla\psi)}
 = 0.
-\]
+$$
 
 ### (1) Kinetic term  
-\[
+$$
 \frac{\partial\mathcal{L}}{\partial(\nabla\psi)} = D\nabla\psi,
 \quad
 \nabla\cdot(D\nabla\psi) = D\Delta\psi.
-\]
+$$
 
 ### (2) Nonlinear geometric term  
-Let \(u = |\nabla\psi|\):
+Let $u = |\nabla\psi|$:
 
-\[
+$$
 \frac{\partial}{\partial(\nabla\psi)}\left(\frac{\kappa}{3}u^3\right)
 = \kappa u\nabla\psi.
-\]
+$$
 
 Leading to:
 
-\[
+$$
 \nabla\cdot(\kappa u\nabla\psi)
 \simeq
 \kappa\|\nabla\psi\|^2 + \text{(higher-order)}.
-\]
+$$
 
 FFT retains the dominant χδ-amplification term.
 
 ### (3) Potential + noise term  
 
-\[
+$$
 \frac{\partial\mathcal{L}}{\partial\psi}
 =
 -\omega_0' + \xi.
-\]
+$$
 
 ---
 
@@ -147,7 +147,7 @@ FFT retains the dominant χδ-amplification term.
 
 Collecting all contributions:
 
-\[
+$$
 \boxed{
 \partial_t\psi
 =
@@ -156,13 +156,13 @@ Collecting all contributions:
 + \kappa\|\nabla\psi\|^2
 + \xi
 }
-\]
+$$
 
 Thus the Sora Equation follows directly from action minimization:
 
-\[
+$$
 \delta \mathcal{A}[\psi] = 0.
-\]
+$$
 
 This demonstrates that ψ evolves as the **least-action generator** of χδ-geometry.
 
@@ -179,11 +179,11 @@ Since ψ = χδ:
 
 The variational structure parallels GR:
 
-\[
+$$
 \delta\int R\sqrt{-g}\,d^4x = 0
 \quad\leftrightarrow\quad
 \delta\mathcal{A}[\chi\delta]=0.
-\]
+$$
 
 ---
 
@@ -219,10 +219,10 @@ Small ∇ψ reduces nonlinearities → FFT reproduces quantum behavior.
 - This guarantees consistency with FFT-1, FFT-2, FFT-3 and with the geometric interpretation in Sections 4–7.  
 - The variational principle provides FFT with a unified mathematical backbone.
 
-\[
+$$
 \boxed{
 \delta\mathcal{A} = 0
 \;\Longrightarrow\;
 \partial_t\psi=\omega_0'+D\Delta\psi+\kappa\|\nabla\psi\|^2+\xi.
 }
-\]
+$$

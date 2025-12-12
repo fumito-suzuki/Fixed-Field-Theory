@@ -48,13 +48,13 @@ Appendix A provides the operators that make this system mathematically well-defi
 ## 3.1 FFT-1 Operator  
 The primary evolution law is:
 
-\[
+$$
 \hat{\mathcal{S}}_{\mathrm{FFT}}\Psi = 0.
-\]
+$$
 
 with
 
-\[
+$$
 \hat{\mathcal{S}}_{\mathrm{FFT}}
 =
 i\hbar \partial_t
@@ -64,35 +64,35 @@ i\hbar \partial_t
 - \hbar(c_1\partial_z + c_2\partial_\theta + c_3\partial_{\log r})
 - \mathcal{N}[\Psi;\rho,C]
 - \mathcal{J}[\rho,C].
-\]
+$$
 
 Definitions:
 
 - Laplacian  
-  \[
+  $$
   \Delta = \partial_x^2 + \partial_y^2 + \partial_z^2.
-  \]
+  $$
 
 - Fractal Laplacian  
-  \[
+  $$
   \widehat{\Delta^D f}(k) = -|k|^{2D}\hat f(k).
-  \]
+  $$
 
 - Drift terms encode χ-induced anisotropy.  
-- Nonlinearity \(\mathcal{N}\) arises from ψ = χδ.  
-- Cross-field coupling \(\mathcal{J}\) couples Ψ ↔ ρ ↔ C.
+- Nonlinearity $\mathcal{N}$ arises from ψ = χδ.  
+- Cross-field coupling $\mathcal{J}$ couples Ψ ↔ ρ ↔ C.
 
 ---
 
 ## 3.2 FFT-2: Information Density Equation  
 
-\[
+$$
 \partial_t \rho + \nabla\cdot\mathbf{J} + \mathcal{S}_\rho = 0.
-\]
+$$
 
 Flux decomposition:
 
-\[
+$$
 \mathbf{J}
 =
 \mathbf{J}^{(\mathrm{std})}
@@ -100,32 +100,32 @@ Flux decomposition:
 \mathbf{J}^{(D)}
 +
 \mathbf{J}^{(\mathrm{geo})}.
-\]
+$$
 
 - Standard flow  
-  \[
+  $$
   \mathbf{J}^{(\mathrm{std})}
   = \frac{\hbar}{2mi}(\Psi^*\nabla\Psi - \Psi\nabla\Psi^*).
-  \]
+  $$
 
 - Fractal flow  
-  \[
+  $$
   \mathbf{J}^{(D)}
   = \ell_D^{2-D}\frac{\hbar}{2mi}(\Psi^*\nabla^D\Psi - \Psi\nabla^D\Psi^*).
-  \]
+  $$
 
 - Geometric drift  
-  \[
+  $$
   \mathbf{v}_{\mathrm{geo}} = \nabla(\chi).
-  \]
+  $$
 
 Source term:
 
-\[
+$$
 \mathcal{S}_\rho
 =
 \frac{2}{\hbar}\Im[\Psi^*(\mathcal{N}+\mathcal{J})\Psi].
-\]
+$$
 
 ---
 
@@ -133,34 +133,34 @@ Source term:
 
 FFT-3 evolves the observable C-wave:
 
-\[
+$$
 i\hbar\partial_t C
 =
 \Pi_{\mathrm{obs}}
 \big[
 V\Psi + \mathcal{N}[\Psi;\rho,C]\Psi + \mathcal{J}[\rho,C]\Psi
 \big].
-\]
+$$
 
 ### Projection operator Π_obs  
 Instead of XY-projection（旧仕様）, FFT uses τ-aware delayed-plane projection:
 
-\[
+$$
 (\Pi_{\mathrm{obs}}\Psi)(x,y,t)
 =
 \int_{-\infty}^{\infty}
 K_{\mathrm{obs}}(z,\tau)\,\Psi(x,y,z,t)\,dz,
-\]
+$$
 
 where:
 
-- \( K_{\mathrm{obs}}(z,\tau) \) is the τ-dependent kernel,  
-- extending the mathematical kernel \(f\) from Appendix Z+18,  
+- $ K_{\mathrm{obs}}(z,\tau) $ is the τ-dependent kernel,  
+- extending the mathematical kernel $f$ from Appendix Z+18,  
 - producing **XτZ / YτZ** という 2.5D C-wave.
 
 Thus:
 
-- ρ influences C via \(\mathcal{J}\),  
+- ρ influences C via $\mathcal{J}$,  
 - C and ψ feed back into Ψ via FFT-1,  
 - appearance ψ emerges only through C-wave geometry.
 
@@ -168,10 +168,10 @@ Thus:
 
 # 4. Relation to χδ Geometry  
 
-- Nonlinearity \(\mathcal{N}\) arises from χδ coupling:  
-  \[
+- Nonlinearity $\mathcal{N}$ arises from χδ coupling:  
+  $$
   \psi = \chi\delta.
-  \]
+  $$
 
 - Drift terms align with χ gradients.  
 - Interference anisotropy follows δ.  

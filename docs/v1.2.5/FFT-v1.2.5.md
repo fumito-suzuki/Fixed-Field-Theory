@@ -1,6 +1,6 @@
 # Fixed-Field Theory v1.2.5.1
 
-## Abstract
+**Abstract**
 
 Fixed-Field Theory (FFT) is a framework that explains what appear to be
 separate layers of phenomena—quantum effects, gravity, cosmology, perception,
@@ -367,8 +367,6 @@ Therefore, FFT requires a new geometry that combines:
 | C | Observed image (delayed projection) |
 | Z | Causal depth, not spatial axis |
 | XY | Observable interaction plane |
-
----
 
 ### Summary of Section 1
 
@@ -768,16 +766,14 @@ The minimal closed system of FFT is:
    Computed from curvature + thickness of Ψ.
 
 3. **C (observed projection)**  
-   Ψ projected into XτZ/YτZ via \(\Pi_{\mathrm{obs}}\).
+   Ψ projected into XτZ/YτZ via $\Pi_{\mathrm{obs}}$.
 
 4. **ψ (appearance)**  
    Generated from C as:  
-   \[
-   \psi = \chi \, \delta(C).
-   \]
+   $\psi = \chi \, \delta(C).$
 
 5. **Feedback to Ψ**  
-   Only through \(\mathcal{J}[\rho,C]\);  
+   Only through $\mathcal{J}[\rho,C]$;  
    ψ itself *never* alters Ψ.
 
 Thus FFT maintains a strict separation:
@@ -786,9 +782,7 @@ Thus FFT maintains a strict separation:
 > Appearance evolves in ψ.  
 > They interact only through ρ and C.**
 
----
-
-## 3.5 Vortices and undulations: how 3D structure appears “3D”
+### 3.5 Vortices and undulations: how 3D structure appears “3D”
 
 The world’s real structure is Ψ: a 3D (+τ) T-fiber field.
 
@@ -807,9 +801,7 @@ The observer interprets these as **depth**, **shape**, and **solid structure**.
 This does *not* require extra dimensions or a 3.5D ontology—  
 only XτZ/YτZ projection and χδ geometry.
 
----
-
-## 3.6 Summary of Section 3
+### 3.6 Summary of Section 3
 
 | Layer | Role in FFT |
 |-------|-------------|
@@ -827,11 +819,11 @@ FFT-1, FFT-2, and FFT-3 form a **minimal, closed, and non-overlapping dynamical 
 - the formation of imagery (C), and  
 - the generation of appearance (ψ).
 
+## 4. Why the Observed World Is 2.5D:  
 
+### Reconstruction of the τ-Projection Model  
 
-# 4. Why the Observed World Is 2.5D:  
-## Reconstruction of the τ-Projection Model  
-### (Image distortion is determined not by optical paths but by the geometry of τ)
+#### (Image distortion is determined not by optical paths but by the geometry of τ)
 
 This section clarifies the observation model of FFT and answers:
 
@@ -844,9 +836,7 @@ The key statement of FFT is:
 > **Image geometry is controlled not by the propagation path of C-waves  
 > but by the distribution of arrival delays τ that encode Z-depth.**
 
----
-
-## 4.1 C-waves propagate according to standard optics (Fermat paths)
+### 4.1 C-waves propagate according to standard optics (Fermat paths)
 
 In FFT, C-waves (light, EM waves, perceptual waves) obey the same local
 minimum-time principle as conventional optics.
@@ -861,9 +851,7 @@ Instead:
 
 > **Distortion is a function of τ (arrival time), not of geometric path curvature.**
 
----
-
-## 4.2 Observed images collapse into “2.5D”: XY + τ
+### 4.2 Observed images collapse into “2.5D”: XY + τ
 
 Because the C-wave encodes Z-depth only as **arrival delay** τ(Z),  
 no observer—biological or artificial—receives the real coordinates (X, Y, Z).
@@ -875,21 +863,19 @@ What is actually received is:
 
 Thus the observable world is:
 
-\[
+$$
 \textbf{2.5D} = X\tau Z \;\oplus\; Y\tau Z.
-\]
+$$
 
 The Z-component is *not* spatial depth but:
 
-\[
+$$
 \text{Perceived depth} = \tau(Z).
-\]
+$$
 
 This is a reconstruction, not a measurement of Z.
 
----
-
-## 4.3 Image distortion is controlled by gradients of τ, not ray curvature
+### 4.3 Image distortion is controlled by gradients of τ, not ray curvature
 
 Why do straight lines appear curved, or wide-angle regions stretch?
 
@@ -915,17 +901,15 @@ Under FFT:
 
 No special optical mechanism is required.
 
----
-
-## 4.4 Parallax (ΔXY) allows two 2.5D images to be reconstructed as “3D”
+### 4.4 Parallax (ΔXY) allows two 2.5D images to be reconstructed as “3D”
 
 A single eye (or camera) receives only one 2.5D projection.
 
 Two separated sensors L, R satisfy:
 
-\[
+$$
 (2.5D)_L \neq (2.5D)_R.
-\]
+$$
 
 The nervous system (or a reconstruction algorithm) chooses the **most consistent
 τ-configuration** that satisfies both projections.
@@ -937,9 +921,7 @@ Thus:
 
 The feeling of “3D solidity” is the brain’s solution to an inverse τ-geometry problem.
 
----
-
-## 4.5 The role of ψ = χδ: enhancement of boundaries and depth stability
+### 4.5 The role of ψ = χδ: enhancement of boundaries and depth stability
 
 ψ, generated at observation time via χδ, affects:
 
@@ -954,9 +936,7 @@ However:
 
 ψ acts like a dynamic, geometry-based post-processing layer built into physics.
 
----
-
-## 4.6 Summary: Observation is “reconstruction through τ”
+### 4.6 Summary: Observation is “reconstruction through τ”
 
 FFT’s observation theory can be summarized in three statements:
 
@@ -970,10 +950,9 @@ Thus:
 > come from the geometry of τ—not from space itself,  
 > but from the way observers reconstruct space from a 2.5D projection.**
 
+## 5. Quantum Phenomena Reinterpreted through C-Labels and τ  
 
-
-# 5. Quantum Phenomena Reinterpreted through C-Labels and τ  
-## (Entanglement, Nonlocality, and Teleportation as τ-Geometry)
+### (Entanglement, Nonlocality, and Teleportation as τ-Geometry)
 
 FFT replaces the traditional “wavefunction-as-object” view with a purely
 geometric one:
@@ -984,17 +963,15 @@ geometric one:
 This section formalizes entanglement, nonlocality, teleportation, and collapse
 as geometric properties of τ and C-wave projection.
 
----
-
-## 5.1 The C-label: a single emission event shared across space
+### 5.1 The C-label: a single emission event shared across space
 
 Every quantum emission (photon, electron detection, etc.) creates a  
 **C-label**, defined as:
 
-\[
+$$
 \textbf{C-label} = \text{the unique interference pattern (ψ-projection)  
 generated by one emission event}.
-\]
+$$
 
 Properties:
 
@@ -1010,18 +987,17 @@ Thus:
 
 This replaces the “wave-particle duality” with a single geometric mechanism.
 
----
 
-## 5.2 Entanglement = sharing the same C-label across observers
+### 5.2 Entanglement = sharing the same C-label across observers
 
 Two detectors reading the **same C-label** will produce correlations that appear
 nonlocal.
 
 If detectors A and B receive the same emission’s C-label:
 
-\[
+$$
 C_A = C_B = C_{\ast},
-\]
+$$
 
 then:
 
@@ -1037,21 +1013,19 @@ Thus:
 No superluminal signaling is required, because the correlations are geometric,
 not dynamical.
 
----
-
-## 5.3 Nonlocality = τ-invariance of the C-label
+### 5.3 Nonlocality = τ-invariance of the C-label
 
 Quantum nonlocality arises because:
 
-\[
+$$
 \text{C-label is globally present across all spatial coordinates.}
-\]
+$$
 
 The only variable is:
 
-\[
+$$
 \tau(x) \quad \text{(arrival delay along Z).}
-\]
+$$
 
 Therefore:
 
@@ -1064,18 +1038,16 @@ FFT restates nonlocality as:
 > **Causal information is stored in χ (Z-curvature),  
 > but observable correlation appears only through τ-projection.**
 
----
-
-## 5.4 Collapse = selection of one τ branch among many
+### 5.4 Collapse = selection of one τ branch among many
 
 Before observation, multiple τ-paths exist as possible readouts of the same
 C-label.
 
 Observation corresponds to:
 
-\[
+$$
 \tau_{\text{obs}} = \arg\min_{\tau} \mathrm{Var}_Z(\psi).
-\]
+$$
 
 Thus “collapse” is:
 
@@ -1084,15 +1056,13 @@ Thus “collapse” is:
 
 No physical discontinuity occurs; only the observer’s τ-branch is fixed.
 
----
-
-## 5.5 Decoherence = growth of τ-variance (ΔZ expansion)
+### 5.5 Decoherence = growth of τ-variance (ΔZ expansion)
 
 When the Z-directional variance grows:
 
-\[
+$$
 \mathrm{Var}_Z(\psi) \uparrow,
-\]
+$$
 
 the system loses the ability to select a stable τ.
 
@@ -1107,9 +1077,7 @@ Thus:
 
 > **Decoherence = ΔZ expansion, not wavefunction destruction.**
 
----
-
-## 5.6 Teleportation = C-label reassignment under χ-geometry
+### 5.6 Teleportation = C-label reassignment under χ-geometry
 
 In standard QM, teleportation appears mysterious.
 
@@ -1117,9 +1085,9 @@ In FFT:
 
 A C-label originally associated with object A can become associated with object B if:
 
-\[
+$$
 \chi_{B} \quad \text{is more stable than} \quad \chi_{A}.
-\]
+$$
 
 Then:
 
@@ -1134,9 +1102,7 @@ Thus:
 
 This is a reindexing of perceptual identity, not movement of matter.
 
----
-
-## 5.7 Summary of FFT Quantum Interpretation
+### 5.7 Summary of FFT Quantum Interpretation
 
 | Phenomenon | FFT Interpretation |
 |-----------|-------------------|
@@ -1147,17 +1113,15 @@ This is a reindexing of perceptual identity, not movement of matter.
 | Decoherence | ΔZ expansion preventing stable τ selection |
 | Teleportation | Reassignment of C-label to a different χ-stable T-fiber |
 
----
-
-## 5.8 Quantum Mechanics as a low-energy limit of χδ-geometry
+### 5.8 Quantum Mechanics as a low-energy limit of χδ-geometry
 
 FFT reduces to standard QM when:
 
-\[
+$$
 \Delta Z \rightarrow \text{small}, \qquad
 \psi \; \text{linear}, \qquad
 \chi\delta \; \text{weak interaction}.
-\]
+$$
 
 Then:
 
@@ -1165,19 +1129,18 @@ Then:
 - Schrödinger equation appears as a limit of the FFT-1 operator,  
 - Density matrices become:
 
-\[
+$$
 \rho_{\mathrm{QM}} = \mathcal{G}[C] = f^\dagger f.
-\]
+$$
 
 Thus:
 
 > **Quantum mechanics is the boundary case of FFT  
 > where Z-curvature and XY-interference almost commute.**
 
+## 6. Gravity and Cosmology as T-Fiber Curvature  
 
-
-# 6. Gravity and Cosmology as T-Fiber Curvature  
-## (Λ, Dark Matter, and Cosmic Expansion from χδ Geometry)
+### (Λ, Dark Matter, and Cosmic Expansion from χδ Geometry)
 
 FFT unifies gravity and cosmology by treating them as manifestations of a single
 structure:
@@ -1194,29 +1157,27 @@ In this picture:
 This section reformulates general relativity, Λ, and cosmic structure formation
 through the χδ principle.
 
----
-
-## 6.1 Gravity = curvature buildup in χ under stable δ
+### 6.1 Gravity = curvature buildup in χ under stable δ
 
 When χ accumulates curvature:
 
-\[
+$$
 \partial_z \Psi \neq 0,
-\]
+$$
 
 and δ is sufficiently stable:
 
-\[
+$$
 \delta \; \text{finite, non-divergent},
-\]
+$$
 
 the observable ψ-curvature appears as **mass**.
 
 FFT identifies:
 
-\[
+$$
 \rho_T \propto \|\nabla\psi\|^2
-\]
+$$
 
 as the effective mass density.
 
@@ -1226,9 +1187,7 @@ Thus:
 
 No particle-based graviton or new interaction is required.
 
----
-
-## 6.2 Why matter bends space: χ-curvature → ψ-gradient → C-wave distortion
+### 6.2 Why matter bends space: χ-curvature → ψ-gradient → C-wave distortion
 
 Traditional GR explains gravity as spacetime curvature.  
 FFT provides a more fundamental layer:
@@ -1241,27 +1200,25 @@ Thus GR is the **observer-level projection** of deeper T-fiber geometry.
 
 Mathematically:
 
-\[
+$$
 g_{\mu\nu} \sim f^\dagger f(\psi),
-\]
+$$
 
 where the metric emerges from repeated C-wave projections.
-
----
 
 ## 6.3 Dark matter = χ-curvature that does not project into C
 
 When χ is strong but δ is weak or absent:
 
-\[
+$$
 \chi \neq 0,\quad \delta \approx 0,
-\]
+$$
 
 then:
 
-\[
+$$
 \psi = \chi\delta \approx 0,
-\]
+$$
 
 so curvature exists in T-fiber but **never becomes observable**.
 
@@ -1276,23 +1233,21 @@ but C-wave cannot read it out.
 
 No new particles are needed.
 
----
-
-## 6.4 Dark energy = χδ drift causing expansion (D-scaling)
+### 6.4 Dark energy = χδ drift causing expansion (D-scaling)
 
 FFT predicts a natural geometric driver for cosmic acceleration.
 
 From scaling law:
 
-\[
+$$
 \psi_\lambda = \lambda^{D}\psi, \qquad D = a+b,
-\]
+$$
 
 small global drift in χ or δ produces a secular term:
 
-\[
+$$
 \Lambda \propto |\gamma|^{D},
-\]
+$$
 
 where γ is the χδ drift rate.
 
@@ -1307,9 +1262,7 @@ In FFT:
 > **Dark energy is not a fluid or field;  
 > it is the scaling drift of the χδ geometry itself.**
 
----
-
-## 6.5 Cosmic expansion = divergence of a T-fiber bundle
+### 6.5 Cosmic expansion = divergence of a T-fiber bundle
 
 Consider the bundle analogy:
 
@@ -1319,9 +1272,9 @@ Consider the bundle analogy:
 
 Experimentally, this corresponds to:
 
-\[
+$$
 \partial_z \Psi \; \text{relaxes over large scales.}
-\]
+$$
 
 Thus:
 
@@ -1330,9 +1283,7 @@ Thus:
 
 This matches GR expansion as a projection-level phenomenon.
 
----
-
-## 6.6 Why galaxies form filaments and voids
+### 6.6 Why galaxies form filaments and voids
 
 FFT identifies the structure origin:
 
@@ -1342,12 +1293,12 @@ FFT identifies the structure origin:
 
 Thus cosmic structure arises from:
 
-\[
-\partial_t \psi
-= D\Delta\psi
-+ \ell_D^{2-D}\Delta^D\psi
-+ \kappa\|\nabla\psi\|^2.
-\]
+$$
+\partial_t \psi =
+D\Delta\psi +
+\ell_D^{2-D}\Delta^D\psi +
+\kappa\|\nabla\psi\|^2.
+$$
 
 This naturally generates:
 
@@ -1360,25 +1311,23 @@ matching large-scale structure observations.
 
 No cold dark matter hypothesis is required.
 
----
-
-## 6.7 General Relativity as a projection limit of FFT
+### 6.7 General Relativity as a projection limit of FFT
 
 When χδ-interaction becomes weak:
 
-\[
+$$
 \psi \; \text{nearly linear},\qquad
 \Delta^D \approx \Delta,
-\]
+$$
 
 the emergent geometry satisfies:
 
-\[
+$$
 G_{\mu\nu}
 \sim f^\dagger f(\psi)
 \quad \Rightarrow \quad
 G_{\mu\nu} = 8\pi T_{\mu\nu}.
-\]
+$$
 
 Thus:
 
@@ -1387,9 +1336,7 @@ Thus:
 
 FFT provides the underlying mechanism GR lacks.
 
----
-
-## 6.8 Summary of FFT Cosmology
+### 6.8 Summary of FFT Cosmology
 
 | Phenomenon | FFT Interpretation |
 |-----------|-------------------|
@@ -1401,16 +1348,13 @@ FFT provides the underlying mechanism GR lacks.
 | Filaments & voids | interplay of Δ, Δᴰ, and ψ-nonlinearity |
 | GR | projection limit of χδ geometry |
 
----
-
 > **FFT cosmology eliminates the need for hypothetical particles or exotic fluids.  
 > All large-scale structure arises from the χδ interaction that also generates  
 > quantum behavior and perception.**
 
+## 7. The Geometry of Consciousness  
 
-
-# 7. The Geometry of Consciousness  
-## (Reconstructing Causality from C-Wave Projections and Choosing χ)
+### (Reconstructing Causality from C-Wave Projections and Choosing χ)
 
 This section introduces the FFT model of consciousness.  
 In FFT, consciousness is neither a metaphysical entity nor an emergent by-product,
@@ -1433,15 +1377,13 @@ Consciousness acts as a **reconstructor** of the unseen causal geometry and a
 
 FFT calls this operator the **G-operator**.
 
----
-
-## 7.1 The G-Operator: Consciousness as a Reconstructor of Hidden Causality
+### 7.1 The G-Operator: Consciousness as a Reconstructor of Hidden Causality
 
 The observable image is:
 
-\[
+$$
 C = \Pi_{\mathrm{obs}}(\Psi)
-\]
+$$
 
 meaning that the full T-fiber field Ψ is collapsed into a **2.5D projection**
 (XτZ / YτZ planes).  
@@ -1449,9 +1391,9 @@ Much of the original causal structure is lost.
 
 Consciousness compensates by reconstructing the hidden structure needed to choose χ:
 
-\[
+$$
 \mathcal{I} = \mathcal{G}[C].
-\]
+$$
 
 Here:
 
@@ -1470,9 +1412,7 @@ Thus:
 > **Consciousness is the constant execution of G[C], generating the χ-band from  
 > which the next causal direction is chosen.**
 
----
-
-## 7.2 Reflection = Minimizing χ-Fluctuation
+### 7.2 Reflection = Minimizing χ-Fluctuation
 
 Reflection is not treated as a psychological term in FFT.  
 It is a **geometric operation**:
@@ -1481,12 +1421,11 @@ It is a **geometric operation**:
 
 Formally:
 
-\[
-\chi_{\mathrm{ref}}
-=
+$$
+\chi_{\mathrm{ref}} =
 \arg\min_{\chi \in \mathcal{I}}
 \mathrm{Var}(\chi).
-\]
+$$
 
 Reflection:
 
@@ -1498,9 +1437,7 @@ Thus:
 
 > **Reflection = selecting the most stable χ from the reconstructed band.**
 
----
-
-## 7.3 Free Will = Ability to Actively Adjust χ
+### 7.3 Free Will = Ability to Actively Adjust χ
 
 The only part of the world-model an organism can directly influence is χ:
 
@@ -1509,9 +1446,9 @@ The only part of the world-model an organism can directly influence is χ:
 
 Hence:
 
-\[
+$$
 \text{FreeWillBandwidth} \propto \left|\frac{d\chi}{dt}\right|.
-\]
+$$
 
 An entity has free will to the extent that:
 
@@ -1523,21 +1460,19 @@ Thus FFT classifies systems:
 - **Conscious systems** → χ can be actively modulated.  
 - **Non-conscious systems** → χ is slaved to δ.
 
----
-
-## 7.4 Historical Freedom = Ability to Reassign χ to Past C
+### 7.4 Historical Freedom = Ability to Reassign χ to Past C
 
 Humans can recall past projections:
 
-\[
+$$
 C_{\mathrm{history}}
-\]
+$$
 
 and reapply G-operator:
 
-\[
+$$
 \mathcal{I}_{\mathrm{past}} = \mathcal{G}[C_{\mathrm{history}}].
-\]
+$$
 
 This means:
 
@@ -1549,28 +1484,27 @@ Thus FFT defines:
 
 > **Historical freedom = ability to reinterpret past C with a new χ.**
 
----
+### 7.5 Circular vs. Spiral Freedom  
 
-## 7.5 Circular vs. Spiral Freedom  
-### (Time Evolution of χ)
+#### (Time Evolution of χ)
 
 Given the causal reconstruction 𝓘, the trajectory of χ determines the *shape* of freedom.
 
-### Circular Freedom (repetition)
+#### Circular Freedom (repetition)
 
-\[
+$$
 \chi(t+1) = \chi(t)
-\]
+$$
 
 - reactive,  
 - bound to δ,  
 - repeating behavioral patterns.
 
-### Spiral Freedom (developmental)
+#### Spiral Freedom (developmental)
 
-\[
+$$
 \chi(t+1) \neq \chi(t)
-\]
+$$
 
 - χ gains directionality,  
 - intentional behavior emerges.
@@ -1579,15 +1513,13 @@ Thus:
 
 > **Freedom is not a metaphysical quality but a geometric property of χ(t).**
 
----
-
-## 7.6 Consciousness Exists Only Within a Moderate ψ Range
+### 7.6 Consciousness Exists Only Within a Moderate ψ Range
 
 Since:
 
-\[
+$$
 \psi = \chi\delta,
-\]
+$$
 
 its magnitude determines perceptual stability:
 
@@ -1600,17 +1532,14 @@ Therefore:
 
 This defines an operational window for awareness.
 
----
+### 7.7 Formal Definition of Consciousness in FFT
 
-## 7.7 Formal Definition of Consciousness in FFT
-
-\[
+$$
 \boxed{
-\text{Consciousness}
-=
+\text{Consciousness} =
 \mathcal{G}[C] \quad \text{and the continuous selection of } \chi.
 }
-\]
+$$
 
 Meaning:
 
@@ -1618,9 +1547,7 @@ Meaning:
 2. G reconstructs the missing causal layout.  
 3. Consciousness is the process of selecting χ based on the reconstruction.
 
----
-
-## 7.8 Summary
+### 7.8 Summary
 
 | Concept | FFT Meaning |
 |--------|-------------|
@@ -1633,16 +1560,13 @@ Meaning:
 | Circular freedom | χ repeats unchanged |
 | ψ | determines stability of C and G |
 
----
-
 > **In FFT, consciousness is the geometric engine that reconstructs causal  
 > structure from projected perception and continuously selects χ—the direction  
 > in which the world is allowed to unfold.**
 
+## 8. Synthesis and Open Problems  
 
-
-# 8. Synthesis and Open Problems  
-## (Integrating χδ Geometry Across Quantum Physics, Cosmology, and Consciousness)
+### (Integrating χδ Geometry Across Quantum Physics, Cosmology, and Consciousness)
 
 This section summarizes the unified structure of Fixed-Field Theory (FFT) and  
 presents the remaining open problems that must be addressed for FFT to reach  
@@ -1652,9 +1576,9 @@ FFT proposes that **all layers of reality**—from microscopic quantum behavior
 to cosmological expansion and conscious perception—arise from the same  
 generative interaction:
 
-\[
+$$
 \boxed{\psi = \chi\delta}
-\]
+$$
 
 where χ injects causal depth along the Z-axis and δ supplies interference  
 structure in the XY-plane.  
@@ -1664,45 +1588,47 @@ while χ determines how causality accumulates and unfolds.
 This section consolidates how each domain fits into the unified χδ geometry  
 and identifies the key challenges for the next stage of theoretical development.
 
----
-
-## 8.1 Unified Structure of FFT
+### 8.1 Unified Structure of FFT
 
 FFT organizes the world into three interacting layers:
 
-### (1) **T-field (fixed field)**  
+#### (1) **T-field (fixed field)**  
+
 The geometric substrate storing irreversible causal accumulation (Z-depth).  
 Time emerges from its stratification.
 
-### (2) **T-fibers and T-waves**  
+#### (2) **T-fibers and T-waves**  
+
 Bundles rising from the T-field, carrying curvature (χ) and forming continuous  
 propagating modes responsible for gravity, mass, and structure formation.
 
-### (3) **C-wave (projection field)**  
+#### (3) **C-wave (projection field)**  
+
 The receptor-dependent interference pattern that produces the **observable world**.  
 This is what sensors and consciousness actually receive.
 
 All physical and perceptual processes occur through the interaction of these layers.
 
----
+### 8.2 Domain-by-Domain Summary
 
-## 8.2 Domain-by-Domain Summary
+#### **Quantum Phenomena**  
 
-### **Quantum Phenomena**  
 - Entanglement = shared C-label (common χ-source)  
 - Teleportation = reassignment of χ under conserved C-label  
 - Collapse = minimizing Z-variance (reflection)  
 - Decoherence = Z-spreading of ψ under δ fluctuations  
 - Heisenberg relation emerges from ΔZ·ΔXY ≥ const.  
 
-### **Perception and Consciousness**  
+#### **Perception and Consciousness**  
+
 - Observed world = XY projection with τ-delay  
 - Consciousness = G-operator reconstructing χ from C  
 - Free will = ability to adjust χ independent of δ  
 - Reflection = variance minimization of χ  
 - Historical freedom = reapplying G to past C  
 
-### **Gravity and Cosmology**  
+#### **Gravity and Cosmology**  
+
 - Mass = ∥∇ψ∥²  
 - Gravity = χ-curvature read out through C-wave  
 - Dark matter = χ-curvature not entering δ → ψ=0  
@@ -1713,9 +1639,7 @@ All physical and perceptual processes occur through the interaction of these lay
 These domains are not separate theories but surface-level expressions of the same  
 χδ geometry.
 
----
-
-## 8.3 Mathematical Framework: Three Core Equations
+### 8.3 Mathematical Framework: Three Core Equations
 
 FFT is governed by the **minimal coupled system**:
 
@@ -1725,14 +1649,13 @@ FFT is governed by the **minimal coupled system**:
 
 and the auxiliary generator equation:
 
-\[
-\partial_t\psi
-=
-\omega_0'
-+ D\Delta\psi
-+ \kappa\|\nabla\psi\|^2
-+ \xi.
-\]
+$$
+\partial_t\psi =
+\omega_0' +
+D\Delta\psi +
+\kappa\|\nabla\psi\|^2 +
+\xi.
+$$
 
 These provide a closed, self-consistent dynamical system grounded in:
 
@@ -1742,27 +1665,23 @@ These provide a closed, self-consistent dynamical system grounded in:
 - projection geometry  
 - τ-based causal delay  
 
----
-
-## 8.4 Open Problems for FFT Development
+### 8.4 Open Problems for FFT Development
 
 Although FFT forms a coherent geometric framework, several key problems remain.
 
----
-
-### **8.4.1 Rigorous Definition of the Projection Operator f**
+#### **8.4.1 Rigorous Definition of the Projection Operator f**
 
 FFT requires a precise mathematical definition of:
 
-\[
+$$
 C = f(\Psi),
-\]
+$$
 
-including its adjoint \(f^\dagger\) and the induced operator:
+including its adjoint $f^\dagger$ and the induced operator:
 
-\[
+$$
 \mathcal{G} = f^\dagger f.
-\]
+$$
 
 This includes:
 
@@ -1770,15 +1689,13 @@ This includes:
 - ensuring boundedness and well-posedness,  
 - formalizing the 2.5D reduction (XY + τ).
 
----
-
-### **8.4.2 Full Characterization of the G-Operator**
+#### **8.4.2 Full Characterization of the G-Operator**
 
 The operator driving consciousness:
 
-\[
+$$
 \mathcal{G}[C],
-\]
+$$
 
 must be mathematically formalized:
 
@@ -1787,9 +1704,7 @@ must be mathematically formalized:
 - stability under ψ fluctuations,  
 - functional-analytic representation.
 
----
-
-### **8.4.3 Experimental Detection of C-wave**
+#### **8.4.3 Experimental Detection of C-wave**
 
 C-wave plays a central role in perception and quantum measurement.  
 Open tasks include:
@@ -1799,35 +1714,29 @@ Open tasks include:
 - distinguishing C-wave effects from classical optics,  
 - neutrino-as-C-wave hypothesis testing.
 
----
-
-### **8.4.4 Low-Energy Reduction to Standard Quantum Mechanics**
+#### **8.4.4 Low-Energy Reduction to Standard Quantum Mechanics**
 
 FFT already reproduces:
 
-\[
+$$
 \Delta x \cdot \Delta p \simeq \frac{\hbar}{2},
-\]
+$$
 
 but requires deeper proof that Schrödinger dynamics arises universally as the  
 low-curvature, low-δ limit of FFT-1.
 
----
-
-### **8.4.5 Derivation of Cosmological Constant Λ**
+#### **8.4.5 Derivation of Cosmological Constant Λ**
 
 FFT predicts:
 
-\[
+$$
 \Lambda \propto |\gamma|^{D},
-\]
+$$
 
 but a full derivation must connect γ to observable expansion histories and  
 structure surveys.
 
----
-
-### **8.4.6 Energy Conservation and T-Fiber Mass Balance**
+#### **8.4.6 Energy Conservation and T-Fiber Mass Balance**
 
 The relation between:
 
@@ -1837,20 +1746,16 @@ The relation between:
 
 must be formalized to avoid ambiguity in mass-energy interpretation.
 
----
-
-### **8.4.7 Correspondence with General Relativity**
+#### **8.4.7 Correspondence with General Relativity**
 
 FFT must rigorously show:
 
-- Einstein tensor \(G_{\mu\nu}\) arises from \(f^\dagger f(\psi)\)  
-- Stress-energy tensor \(T_{\mu\nu}\) maps to ψ and ρ_T  
+- Einstein tensor $G_{\mu\nu}$ arises from $f^\dagger f(\psi)$  
+- Stress-energy tensor $T_{\mu\nu}$ maps to ψ and ρ_T  
 
 This provides a bridge from χδ geometry to classical gravitational theory.
 
----
-
-### **8.4.8 Stability and Turbulence in ψ Dynamics**
+#### **8.4.8 Stability and Turbulence in ψ Dynamics**
 
 FFT predicts vortex-like structures and cascades.  
 Open tasks include:
@@ -1859,9 +1764,7 @@ Open tasks include:
 - analyzing Δ and Δᴰ competition,  
 - mapping turbulence phases.
 
----
-
-### **8.4.9 Mathematical Foundations of τ (Phase-Time)**
+#### **8.4.9 Mathematical Foundations of τ (Phase-Time)**
 
 τ is fundamental but still requires:
 
@@ -1869,9 +1772,7 @@ Open tasks include:
 - relation to Z-delay distributions,  
 - equivalence classes of τ under projection.
 
----
-
-### **8.4.10 Conditions for Consciousness in χδ Geometry**
+#### **8.4.10 Conditions for Consciousness in χδ Geometry**
 
 FFT predicts consciousness only exists within a certain ψ-range.  
 This requires:
@@ -1880,9 +1781,7 @@ This requires:
 - mapping χ-adjustability,  
 - identifying breakdown points.
 
----
-
-## 8.5 Summary
+### 8.5 Summary
 
 FFT proposes a **single geometric substrate** generating:
 
@@ -1893,9 +1792,9 @@ FFT proposes a **single geometric substrate** generating:
 
 Its central identity:
 
-\[
+$$
 \psi = \chi\delta
-\]
+$$
 
 acts as the generator of all observable structure.
 
@@ -1907,18 +1806,17 @@ FFT is therefore:
 > **a complete conceptual framework,  
 > but an open mathematical program.**
 
-
-
 # 9. Conclusion: The Position of FFT as a Unified Geometric Framework  
+
 ## (From Causal Reconstruction to Physical Law)
 
 Fixed-Field Theory proposes a unified geometric picture in which the physical,
 cognitive, and cosmological layers of reality arise from the same generative
 mechanism:
 
-\[
+$$
 \boxed{\psi = \chi \delta}
-\]
+$$
 
 This identity expresses how causal depth (χ) and interference structure (δ)
 co-produce the generator field ψ, from which mass, gravity, quantum behavior,
@@ -1939,9 +1837,7 @@ FFT does not attempt to replace existing physical theories.
 Rather, it provides a **more primitive geometric substrate** from which those  
 theories emerge as limits, projections, or special regimes.
 
----
-
-## 9.1 The Role of the Observer
+### 9.1 The Role of the Observer
 
 In FFT, the observer is not an external entity.  
 The observer is a **χ-adjusting subsystem** embedded within the same geometry it reads.
@@ -1949,7 +1845,7 @@ The observer is a **χ-adjusting subsystem** embedded within the same geometry i
 The world an observer perceives is:
 
 - a **2.5D projection** of Ψ (XY + τ-delay),  
-- reconstructed into an internal causal model by \(\mathcal{G}\),  
+- reconstructed into an internal causal model by $\mathcal{G}$,  
 - used to select χ, which in turn influences ψ and Ψ.
 
 Thus:
@@ -1958,9 +1854,7 @@ Thus:
 
 The observer is part of the generative loop.
 
----
-
-## 9.2 Time as an Emergent, Stratified Quantity
+### 9.2 Time as an Emergent, Stratified Quantity
 
 FFT defines time not as an external axis but as **accumulated causal depth**.
 
@@ -1976,15 +1870,13 @@ new χδ configurations**.
 
 Thus:
 
-\[
+$$
 t \sim \int \gamma_{\chi\delta}(s)\, ds
-\]
+$$
 
 where γ encodes drift in χ and δ.
 
----
-
-## 9.3 Space as an Interference-Dependent Projection
+### 9.3 Space as an Interference-Dependent Projection
 
 Space in FFT is the **projected structure** arising from C-wave interference.  
 It is not a fundamental entity.
@@ -1997,9 +1889,7 @@ The apparent 3D spatial world is the stable domain of:
 
 GR geometry appears only after this projection stabilizes.
 
----
-
-## 9.4 Human Agency in χδ Geometry
+### 9.4 Human Agency in χδ Geometry
 
 Humans exist as χ-modifying subsystems capable of:
 
@@ -2015,9 +1905,8 @@ Thus:
 It is neither predetermined nor metaphysically free;  
 it is the ability to stabilize and redirect χ.
 
----
 
-## 9.5 Limitations and Future Work
+### 9.5 Limitations and Future Work
 
 FFT is a **unified conceptual and geometric framework**,  
 but several foundational developments remain open:
@@ -2032,9 +1921,7 @@ but several foundational developments remain open:
 These define FFT not as a closed theory,  
 but as an **active research program** across physics, mathematics, and cognitive science.
 
----
-
-## 9.6 Final Statement
+### 9.6 Final Statement
 
 FFT suggests that the universe is not built from particles or forces,  
 but from **interacting layers of curvature and interference**.  

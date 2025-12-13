@@ -62,6 +62,9 @@ To avoid GitHub and KaTeX rendering issues:
 - Do NOT start a line with operators such as `i\hbar`, `=`, or `+`.
 - Operators must appear after an assignment or continuation.
 
+Line-leading operators are forbidden.
+Symbols =, +, and - MUST appear at the end of a line, not at the beginning.
+
 ## 2. Document Structure Rules
 
 All appendices MUST follow this structure:

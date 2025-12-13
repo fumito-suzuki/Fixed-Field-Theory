@@ -18,8 +18,6 @@ It addresses the following goals:
 This appendix establishes Δᴰ as the formal mathematical expression of
 **fractal causality** in Fixed-Field Theory.
 
----
-
 ## 2. Background (χδ–ψ Framework)
 
 Within Fixed-Field Theory, the χδ axiom (Appendix Z+0) defines:
@@ -41,8 +39,6 @@ emerge from χδ coupling.
 
 This appendix formalizes that statement by identifying Δᴰ as the operator
 encoding such non-local causal structure.
-
----
 
 ## 3. Main Derivation / Model
 
@@ -66,8 +62,6 @@ Its properties include:
 - intrinsic non-locality,
 - reduction to the standard Laplacian Δ when $D = 1$.
 
----
-
 ### 3.2 Riesz Kernel Representation
 
 Equivalently, Δᴰ admits the real-space representation
@@ -86,8 +80,6 @@ This form highlights:
 - sensitivity to long-range curvature differences,
 - divergence near singularities, leading to filamentary structure formation.
 
----
-
 ### 3.3 Result
 
 The action of Δᴰ on ψ introduces:
@@ -98,8 +90,6 @@ The action of Δᴰ on ψ introduces:
 
 As a result, Δᴰ provides the operator-level mechanism for
 nested and fractal geometries observed in FFT dynamics.
-
----
 
 ## 4. Relation to χδ Geometry
 
@@ -116,8 +106,6 @@ Thus:
 - interference–curvature exchange
 
 emerge naturally from Δᴰ acting on ψ = χδ.
-
----
 
 ## 5. Implications for Main Sections
 
@@ -139,8 +127,6 @@ generates complementary behavior:
 This explains the emergence of filamentary and nested curvature
 structures in Ψ.
 
----
-
 ### Section 3 — Irreversibility and Decoherence
 
 The operator Δᴰ induces Z-direction superdiffusion:
@@ -159,8 +145,6 @@ This provides a geometric basis for:
 
 without invoking probabilistic collapse.
 
----
-
 ### Section 4 — Perception and C-wave Geometry
 
 Δᴰ enhances interference contrast:
@@ -170,8 +154,6 @@ without invoking probabilistic collapse.
 - consistency with delayed-plane projections (XτZ / YτZ).
 
 Thus perceptual edges correspond to ψ-curvature amplified by Δᴰ.
-
----
 
 ### Section 5 — Quantum Limit
 
@@ -183,8 +165,6 @@ In small-curvature regimes:
 
 This identifies the geometric origin of quantum behavior.
 
----
-
 ## 6. Link to Open Problems (Section 8)
 
 The fractal Laplacian Δᴰ contributes to:
@@ -193,8 +173,6 @@ The fractal Laplacian Δᴰ contributes to:
 - **8.6** — mass–energy balance in dark-curvature regions,
 - **8.8** — ψ-dynamics instability and turbulence,
 - **8.9** — τ-spreading and Z-depth measures.
-
----
 
 ## 7. Interaction with ψ = χδ
 
@@ -223,8 +201,6 @@ $$
 
 follows directly from this structure.
 
----
-
 ## 8. Cosmological Role (Relation to Λ)
 
 FFT predicts the scaling relation
@@ -242,8 +218,6 @@ Since Δᴰ governs:
 - depth accumulation across τ,
 
 it naturally leads to accelerated expansion.
-
----
 
 ## 9. Summary
 

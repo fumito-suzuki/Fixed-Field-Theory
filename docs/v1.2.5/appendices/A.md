@@ -99,15 +99,23 @@ $$
 
 $$
 \mathbf{J}^{(\mathrm{std})} =
-\frac{\hbar}{2mi}(\Psi^*\nabla\Psi - \Psi\nabla\Psi^*).
+\frac{\hbar}{2mi}
+\left(
+\Psi^{*} \nabla \Psi -
+\Psi \nabla \Psi^{*}
+\right).
 $$
 
 - **Fractal flow**  
 
 $$
 \mathbf{J}^{(D)} =
-\ell_D^{2-D}\frac{\hbar}{2mi}
-(\Psi^*\nabla^D\Psi - \Psi\nabla^D\Psi^*).
+\ell_D^{\,2-D}
+\frac{\hbar}{2mi}
+\left(
+\Psi^{*} \nabla^{D} \Psi -
+\Psi \nabla^{D} \Psi^{*}
+\right).
 $$
 
 - **Geometric drift**  
@@ -132,8 +140,8 @@ i\hbar\partial_t C =
 \Pi_{\mathrm{obs}}
 \big[
 V\Psi +
-\mathcal{N}[\Psi;\rho,C]\Psi
-&+ \mathcal{J}[\rho,C]\Psi
+\mathcal{N}[\Psi;\rho,C]\Psi + 
+\mathcal{J}[\rho,C]\Psi
 \big].
 $$
 

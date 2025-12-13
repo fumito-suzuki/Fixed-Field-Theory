@@ -119,25 +119,21 @@ $$
 Source term:
 
 $$
-\mathcal{S}_\rho
-=
+\mathcal{S}_\rho =
 \frac{2}{\hbar}\Im[\Psi^*(\mathcal{N}+\mathcal{J})\Psi].
 $$
-
----
 
 ### 3.3 FFT-3 — C-Wave Projection on Delayed Planes (Π_obs)  
 
 FFT-3 evolves the observable C-wave:
 
 $$
-i\hbar\partial_t C
-=
+i\hbar\partial_t C =
 \Pi_{\mathrm{obs}}
 \big[
-V\Psi
-+ \mathcal{N}[\Psi;\rho,C]\Psi
-+ \mathcal{J}[\rho,C]\Psi
+V\Psi +
+\mathcal{N}[\Psi;\rho,C]\Psi
+&+ \mathcal{J}[\rho,C]\Psi
 \big].
 $$
 

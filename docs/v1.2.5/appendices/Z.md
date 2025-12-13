@@ -1,8 +1,8 @@
-# Appendix Z+0 — The χδ Principle  
+# Appendix Z+0 — The χδ Principle
 
-*(Fixed-Field Theory v1.2.x Supplemental Material)*  
+*(Fixed-Field Theory v1.2.x Supplemental Material)*
 
-## 1. Purpose and Scope  
+## 1. Purpose and Scope
 
 This appendix presents the **foundational generative principle** of
 Fixed-Field Theory (FFT): the χδ principle.
@@ -14,16 +14,16 @@ and the Sora Equation — arise from a single geometric operation.
 
 Specifically, this appendix establishes:
 
-- operator-level definitions of χ and δ,  
-- their algebraic and scaling relations,  
-- the construction of ψ as *appearance geometry* (not a physical wave),  
-- a classification of vacuum sectors,  
+- operator-level definitions of χ and δ,
+- their algebraic and scaling relations,
+- the construction of ψ as appearance geometry (not a physical wave),
+- a classification of vacuum sectors,
 - and the variational backbone underlying FFT-1–3 and Appendix C.
 
-This appendix **does not supersede the main text**;  
+This appendix does not supersede the main text;
 it provides a compact formalization of principles introduced there.
 
-## 2. Background (χδ–ψ Framework)  
+## 2. Background (χδ–ψ Framework)
 
 Fixed-Field Theory begins with the generative identity:
 
@@ -33,9 +33,9 @@ $$
 
 where:
 
-- **χ** — causal-curvature operator acting along Z (causal depth / τ-direction),  
-- **δ** — interference operator acting in XY delayed-plane geometry,  
-- **ψ** — appearance field reconstructed from χδ (not a physical wave).
+- χ — causal-curvature operator acting along Z (causal depth / τ-direction),
+- δ — interference operator acting in XY delayed-plane geometry,
+- ψ — appearance field reconstructed from χδ (not a physical wave).
 
 This identity expresses the FFT interpretation of the classical statement:
 
@@ -50,23 +50,23 @@ All observables (C-wave), dynamical laws (Sora Equation),
 and geometric interpretations (T-wave, perception, cosmology)
 are downstream consequences of this identity.
 
-## 3. Main Derivation / Model  
+## 3. Main Derivation / Model
 
-### 3.1 Functional Framework  
+### 3.1 Functional Framework
 
 The relevant fields are defined on the following spaces:
 
-- **T-fiber / T-wave field**  
+- **T-fiber / T-wave field**
   $$
   \Psi(x,y,z,t) \in L^2(\mathbb{R}^3),
   $$
 
-- **Observable C-wave (τ-delayed projection)**  
+- **Observable C-wave (τ-delayed projection)**
   $$
   C(x,y,t) \in L^2(\mathbb{R}^2),
   $$
 
-- **Information density**  
+- **Information density**
   $$
   \rho \in L^1(\mathbb{R}^3) \cap L^2(\mathbb{R}^3).
   $$
@@ -80,7 +80,7 @@ $$
 are assumed to be densely defined and closable.
 No assumption of commutativity is imposed.
 
-### 3.2 Definition of χ (Causal Curvature Operator)  
+### 3.2 Definition of χ (Causal Curvature Operator)
 
 The χ-operator is defined schematically as:
 
@@ -95,12 +95,12 @@ Here, $\partial_z$ denotes differentiation along the **causal-depth direction**
 
 Key properties:
 
-- χ injects curvature along the causal-depth axis,  
-- positive χ-curvature corresponds to observable geometric structure,  
+- χ injects curvature along the causal-depth axis,
+- positive χ-curvature corresponds to observable geometric structure,
 - singular or decoupled χ sectors correspond to unobserved curvature
   (dark-curvature residuals).
 
-### 3.3 Definition of δ (Interference Operator)  
+### 3.3 Definition of δ (Interference Operator)
 
 The interference operator is defined as:
 
@@ -114,15 +114,15 @@ $$
 
 This operator captures:
 
-- planar interference,  
-- rotational structure,  
-- scale mixing,  
+- planar interference,
+- rotational structure,
+- scale mixing,
 - logarithmic spiral components.
 
-In FFT, δ acts on **τ-delayed projection planes**
+In FFT, δ acts on τ-delayed projection planes
 (XτZ / YτZ) appearing in FFT-3, not on a naive physical XY slice.
 
-### 3.4 Algebraic Construction of ψ  
+### 3.4 Algebraic Construction of ψ
 
 The appearance field ψ is defined as the operator composition:
 
@@ -132,16 +132,16 @@ $$
 
 This construction has the following properties:
 
-- **non-commutativity:** $[\chi,\delta] \neq 0$,  
-- **positivity:** $\rho_T \propto \|\nabla\psi\|^2 \ge 0$,  
-- **geometric meaning:** ψ is an *appearance field*, not a propagating wave.
+- non-commutativity: $[\chi,\delta] \neq 0$,
+- positivity: $\rho_T \propto \|\nabla\psi\|^2 \ge 0$,
+- geometric meaning: ψ is an appearance field, not a propagating wave.
 
-ψ encodes how geometry appears under observation; it does not constitute
-the substance of the world.
+ψ encodes how geometry appears under observation;
+it does not constitute the substance of the world.
 
-## 4. Relation to χδ Geometry  
+## 4. Relation to χδ Geometry
 
-### 4.1 Scaling Law  
+### 4.1 Scaling Law
 
 Introduce scaling exponents:
 
@@ -165,12 +165,12 @@ $$
 
 This effective dimension D governs:
 
-- the fractal Laplacian $\Delta^D$ used in FFT-1,  
-- scaling relations of ψ-curvature,  
-- cosmological constant behavior in later appendices,  
+- the fractal Laplacian $\Delta^D$ used in FFT-1,
+- scaling relations of ψ-curvature,
+- cosmological constant behavior in later appendices,
 - large-scale structure formation.
 
-### 4.2 Vacuum Classification  
+### 4.2 Vacuum Classification
 
 The χδ framework naturally classifies vacuum sectors:
 
@@ -183,7 +183,7 @@ The χδ framework naturally classifies vacuum sectors:
 
 No additional entities or fields are required for this classification.
 
-## 5. Implications for Main Sections  
+## 5. Implications for Main Sections
 
 This appendix clarifies and supports the following parts of the main text:
 
@@ -205,21 +205,19 @@ This appendix clarifies and supports the following parts of the main text:
 - **Section 7 (Consciousness):**  
   ψ-stability determines χ-band reconstruction via the G-operator.
 
-
-
-## 6. Link to Open Problems (Section 8)  
+## 6. Link to Open Problems (Section 8)
 
 The χδ principle underpins multiple open problems:
 
-- **8.4.1** — precise definition of the projection operator f,  
-- **8.4.2** — formalization of the G-operator,  
-- **8.4.5** — derivation of the cosmological constant Λ,  
-- **8.4.6** — classification of dark-curvature sectors,  
+- **8.4.1** — precise definition of the projection operator f,
+- **8.4.2** — formalization of the G-operator,
+- **8.4.5** — derivation of the cosmological constant Λ,
+- **8.4.6** — classification of dark-curvature sectors,
 - **8.4.10** — χ-selection in consciousness geometry.
 
 This appendix provides the shared geometric foundation for these tasks.
 
-## 7. Summary  
+## 7. Summary
 
 $$
 \boxed{\psi = \chi\delta}
@@ -227,10 +225,10 @@ $$
 
 with:
 
-- χ — causal-depth curvature operator (Z-axis),  
-- δ — interference operator on delayed projection planes,  
-- ψ — appearance field (not a physical wave),  
-- scaling relation — $D = a + b$,  
+- χ — causal-depth curvature operator (Z-axis),
+- δ — interference operator on delayed projection planes,
+- ψ — appearance field (not a physical wave),
+- scaling relation — $D = a + b$,
 - vacuum structure — classified by χ and δ sectors.
 
 > **The χδ principle is the minimal generative identity from which  

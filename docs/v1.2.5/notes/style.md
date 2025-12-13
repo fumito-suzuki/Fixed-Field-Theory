@@ -96,6 +96,6 @@ consistency always wins.
 - [ ] Inline math uses `$...$` only
 - [ ] No backticks used for mathematics
 - [ ] Structural equations use `$$...$$`
-- [ ] No line-leading operators (`i\hbar`, `=`, `+`)
+- [ ] No line-leading operators (`=`, `+`, `-`)
 - [ ] Norms use `\|\nabla\psi\|`
 - [ ] Appendix structure matches the template

@@ -98,7 +98,7 @@ $$
 - **Standard flow**  
 
 $$
-\mathbf{J}^{(\mathrm{std})} =
+\mathbf{J}^{(\text{std})} =
 \frac{\hbar}{2mi}
 \left(
 \Psi^{*} \nabla \Psi -

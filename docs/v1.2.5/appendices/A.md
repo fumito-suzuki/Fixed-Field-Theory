@@ -11,8 +11,6 @@ foundational equations of Fixed-Field Theory:
 It clarifies fractal operators, nonlinear χδ-driven terms, geometric drift,
 and well-posedness of the ψ–ρ–C coupled dynamics.
 
----
-
 ## 1. Purpose and Scope  
 
 This appendix supports the main manuscript Sections 1–4 by providing:
@@ -25,8 +23,6 @@ This appendix supports the main manuscript Sections 1–4 by providing:
 
 It connects the formal ψ–ρ–C system to the χδ generative principle
 and τ-based observation geometry.
-
----
 
 ## 2. Background (χδ–ψ Framework)  
 
@@ -44,8 +40,6 @@ The main text states:
 
 Appendix A provides the operators that make this system mathematically well-defined.
 
----
-
 ## 3. Main Derivation / Model  
 
 ### 3.1 FFT-1 Operator  
@@ -59,34 +53,32 @@ $$
 with
 
 $$
-\hat{\mathcal{S}}_{\mathrm{FFT}}
-=
-i\hbar \partial_t
-+ \frac{\hbar^2}{2m}
-(\Delta + \ell_D^{2-D}\Delta^D)
-- V
-- \hbar(c_1\partial_z + c_2\partial_\theta + c_3\partial_{\log r})
-- \mathcal{N}[\Psi;\rho,C]
-- \mathcal{J}[\rho,C].
+\hat{\mathcal{S}}_{\mathrm{FFT}} =
+i\hbar \partial_t +
+\frac{\hbar^2}{2m}
+(\Delta + \ell_D^{2-D}\Delta^D) - 
+V - \hbar(c_1\partial_z + c_2\partial_\theta + c_3\partial_{\log r}) - 
+\mathcal{N}[\Psi;\rho,C] - 
+\mathcal{J}[\rho,C].
 $$
 
 Definitions:
 
 - **Laplacian**  
-  $$
-  \Delta = \partial_x^2 + \partial_y^2 + \partial_z^2.
-  $$
+
+$$
+\Delta = \partial_x^2 + \partial_y^2 + \partial_z^2.
+$$
 
 - **Fractal Laplacian**  
-  $$
-  \widehat{\Delta^D f}(k) = -|k|^{2D}\hat f(k).
-  $$
+
+$$
+\widehat{\Delta^D f}(k) = -|k|^{2D}\hat f(k).
+$$
 
 - Drift terms encode χ-induced anisotropy.  
 - Nonlinearity $\mathcal{N}$ arises from ψ = χδ.  
 - Cross-field coupling $\mathcal{J}$ couples Ψ ↔ ρ ↔ C.
-
----
 
 ### 3.2 FFT-2 — Information Density Equation  
 
@@ -97,32 +89,32 @@ $$
 Flux decomposition:
 
 $$
-\mathbf{J}
-=
-\mathbf{J}^{(\mathrm{std})}
-+
-\mathbf{J}^{(D)}
-+
+\mathbf{J} =
+\mathbf{J}^{(\mathrm{std})} +
+\mathbf{J}^{(D)} +
 \mathbf{J}^{(\mathrm{geo})}.
 $$
 
 - **Standard flow**  
-  $$
-  \mathbf{J}^{(\mathrm{std})}
-  = \frac{\hbar}{2mi}(\Psi^*\nabla\Psi - \Psi\nabla\Psi^*).
-  $$
+
+$$
+\mathbf{J}^{(\mathrm{std})} =
+\frac{\hbar}{2mi}(\Psi^*\nabla\Psi - \Psi\nabla\Psi^*).
+$$
 
 - **Fractal flow**  
-  $$
-  \mathbf{J}^{(D)}
-  = \ell_D^{2-D}\frac{\hbar}{2mi}
-  (\Psi^*\nabla^D\Psi - \Psi\nabla^D\Psi^*).
-  $$
+
+$$
+\mathbf{J}^{(D)} =
+\ell_D^{2-D}\frac{\hbar}{2mi}
+(\Psi^*\nabla^D\Psi - \Psi\nabla^D\Psi^*).
+$$
 
 - **Geometric drift**  
-  $$
-  \mathbf{v}_{\mathrm{geo}} = \nabla(\chi).
-  $$
+
+$$
+\mathbf{v}_{\mathrm{geo}} = \nabla(\chi).
+$$
 
 Source term:
 

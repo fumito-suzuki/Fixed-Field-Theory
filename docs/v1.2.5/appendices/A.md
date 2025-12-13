@@ -150,8 +150,7 @@ $$
 Instead of a naive XY projection, FFT employs a τ-aware delayed-plane projection:
 
 $$
-(\Pi_{\mathrm{obs}}\Psi)(x,y,t)
-=
+(\Pi_{\mathrm{obs}}\Psi)(x,y,t) =
 \int_{-\infty}^{\infty}
 K_{\mathrm{obs}}(z,\tau)\,\Psi(x,y,z,t)\,dz,
 $$
@@ -169,8 +168,6 @@ Thus:
 - C and ψ feed back into Ψ via FFT-1,  
 - appearance ψ emerges only through C-wave geometry.
 
----
-
 ## 4. Relation to χδ Geometry  
 
 - Nonlinearity $\mathcal{N}$ arises from χδ coupling:  
@@ -185,28 +182,27 @@ Thus:
 These operators constitute the analytic realization of the
 χδ generative principle described in Appendix Z+0.
 
----
-
 ## 5. Implications for Main Sections  
 
 This appendix refines:
 
 ### **Sections 1–2**  
+
 - precise operator structure of FFT-1 / FFT-2 / FFT-3,  
 - explicit role of fractal and drift operators.
 
 ### **Section 4**  
+
 - rigorous definition of the C-wave as XτZ / YτZ projection,  
 - clarification that ψ is an appearance field, not a wave.
 
 ### **Section 5**  
+
 - identification of limits in which FFT operators reduce to QM.
 
 ### **Section 7**  
 - explanation of how ψ, ρ, and C interact to form stable χ-band
   inputs for consciousness.
-
----
 
 ## 6. Link to Open Problems (Section 8)  
 
@@ -216,8 +212,6 @@ This appendix contributes to:
 - **8.4.2** — full G-operator characterization (ρ → χ-band reconstruction),  
 - **8.4.6** — T-fiber mass/energy balance (drift and fractal operators),  
 - **8.4.8** — ψ-dynamics stability and turbulence analysis.
-
----
 
 ## 7. Summary  
 
@@ -230,4 +224,4 @@ This appendix contributes to:
 - Operator well-posedness ensures ψ–ρ–C dynamics are mathematically consistent.
 
 Appendix A thus provides the operator-theoretic backbone for the χδ–ψ
-framework formalized in Fixed-Field Theory v1.2.5.1.
+framework formalized in Fixed-Field Theory v1.2.5.1

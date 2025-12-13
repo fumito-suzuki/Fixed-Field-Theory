@@ -61,6 +61,8 @@ To avoid GitHub and KaTeX rendering issues:
 
 - Do NOT start a line with operators such as `-`, `=`, or `+`.
 - Operators must appear after an assignment or continuation.
+- In block equations, the first visible token on each new line
+  MUST NOT be `+`, `-`, or `=`, even if the line is a continuation.
 
 Line-leading operators are forbidden.
 Symbols =, +, and - MUST appear at the end of a line, not at the beginning.

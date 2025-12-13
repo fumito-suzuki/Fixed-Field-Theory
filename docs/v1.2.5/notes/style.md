@@ -86,3 +86,13 @@ Inline usage is allowed only for symbolic reference.
 
 If a choice exists between convenience and consistency,
 consistency always wins.
+
+## FFT Math & Style Checklist
+
+- [ ] No `---` used anywhere
+- [ ] Inline math uses `$...$` only
+- [ ] No backticks used for mathematics
+- [ ] Structural equations use `$$...$$`
+- [ ] No line-leading operators (`i\hbar`, `=`, `+`)
+- [ ] Norms use `\|\nabla\psi\|`
+- [ ] Appendix structure matches the template

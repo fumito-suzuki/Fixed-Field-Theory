@@ -98,11 +98,11 @@ $$
 - **Standard flow**  
 
 $$
-\mathbf{J}^{(\mathrm{std})} =
+\mathbf{J}^{\text{std}} =
 \frac{\hbar}{2mi}
 \left(
-\Psi^{*} \nabla \Psi -
-\Psi \nabla \Psi^{*}
+\Psi^{\ast} \nabla \Psi -
+\Psi \nabla \Psi^{\ast}
 \right).
 $$
 
@@ -113,8 +113,8 @@ $$
 \ell_D^{\,2-D}
 \frac{\hbar}{2mi}
 \left(
-\Psi^{*} \nabla^{D} \Psi -
-\Psi \nabla^{D} \Psi^{*}
+\Psi^{\ast} \nabla^{D} \Psi -
+\Psi \nabla^{D} \Psi^{\ast}
 \right).
 $$
 
@@ -170,10 +170,11 @@ Thus:
 
 ## 4. Relation to χδ Geometry  
 
-- Nonlinearity $\mathcal{N}$ arises from χδ coupling:  
-  $$
-  \psi = \chi\delta.
-  $$
+- Nonlinearity $\mathcal{N}$ arises from χδ coupling:
+
+$$
+\psi = \chi\delta.
+$$
 
 - Drift terms align with χ gradients.  
 - Interference anisotropy follows δ.  

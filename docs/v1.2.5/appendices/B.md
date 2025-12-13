@@ -1,32 +1,34 @@
 # Appendix B — The Fractal Laplacian Δᴰ in Fixed-Field Geometry
 
-*(Fixed-Field Theory v1.2.5.1 Supplemental Material)*  
+*(Fixed-Field Theory v1.2.5.1 Supplemental Material)*
 
-This appendix provides the mathematical and physical structure of the **fractal
-Laplacian Δᴰ**, which plays a central role in FFT-1 through non-local
-interaction, multi-scale curvature, and χδ-driven structure formation.
+## 1. Purpose and Scope
 
-## 1. Purpose and Scope  
+This appendix provides additional mathematical and physical structure
+supporting Sections 1–5 of the main text.
 
-This appendix supports Sections 1–5 of the main text by clarifying:
+It addresses the following goals:
 
-- the exact definition of Δᴰ,  
-- its relation to χδ scaling (a+b=D),  
-- its geometric meaning inside T-fiber dynamics,  
-- its role in ψ evolution and structure formation,  
-- and its cosmological implications (Λ scaling).  
+- clarify the exact definition of the fractal Laplacian Δᴰ,
+- derive its relation to χδ scaling (a + b = D),
+- connect Δᴰ to T-fiber geometry and ψ evolution,
+- extend the results of Sections 1–5 to multi-scale structure formation
+  and cosmological behavior (Λ scaling).
 
-It establishes Δᴰ as the formal mathematical expression of **fractal causality**.
+This appendix establishes Δᴰ as the formal mathematical expression of
+**fractal causality** in Fixed-Field Theory.
 
-## 2. Background (χδ–ψ Framework)  
+---
 
-The χδ axiom (Appendix Z+0) defines:
+## 2. Background (χδ–ψ Framework)
 
-- χ — causal depth scaling exponent  
-- δ — interference density scaling exponent  
-- ψ = χδ — appearance field on delayed planes  
+Within Fixed-Field Theory, the χδ axiom (Appendix Z+0) defines:
 
-From this scaling:
+- χ — causal depth scaling exponent,
+- δ — interference density scaling exponent,
+- ψ = χδ — appearance field on delayed planes.
+
+From this scaling relation,
 
 $$
 D = a + b
@@ -34,174 +36,225 @@ $$
 
 defines the natural order of the fractal Laplacian Δᴰ appearing in FFT-1.
 
-This appendix expands on how Δᴰ represents non-local causal geometry.
+The main text states that non-local geometry and multi-scale curvature
+emerge from χδ coupling.
 
-## 3. Main Derivation / Model  
+This appendix formalizes that statement by identifying Δᴰ as the operator
+encoding such non-local causal structure.
 
-### 3.1 Mathematical Definition  
+---
 
-For $f \in L^2(\mathbb{R}^n)$:
+## 3. Main Derivation / Model
+
+### 3.1 Mathematical Definition
+
+For $f \in L^2(\mathbb{R}^n)$, the fractal Laplacian is defined in Fourier space by
 
 $$
-\widehat{\Delta^D f}(k) = -|k|^{2D}\hat f(k),
+\widehat{\Delta^D f}(k)
+=
+-|k|^{2D}\hat f(k),
 \qquad
 0 < D \le 1.
 $$
 
-Properties:
+Its properties include:
 
-- linear,  
-- self-adjoint,  
-- negative definite,  
-- non-local,  
-- reduces to Δ when $D=1$.  
+- linearity,
+- self-adjointness,
+- negative definiteness,
+- intrinsic non-locality,
+- reduction to the standard Laplacian Δ when $D = 1$.
 
-### 3.2 Riesz Kernel Representation  
+---
+
+### 3.2 Riesz Kernel Representation
+
+Equivalently, Δᴰ admits the real-space representation
 
 $$
-(\Delta^D f)(x) =
+(\Delta^D f)(x)
+=
 C_{n,D}
 \int_{\mathbb{R}^n}
 \frac{f(x) - f(y)}{|x-y|^{n+2D}}\,dy.
 $$
 
-Interpretation:
+This form highlights:
 
-- non-local influence across multiple scales,  
-- sensitivity to long-range curvature differences,  
-- divergence near singularities → source of filamentary structures.
+- non-local influence across multiple spatial scales,
+- sensitivity to long-range curvature differences,
+- divergence near singularities, leading to filamentary structure formation.
 
-# 4. Relation to χδ Geometry  
+---
 
-Δᴰ is the analytic operator encoding χδ scaling:
+### 3.3 Result
 
-- χ contributes depth curvature (Z → τ),  
-- δ contributes transverse interference,  
-- together producing fractal-order D.  
+The action of Δᴰ on ψ introduces:
+
+- multi-scale sharpening of curvature,
+- amplification of ψ-gradients,
+- exchange between interference and depth curvature.
+
+As a result, Δᴰ provides the operator-level mechanism for
+nested and fractal geometries observed in FFT dynamics.
+
+---
+
+## 4. Relation to χδ Geometry
+
+The operator Δᴰ encodes χδ scaling analytically:
+
+- χ contributes depth curvature (Z → τ),
+- δ contributes transverse interference,
+- together producing a fractal order D.
 
 Thus:
 
-- non-local causality,  
-- multi-scale patterning,  
-- interference–curvature exchange  
+- non-local causality,
+- multi-scale patterning,
+- interference–curvature exchange
 
-all emerge from Δᴰ acting on ψ = χδ.
+emerge naturally from Δᴰ acting on ψ = χδ.
 
-## 5. Implications for Main Sections  
+---
 
-### 5.1 Section 2（FFT-1）  
-The hybrid operator:
+## 5. Implications for Main Sections
+
+This appendix refines the following sections of the main text.
+
+### Section 2 — FFT-1
+
+The hybrid operator
 
 $$
 \Delta + \ell_D^{\,2-D}\Delta^D
 $$
 
-generates:
+generates complementary behavior:
 
-- Δ → local smoothing  
-- Δᴰ → sharpening / fractalization  
+- Δ provides local smoothing,
+- Δᴰ produces sharpening and fractalization.
 
-This explains why Ψ develops filamentary and nested curvature structures.
+This explains the emergence of filamentary and nested curvature
+structures in Ψ.
 
+---
 
+### Section 3 — Irreversibility and Decoherence
 
-### 5.2 Section 3（Irreversibility / Decoherence）  
-
-Δᴰ induces **Z-direction superdiffusion**:
+The operator Δᴰ induces Z-direction superdiffusion:
 
 $$
-\Delta^D f \sim \text{super-diffusive spreading}.
+\Delta^D f
+\sim
+\text{super-diffusive spreading}.
 $$
 
 This provides a geometric basis for:
 
-- decoherence（ΔZ 増大）  
-- irreversible expansion in τ  
-- spreading of causal depth χ  
+- decoherence through ΔZ growth,
+- irreversible expansion in τ,
+- spreading of causal depth χ,
 
 without invoking probabilistic collapse.
 
-### 5.3 Section 4（Perception / C-wave）  
+---
 
-- Δᴰ amplifies interference contrasts  
-- sharper ψ-gradients → stronger C-wave contours  
-- consistent with delayed-plane projections（XτZ / YτZ）
+### Section 4 — Perception and C-wave Geometry
 
-Thus perceptual edges correspond to ψ-curvature magnified by Δᴰ.
+Δᴰ enhances interference contrast:
 
-### 5.4 Section 5（Quantum Limit）  
+- sharper ψ-gradients,
+- stronger C-wave contours,
+- consistency with delayed-plane projections (XτZ / YτZ).
+
+Thus perceptual edges correspond to ψ-curvature amplified by Δᴰ.
+
+---
+
+### Section 5 — Quantum Limit
 
 In small-curvature regimes:
 
-- Δᴰ → 0 effectively  
-- FFT reduces to QM  
-- Heisenberg-like relations emerge  
+- Δᴰ becomes negligible,
+- FFT reduces to standard quantum mechanics,
+- Heisenberg-like relations emerge.
 
-This implements the **geometric origin** of quantum behavior.
+This identifies the geometric origin of quantum behavior.
+
+---
 
 ## 6. Link to Open Problems (Section 8)
 
-Δᴰ contributes to:
+The fractal Laplacian Δᴰ contributes to:
 
-- **8.5** — deriving Λ via χδ-scaling  
-- **8.6** — mass/energy balance in dark-curvature regions  
-- **8.8** — ψ-dynamics instability and turbulence  
-- **8.9** — τ-spreading and Z-depth measure  
+- **8.5** — derivation of Λ via χδ scaling,
+- **8.6** — mass–energy balance in dark-curvature regions,
+- **8.8** — ψ-dynamics instability and turbulence,
+- **8.9** — τ-spreading and Z-depth measures.
 
-## 7. Interaction with ψ = χδ  
+---
 
-Since ψ is a product of non-commuting χ and δ fields:
+## 7. Interaction with ψ = χδ
+
+Because ψ is a product of non-commuting χ and δ fields,
 
 $$
 \Delta^D(\chi\delta)
 \neq
-\chi\delta\,\Delta^D.
+\chi\delta\,\Delta^D,
 $$
 
-This leads to:
+leading to:
 
-- nonlinear exchange of curvature and interference,  
-- fractal amplification of ∥∇ψ∥,  
-- emergence of spiral arms and filaments,  
-- χ-driven drift interacting with δ-driven sharpening.
+- nonlinear exchange between curvature and interference,
+- fractal amplification of $\|\nabla\psi\|$,
+- emergence of spiral arms and filaments,
+- interaction between χ-driven drift and δ-driven sharpening.
 
-FFT-1’s nonlinear term:
+The nonlinear term in FFT-1,
 
 $$
 \kappa\|\nabla\psi\|^2
-\sim 
-\psi\,\Delta^D\psi
+\sim
+\psi\,\Delta^D\psi,
 $$
 
-is a direct consequence of this structure.
+follows directly from this structure.
 
-## 8. Cosmological Role（Relation to Λ）  
+---
 
-FFT predicts:
+## 8. Cosmological Role (Relation to Λ)
+
+FFT predicts the scaling relation
 
 $$
 \Lambda \propto |\gamma|^D,
 $$
 
-where γ is the Z-propagation constant.
+where $\gamma$ is the Z-propagation constant.
 
-Because Δᴰ controls:
+Since Δᴰ governs:
 
-- fractal scaling of χδ geometry,  
-- large-scale amplification of curvature,  
-- depth accumulation across τ,  
+- fractal scaling of χδ geometry,
+- large-scale curvature amplification,
+- depth accumulation across τ,
 
-it naturally yields accelerated expansion.
+it naturally leads to accelerated expansion.
 
-## 9. Summary  
+---
 
-The fractal Laplacian Δᴰ:
+## 9. Summary
 
-- is a fractional, non-local differential operator,  
-- expresses multi-scale χδ causality,  
-- explains filamentary curvature and ψ-contrast formation,  
-- governs decoherence (Z-spreading),  
-- reproduces QM in the low-curvature limit,  
-- links χδ geometry to Λ and cosmic expansion.
+Key points:
 
-It is a fundamental mathematical component of the FFT framework.
+- Δᴰ is a fractional, non-local differential operator,
+- it encodes multi-scale χδ causality,
+- it explains filamentary curvature and ψ-contrast formation,
+- it governs decoherence through Z-spreading,
+- it reproduces quantum mechanics in the low-curvature limit,
+- it links χδ geometry to Λ and cosmic expansion.
+
+The fractal Laplacian Δᴰ is therefore a fundamental mathematical
+component of the Fixed-Field Theory framework.

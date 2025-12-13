@@ -51,14 +51,10 @@ $$
 The Sora Equation provides the evolution of $\psi$:
 
 $$
-\partial_t \psi
-=
-\omega_0'
-+
-D\Delta\psi
-+
-\kappa\|\nabla\psi\|^2
-+
+\partial_t \psi =
+\omega_0' +
+D\Delta\psi +
+\kappa\|\nabla\psi\|^2 +
 \xi.
 $$
 
@@ -80,9 +76,10 @@ The results support and refine the following structures:
 - gradient structure of $\psi$,
 - Z-delay and the emergence of τ,
 - mass-like density
-  $$
-  \rho_T \propto \|\nabla\psi\|^2.
-  $$
+
+$$
+\rho_T \propto \|\nabla\psi\|^2.
+$$
 
 ## 5. Implications for Main Sections
 

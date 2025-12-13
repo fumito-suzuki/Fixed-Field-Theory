@@ -1,4 +1,5 @@
 # Appendix Z+0 — The χδ Principle  
+
 *(Fixed-Field Theory v1.2.x Supplemental Material)*  
 
 ## 1. Purpose and Scope  
@@ -21,8 +22,6 @@ Specifically, this appendix establishes:
 
 This appendix **does not supersede the main text**;  
 it provides a compact formalization of principles introduced there.
-
----
 
 ## 2. Background (χδ–ψ Framework)  
 
@@ -50,8 +49,6 @@ through the interaction of causal curvature and interference geometry.
 All observables (C-wave), dynamical laws (Sora Equation),
 and geometric interpretations (T-wave, perception, cosmology)
 are downstream consequences of this identity.
-
----
 
 ## 3. Main Derivation / Model  
 
@@ -83,17 +80,13 @@ $$
 are assumed to be densely defined and closable.
 No assumption of commutativity is imposed.
 
----
-
 ### 3.2 Definition of χ (Causal Curvature Operator)  
 
 The χ-operator is defined schematically as:
 
 $$
-(\chi\Psi)(x,y,z,t)
-=
-\alpha_z\,\partial_z\Psi
-+
+(\chi\Psi)(x,y,z,t) =
+\alpha_z\,\partial_z\Psi +
 \alpha_0\,\Psi.
 $$
 
@@ -107,21 +100,15 @@ Key properties:
 - singular or decoupled χ sectors correspond to unobserved curvature
   (dark-curvature residuals).
 
----
-
 ### 3.3 Definition of δ (Interference Operator)  
 
 The interference operator is defined as:
 
 $$
-\delta
-=
-\beta_{xy}\nabla_{xy}
-+
-\beta_{\theta}\partial_\theta
-+
-\beta_r\partial_{\log r}
-+
+\delta =
+\beta_{xy}\nabla_{xy} +
+\beta_{\theta}\partial_\theta +
+\beta_r\partial_{\log r} +
 \beta_0.
 $$
 
@@ -134,8 +121,6 @@ This operator captures:
 
 In FFT, δ acts on **τ-delayed projection planes**
 (XτZ / YτZ) appearing in FFT-3, not on a naive physical XY slice.
-
----
 
 ### 3.4 Algebraic Construction of ψ  
 
@@ -153,8 +138,6 @@ This construction has the following properties:
 
 ψ encodes how geometry appears under observation; it does not constitute
 the substance of the world.
-
----
 
 ## 4. Relation to χδ Geometry  
 
@@ -187,8 +170,6 @@ This effective dimension D governs:
 - cosmological constant behavior in later appendices,  
 - large-scale structure formation.
 
----
-
 ### 4.2 Vacuum Classification  
 
 The χδ framework naturally classifies vacuum sectors:
@@ -201,8 +182,6 @@ The χδ framework naturally classifies vacuum sectors:
 | Physical vacuum | χ ≠ 0, δ ≠ 0 | ψ > 0 (observable universe) |
 
 No additional entities or fields are required for this classification.
-
----
 
 ## 5. Implications for Main Sections  
 
@@ -226,7 +205,7 @@ This appendix clarifies and supports the following parts of the main text:
 - **Section 7 (Consciousness):**  
   ψ-stability determines χ-band reconstruction via the G-operator.
 
----
+
 
 ## 6. Link to Open Problems (Section 8)  
 
@@ -239,8 +218,6 @@ The χδ principle underpins multiple open problems:
 - **8.4.10** — χ-selection in consciousness geometry.
 
 This appendix provides the shared geometric foundation for these tasks.
-
----
 
 ## 7. Summary  
 

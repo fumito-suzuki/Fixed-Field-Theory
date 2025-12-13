@@ -1,4 +1,5 @@
 # Appendix C — Variational Derivation of the Sora Equation
+
 *(Fixed-Field Theory v1.2.5.1 Supplemental Material)*  
 
 This appendix derives the **Sora Equation** from a χδ-generated variational
@@ -11,18 +12,16 @@ The resulting equation is:
 
 $$
 \boxed{
-\partial_t\psi
-=
-\omega_0'
-+ D\Delta\psi
-+ \kappa\|\nabla\psi\|^2
-+ \xi
+\partial_t\psi =
+\omega_0' +
+D\Delta\psi +
+\kappa\|\nabla\psi\|^2 +
+\xi
 }
 $$
 
----
+## 1. Purpose and Scope  
 
-# 1. Purpose and Scope  
 This appendix supports Section 4 and Section 6 of the main text by providing:
 
 - the action functional whose Euler–Lagrange equation is the Sora Equation,  
@@ -32,9 +31,8 @@ This appendix supports Section 4 and Section 6 of the main text by providing:
 
 It clarifies why ψ evolves as a **generator field** and not as a physical wave.
 
----
+## 2. Background (χδ–ψ Framework)  
 
-# 2. Background (χδ–ψ Framework)  
 FFT adopts the χδ axiom (Appendix Z+0):
 
 - χ — causal curvature injection (Z → τ)  
@@ -46,11 +44,10 @@ it is the geometrically reconstructed generator of appearance.
 
 This appendix shows that ψ must satisfy a **variationally optimal evolution law**.
 
----
+## 3. Main Derivation / Model  
 
-# 3. Main Derivation / Model  
+### 3.1 Definition of the Generator Field  
 
-## 3.1 Definition of the Generator Field  
 $$
 \psi = \chi\delta.
 $$
@@ -62,24 +59,18 @@ Because χ and δ are non-commuting geometric operators:
 - responds to fractal scaling (D = a+b),  
 - interacts with delayed-plane geometry (C-wave).  
 
----
-
-## 3.2 The χδ-Generated Action  
+### 3.2 The χδ-Generated Action  
 
 Define the action:
 
 $$
 \boxed{
-\mathcal{A}[\psi]
-=
+\mathcal{A}[\psi] =
 \int
 \left[
-\frac{1}{2}D\,|\nabla\psi|^2
-+
-\frac{\kappa}{3}|\nabla\psi|^3
--
-\omega_0'\psi
-+
+\frac{1}{2}D\,|\nabla\psi|^2 +
+\frac{\kappa}{3}|\nabla\psi|^3 -
+\omega_0'\psi +
 \xi\psi
 \right] dV\, dt
 }
@@ -94,33 +85,32 @@ This action includes:
 
 These correspond directly to the terms in the Sora Equation.
 
----
-
-## 3.3 Variational Procedure  
+### 3.3 Variational Procedure  
 
 Euler–Lagrange condition:
 
 $$
-\frac{\partial\mathcal{L}}{\partial\psi}
--
+\frac{\partial\mathcal{L}}{\partial\psi} -
 \nabla\cdot
-\frac{\partial\mathcal{L}}{\partial(\nabla\psi)}
-= 0.
+\frac{\partial\mathcal{L}}{\partial(\nabla\psi)} = 0.
 $$
 
-### (1) Kinetic term  
+#### (1) Kinetic term  
+
 $$
 \frac{\partial\mathcal{L}}{\partial(\nabla\psi)} = D\nabla\psi,
 \quad
 \nabla\cdot(D\nabla\psi) = D\Delta\psi.
 $$
 
-### (2) Nonlinear geometric term  
+#### (2) Nonlinear geometric term  
+
 Let $u = |\nabla\psi|$:
 
 $$
-\frac{\partial}{\partial(\nabla\psi)}\left(\frac{\kappa}{3}u^3\right)
-= \kappa u\nabla\psi.
+\frac{\partial}{\partial(\nabla\psi)}
+\left(\frac{\kappa}{3}u^3\right) =
+\kappa u\nabla\psi.
 $$
 
 Leading to:
@@ -133,28 +123,24 @@ $$
 
 FFT retains the dominant χδ-amplification term.
 
-### (3) Potential + noise term  
+#### (3) Potential + noise term  
 
 $$
-\frac{\partial\mathcal{L}}{\partial\psi}
-=
+\frac{\partial\mathcal{L}}{\partial\psi} =
 -\omega_0' + \xi.
 $$
 
----
-
-# 4. Result of the Euler–Lagrange Equation  
+## 4. Result of the Euler–Lagrange Equation  
 
 Collecting all contributions:
 
 $$
 \boxed{
-\partial_t\psi
-=
-\omega_0'
-+ D\Delta\psi
-+ \kappa\|\nabla\psi\|^2
-+ \xi
+\partial_t\psi =
+\omega_0' +
+D\Delta\psi +
+\kappa\|\nabla\psi\|^2 +
+\xi
 }
 $$
 
@@ -166,9 +152,7 @@ $$
 
 This demonstrates that ψ evolves as the **least-action generator** of χδ-geometry.
 
----
-
-# 5. Relation to χδ Geometry  
+## 5. Relation to χδ Geometry  
 
 Since ψ = χδ:
 
@@ -185,22 +169,20 @@ $$
 \delta\mathcal{A}[\chi\delta]=0.
 $$
 
----
-
-# 6. Implications for Main Sections  
+## 6. Implications for Main Sections  
 
 This appendix clarifies:
 
-### Section 4 — ψ as appearance dynamics  
+**Section 4 — ψ as appearance dynamics**  
 Sora Equation determines how ψ smooths, amplifies、or collapses.
 
-### Section 5 — low-curvature QM regime  
+**Section 5 — low-curvature QM regime**  
 Small ∇ψ reduces nonlinearities → FFT reproduces quantum behavior.
 
-### Section 6 — curvature & cosmology  
+**Section 6 — curvature & cosmology**  
 ω₀′ and χδ-scaling connect ψ evolution to global curvature (Λ).
 
-### Section 7 — consciousness geometry  
+**Section 7 — consciousness geometry**  
 ψ stability determines:
 
 - reconstruction fidelity (G-operator)  
@@ -209,9 +191,7 @@ Small ∇ψ reduces nonlinearities → FFT reproduces quantum behavior.
 
 ψ is the substrate enabling C-wave perception and χ-selection.
 
----
-
-# 7. Summary  
+## 7. Summary  
 
 - ψ = χδ evolves by extremizing a χδ-generated action.  
 - The Euler–Lagrange equation yields the Sora Equation directly.  

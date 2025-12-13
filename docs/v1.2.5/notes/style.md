@@ -59,7 +59,7 @@ Incorrect:
 
 To avoid GitHub and KaTeX rendering issues:
 
-- Do NOT start a line with operators such as `i\hbar`, `=`, or `+`.
+- Do NOT start a line with operators such as `-`, `=`, or `+`.
 - Operators must appear after an assignment or continuation.
 
 Line-leading operators are forbidden.

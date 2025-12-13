@@ -1,6 +1,6 @@
 **Figure 01 — T-fiber / T-wave structure (conceptual view)**
 
-![tfiber_twave_structure](docs/v1.2.5/figures/tfiber_twave_structure.JPG "T-fiber T-wave Structure")
+![tfiber_twave_structure](../tfiber_twave_structure.JPG "T-fiber T-wave Structure")
 
 A visual anchor for the distinction between
 the stable T-fiber core (real structure)

@@ -49,7 +49,8 @@ well-defined.
 The primary evolution law is:
 
 $$
-\hat{\mathcal{S}}_{\mathrm{FFT}}\Psi = 0.
+\hat{\mathcal{S}}_{\mathrm{FFT}}\Psi =
+0.
 $$
 
 with
@@ -79,9 +80,8 @@ $$
 - **Fractal Laplacian**
 
 $$
-\widehat{\Delta^D f}(k)
-=
--|k|^{2D}\hat f(k).
+\widehat{\Delta^D f}(k) =
+-\!\left(|k|^{2D}\hat f(k)\right).
 $$
 
 - Drift terms encode χ-induced anisotropy.  
@@ -93,8 +93,7 @@ $$
 $$
 \partial_t \rho +
 \nabla\cdot\mathbf{J} +
-\mathcal{S}_\rho
-=
+\mathcal{S}_\rho =
 0.
 $$
 
@@ -110,8 +109,7 @@ $$
 - **Standard flow**
 
 $$
-\mathbf{J}^{(\mathrm{std})}
-=
+\mathbf{J}^{(\mathrm{std})} =
 \frac{\hbar}{2mi}
 \left(
 \Psi^{\ast} \nabla \Psi -
@@ -122,8 +120,7 @@ $$
 - **Fractal flow**
 
 $$
-\mathbf{J}^{(D)}
-=
+\mathbf{J}^{(D)} =
 \ell_D^{\,2-D}
 \frac{\hbar}{2mi}
 \left(
@@ -135,16 +132,14 @@ $$
 - **Geometric drift**
 
 $$
-\mathbf{v}_{\mathrm{geo}}
-=
+\mathbf{v}_{\mathrm{geo}} =
 \nabla(\chi).
 $$
 
 Source term:
 
 $$
-\mathcal{S}_\rho
-=
+\mathcal{S}_\rho =
 \frac{2}{\hbar}
 \Im\!\left[
 \Psi^{\ast}
@@ -158,8 +153,7 @@ $$
 FFT-3 evolves the observable C-wave:
 
 $$
-i\hbar\partial_t C
-=
+i\hbar\partial_t C =
 \Pi_{\mathrm{obs}}
 \Big[
 V\Psi +
@@ -173,8 +167,7 @@ $$
 Instead of a naive XY projection, FFT employs a τ-aware delayed-plane projection:
 
 $$
-(\Pi_{\mathrm{obs}}\Psi)(x,y,t)
-=
+(\Pi_{\mathrm{obs}}\Psi)(x,y,t) =
 \int_{-\infty}^{\infty}
 K_{\mathrm{obs}}(z,\tau)\,
 \Psi(x,y,z,t)\,
@@ -198,7 +191,8 @@ Thus:
 - Nonlinearity $\mathcal{N}$ arises from χδ coupling:
 
 $$
-\psi = \chi\delta.
+\psi =
+\chi\delta.
 $$
 
 - Drift terms align with χ gradients.  
@@ -209,8 +203,6 @@ These operators constitute the analytic realization of the
 χδ generative principle described in Appendix Z+0.
 
 ## 5. Implications for Main Sections
-
-This appendix refines:
 
 ### Sections 1–2
 

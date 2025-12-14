@@ -49,7 +49,7 @@ For $f \in L^2(\mathbb{R}^n)$, the fractal Laplacian is defined in Fourier space
 $$
 \widehat{\Delta^D f}(k)
 =
--|k|^{2D}\hat f(k),
+-\!\left(|k|^{2D}\hat f(k)\right),
 \qquad
 0 < D \le 1.
 $$
@@ -105,7 +105,7 @@ Thus:
 - multi-scale patterning,
 - interference–curvature exchange
 
-emerge naturally from Δᴰ acting on ψ = χδ.
+emerge naturally from Δᴰ acting on $\psi = \chi\delta$.
 
 ## 5. Implications for Main Sections
 
@@ -116,7 +116,8 @@ This appendix refines the following sections of the main text.
 The hybrid operator
 
 $$
-\Delta + \ell_D^{\,2-D}\Delta^D
+\Delta +
+\ell_D^{\,2-D}\Delta^D
 $$
 
 generates complementary behavior:

@@ -91,11 +91,9 @@ These correspond directly to the terms in the Sora Equation.
 Euler–Lagrange condition:
 
 $$
-\frac{\partial\mathcal{L}}{\partial\psi}
--
+\frac{\partial\mathcal{L}}{\partial\psi} -
 \nabla\cdot
-\frac{\partial\mathcal{L}}{\partial(\nabla\psi)}
-=
+\frac{\partial\mathcal{L}}{\partial(\nabla\psi)} =
 0.
 $$
 
@@ -113,8 +111,7 @@ Let $u = \|\nabla\psi\|$:
 
 $$
 \frac{\partial}{\partial(\nabla\psi)}
-\left(\frac{\kappa}{3}u^3\right)
-=
+\left(\frac{\kappa}{3}u^3\right) =
 \kappa u\nabla\psi.
 $$
 
@@ -133,9 +130,8 @@ FFT retains the dominant χδ-amplification term.
 #### (3) Potential and noise term
 
 $$
-\frac{\partial\mathcal{L}}{\partial\psi}
-=
--\omega_0' + \xi.
+\frac{\partial\mathcal{L}}{\partial\psi} =
+-\!\left(\omega_0' - \xi\right).
 $$
 
 ## 4. Result of the Euler–Lagrange Equation
@@ -203,14 +199,10 @@ $$
 \boxed{
 \delta\mathcal{A} = 0
 \;\Longrightarrow\;
-\partial_t\psi
-=
-\omega_0'
-+
-D\Delta\psi
-+
-\kappa\|\nabla\psi\|^2
-+
+\partial_t\psi =
+\omega_0' +
+D\Delta\psi +
+\kappa\|\nabla\psi\|^2 +
 \xi.
 }
 $$

@@ -47,8 +47,7 @@ encoding such non-local causal structure.
 For $f \in L^2(\mathbb{R}^n)$, the fractal Laplacian is defined in Fourier space by
 
 $$
-\widehat{\Delta^D f}(k)
-=
+\widehat{\Delta^D f}(k) =
 -\!\left(|k|^{2D}\hat f(k)\right),
 \qquad
 0 < D \le 1.
@@ -67,8 +66,7 @@ Its properties include:
 Equivalently, Δᴰ admits the real-space representation
 
 $$
-(\Delta^D f)(x)
-=
+(\Delta^D f)(x) =
 C_{n,D}
 \int_{\mathbb{R}^n}
 \frac{f(x) - f(y)}{|x-y|^{n+2D}}\,dy.

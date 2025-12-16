@@ -19,11 +19,13 @@ not a claim of final physical accuracy.
 
 ## Quick Start
 
-Run each component independently:
+Each component can be run independently:
 
-    python simulate_twave.py
-    python cwave_projection.py
-    python lambda_estimator.py
+```
+python simulate_twave.py
+python cwave_projection.py
+python lambda_estimator.py
+```
 
 All scripts are self-contained and use toy parameter values defined in
 `fft_config.py`.
@@ -34,9 +36,11 @@ All scripts are self-contained and use toy parameter values defined in
 
 ### fft_config.py
 
-Centralized configuration:
+Centralized configuration file.
 
-- grid size and spacing
+Defines:
+
+- grid size and spatial resolution
 - time step and iteration count
 - Sora equation parameters
 - projection kernel parameters
@@ -66,13 +70,15 @@ Notes:
 
 Explicit implementation of the **projection operator**:
 
-    C(x,y) = ∫ K(z) Ψ(x,y,z) dz
+```
+C(x,y) = ∫ K(z) Ψ(x,y,z) dz
+```
 
 Where:
 
-- K(z) = exp(-α z²) (normalized)
-- C corresponds to C-wave observable
-- |C|² is the observable intensity
+- `K(z) = exp(-α z²)` (normalized)
+- `C` corresponds to C-wave observable
+- `|C|²` is the observable intensity
 
 ---
 
@@ -80,7 +86,9 @@ Where:
 
 Toy estimator for the cosmological constant:
 
-    Λ ∝ ⟨ ||∇ψ||² ⟩
+```
+Λ ∝ ⟨ ||∇ψ||² ⟩
+```
 
 Implements:
 

@@ -4,199 +4,148 @@
 > Fixed-Field Theory (FFT) does not contradict existing physical theories.  
 > Quantum theory observes the microscopic world through a narrow field of view,  
 > while cosmology observes the macroscopic world through a similarly constrained lens.  
-> FFT adopts a **wider field of view**, within which both limits are naturally recovered.  
+> FFT adopts a **wider geometric field of view**, within which both limits are recovered.  
 > As this field of view is narrowed, FFT converges smoothly with established theories.
 
-This directory contains all supplementary materials for the FFT v1.2.x series.  
-The appendices provide mathematical proofs, projection operators, χδ geometry,
-τ-time analysis, perceptual models, cosmological extensions, and experimental
-considerations that support the main manuscript.
+This directory contains all **supplemental materials** for the FFT v1.2.x series.
 
-This README explains **how to navigate the Appendix set** and  
-**how each appendix relates to Sections 1–7 of FFT v1.2.5.1**.
+The appendices provide:
+- mathematical foundations,
+- projection and reconstruction operators,
+- χδ geometry and τ-time structure,
+- perceptual and optical models,
+- quantum and cosmological limits,
+- methodological clarification (computability & falsifiability).
 
-## 1. Purpose of the Appendices
+They are **mandatory companions** to the main manuscript.
 
-The main manuscript introduces:
+---
 
-- χδ geometry（χ = causal depth, δ = interference density）  
-- ψ = χδ（appearance field; not a physical wave）  
-- T-fiber / T-wave（physical structure）  
-- C-wave（XτZ / YτZ projection）  
-- τ（phase-time）  
-- FFT-1 / FFT-2 / FFT-3（field, information, projection dynamics）  
-- Sora Equation（ψ dynamics on the C-wave）  
-- G-operator（Z-extension → χ-band reconstruction）  
-- consciousness as the selection of χ  
+## 1. How to Read the Appendices
 
-Many of these require **extended derivations** or **geometric formalization**,  
-which are provided in the appendices.
+You may navigate the appendices in two equivalent ways.
 
-Appendices serve as:
+### A. Section-driven reading
+Use the **Section–Appendix Map** (Section 4) to open the appendix supporting
+the part of the main text you are reading.
 
-- mathematical proofs  
-- operator-level definitions（f-projection, G-extension）  
-- perceptual / optical geometry  
-- χδ-oscillation and ψ-dynamics  
-- cosmological curvature models  
-- experimental proposals  
-- cross-scale curvature interpretation  
+### B. Domain-driven reading
+Appendices are grouped by **conceptual role**, not chronology.
 
-They are **mandatory companions** to the main theory.
+---
 
-**Design Principle: Absence of N and J**
-- FFT does not introduce **N** (particle number) or **J** (flux / current)
-  as fundamental quantities.
-- Multiplicity (**N**) and flux (**J**) are **derived geometric consequences**
-  of χδ interaction, not independent degrees of freedom.
-- Introducing N or J as primitive terms would reintroduce
-  particle-number conservation and current-conservation assumptions,
-  which FFT explicitly avoids.
-- Therefore, **FFT-1 is closed by construction**, not by completion or
-  enumeration of interaction terms.
+## 2. Appendix Domains（整理済）
 
-## 2. How to Use the Appendices
+### **I. Foundations & Operators**
+> χδ geometry, projection, reconstruction, formal closure
 
-You may navigate the appendices in two ways:
+- **Z+0** — χδ Principle (foundational definitions)
+- **Z+1** — Ontological layers: T-wave / C-wave / ψ
+- **Z+2** — χδ geometry and non-duality (色即是空・空即是色)
+- **Z+18** — Mathematical foundations of observation  
+  (projection operator *f*, reconstruction *G*)
 
-### A. Section-driven reading  
-Use the **Section–Appendix Map** (below) to open the appendix that supports the
-specific section you are reading in the main text.
+---
 
-### B. Domain-driven reading  
-Appendices naturally cluster into four conceptual domains.
+### **II. Time, Observation & Irreversibility**
+> τ-time, Z-history, collapse, decoherence, observer-free measurement
 
+- **Z+9** — Phase-time τ and Z-depth reconstruction
+- **Z+14** — Observation without an observer
+- **Z+15** — Quantum entanglement as Zχ-alignment
+- **Z+16** — Decoherence as Zχ-divergence
+- **Z+17** — Uncertainty as χ-depth projection
 
+---
 
-## 3. Appendix Domains（Updated）
+### **III. Optics, Perception & Appearance Geometry**
+> C-wave observables, ψ-geometry, τ-surfaces
 
-### **1. Foundations（基礎）**  
-Core definitions, χδ–ψ geometry, projection mathematics  
-- Z+0 — χδ–ψ foundational definitions  
-- Z+1 — Classification of T-wave / C-wave / ψ（appearance field）  
-- Z+2 — χδ geometry as 色即是空・空即是色  
-- Z+18 — Mathematical foundations of observation（projection f / reconstruction G）  
+- **Z+11** — Why constant-τ surfaces are spheres (local geometry)
+- **Z+12** — Physical observables of the C-wave
+- **Z+13** — Quantum teleportation as arrival-time reassignment
+- **Z+37B** — Why the observable universe must appear spherical (cosmic scale)
 
-### **2. Time & Observation（時間・観測）**  
-τ geometry, collapse/decoherence, observation logic  
-- Z+6 — Collapse as ΔZ reduction  
-- Z+7 — Decoherence as ΔZ growth  
-- Z+9 — Phase-time τ and Z-depth reconstruction  
-- Z+13 — Quantum teleportation as arrival-time reassignment  
-- Z+14 — Observation without an observer  
-- Z+16 — Decoherence as Zχ-divergence  
+---
 
-### **3. Optics & Perception（光学と知覚）**  
-C-wave observables, ψ-based appearance geometry  
-- Z+8 — Three-layer ontology (T-wave / C-wave / ψ)  
-- Z+11 — Why constant-τ surfaces are spherical  
-- Z+12 — Physical observables of the C-wave  
-- Z+37B — Why the observable universe must appear spherical  
+### **IV. Quantum, Gravity & Cosmology**
+> Emergent QM, dark sector, GR limit, curvature cascade
 
-### **4. Quantum & Cosmology（量子と宇宙論）**  
-χδ quantum limit, probability, dark sector, gravity  
-- Z+4 — Low-energy quantum limit of FFT  
-- Z+5 — Cosmological constant Λ from ψ-divergence  
-- Z+6 — Dark matter as χ-residual curvature  
-- Z+7 — Dark energy as ψ-gradient energy  
-- Z+15 — Quantum entanglement as Zχ-alignment  
-- Z+17 — Heisenberg uncertainty as χ-depth projection  
-- Z+19 — Neutrinos as ultra-low-interference C-waves  
-- Z+20 — Neutrino oscillation as δ-density drift  
-- Z+21 — General Relativity from T-fiber geometry  
-- Z+22 — Curvature cascade in χδ geometry  
-- **Z+23 — Probability and the Born rule as projection-induced statistics**
+- **Z+5** — Cosmological constant Λ from ψ-divergence
+- **Z+10** — T-fiber thinning as the origin of cosmic expansion
+- **Z+19** — Neutrinos as ultra-low-interference C-waves
+- **Z+20** — Neutrino oscillation as δ-density drift
+- **Z+21** — Deriving General Relativity from T-fiber geometry
+- **Z+22** — Curvature cascade in χδ geometry
 
-Appendix A / B / C  
-- ψ analytical examples  
-- curvature evolution simulations  
-- C-wave interference modeling  
+---
 
+### **V. Methodology & Meta-Theory**
+> Computability, falsifiability, model construction
 
+- **Appendix D** — Design principles, computability, and falsifiability of FFT
 
-## 4. Section–Appendix Cross-Reference Map
+(This appendix addresses reviewer concerns regarding closed equations,
+computability, and empirical testability.)
 
-### **Section 1 — Foundations of χδ Geometry**  
+---
 
-Z+0, Z+1, Z+2, Z+18  
+## 3. What the Appendices Are — and Are Not
 
-### **Section 2 — Field Dynamics（FFT-1, FFT-2, FFT-3）**  
+- Appendices **do not** introduce ad hoc interaction terms.
+- Appendices **do not** add particle ontology.
+- Appendices **do** formalize geometry, operators, and limits.
+- Appendices **do** define how predictions are constructed at the model level.
 
-Appendix A, B, C  
+FFT is **closed by construction**, not by enumeration of interaction terms.
 
-### **Section 3 — Time, Observation, Irreversibility**  
+---
 
-Z+6, Z+7, Z+9, Z+13, Z+14, Z+16  
+## 4. Section–Appendix Cross-Reference
 
-### **Section 4 — Perception, Optics, C-wave**  
+### Section 1 — χδ Geometry
+Z+0, Z+1, Z+2, Z+18
 
-Z+8, Z+11, Z+12, Z+37B  
+### Section 2 — FFT Dynamics (FFT-1/2/3)
+Appendix D (methodology), Z+18
 
-### **Section 5 — Quantum Phenomena**  
+### Section 3 — Time & Observation
+Z+9, Z+14, Z+15, Z+16, Z+17
 
-Z+2, Z+4, Z+15, Z+17, Z+19, Z+20, **Z+23**
+### Section 4 — Perception & Optics
+Z+11, Z+12, Z+13, Z+37B
 
-### **Section 6 — Gravity, Curvature, Cosmology**  
+### Section 5 — Quantum Phenomena
+Z+15, Z+16, Z+17, Z+13
 
-Z+5, Z+6, Z+7, Z+21, Z+22  
+### Section 6 — Gravity & Cosmology
+Z+5, Z+10, Z+19, Z+20, Z+21, Z+22
 
-### **Section 7 — Consciousness & χ-selection**  
+### Section 7 — Consciousness & χ-selection
+Z+9, Z+14, Z+16, Appendix D
 
-Z+6, Z+7, Z+9, Z+14, Z+16, Z+18  
+---
 
-## 5. Open Problems ↔ Appendix Cross-References  
+## 5. Open Problems (Section 8) — Pointers Only
 
-Supporting the main text Section 8.
+Detailed discussion is deferred to individual appendices.
 
-### **8.1 Rigorous definition of projection operator f**  
+- **Projection operator f** → Z+18  
+- **τ-time formalization** → Z+9, Z+37B  
+- **Quantum–classical transition** → Z+16, Z+17  
+- **Dark energy / dark matter** → Z+5, Z+10  
+- **FFT ↔ GR correspondence** → Z+21  
+- **Computability & falsifiability** → Appendix D
 
-Z+18, Z+9, Z+14  
+---
 
-### **8.2 Full characterization of the G-operator（χ-band）**  
+## 6. Update Policy
 
-Z+18, Z+6, Z+7  
+- README remains an **index**, not a debate log.
+- Conceptual disputes are handled in **Appendix D**.
+- New appendices must be placed in a **Domain** and linked here.
+- Notation must follow FFT conventions (χ, δ, ψ, τ).
 
-### **8.3 Experimental detection of the C-wave**  
+---
 
-Z+12, Z+19, Z+20  
-
-### **8.4 Low-energy reduction to quantum mechanics**  
-
-Z+4, Z+17, Z+18  
-
-### **8.5 Origin of quantum probability and the Born rule**  
-
-**Z+23**, Z+18, Z+2  
-
-### **8.6 Derivation of the cosmological constant Λ**  
-
-Z+5, Z+7, Z+22  
-
-### **8.7 FFT ↔ GR correspondence**  
-
-Z+21, Z+6  
-
-### **8.8 Stability & turbulence in ψ-dynamics**  
-
-Appendix A/B/C, Z+22  
-
-### **8.9 Mathematical foundation of τ (phase-time)**  
-
-Z+9, Z+11, Z+14, Z+37B  
-
-### **8.10 Conditions for consciousness in χδ–ψ geometry**  
-
-Z+14, Z+6, Z+7, Z+18, Z+16  
-
-## 6. Contribution Notes
-
-- Appendices must remain **self-contained** and consistent with FFT Sections 1–7.  
-- Updating Sections 1–7 requires updating this README.  
-- Notation must follow FFT conventions：χ, δ, ψ, τ, C-wave, T-fiber.  
-- ψ is **not a wave**, but an *appearance field*.  
-- Probability is **not postulated**; it emerges from projection geometry (Z+23).  
-- G-operator returns both **Z-extension and χ-band reconstruction**.  
-- New appendices must be added to both the **Domain Map** and the  
-  **Open Problem Map**.
-
-End of Appendix README
+*End of Appendix Guide*

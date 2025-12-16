@@ -15,9 +15,7 @@ considerations that support the main manuscript.
 This README explains **how to navigate the Appendix set** and  
 **how each appendix relates to Sections 1–7 of FFT v1.2.5.1**.
 
----
-
-# 1. Purpose of the Appendices
+## 1. Purpose of the Appendices
 
 The main manuscript introduces:
 
@@ -46,8 +44,7 @@ Appendices serve as:
 
 They are **mandatory companions** to the main theory.
 
-### Design Principle: Absence of N and J
-
+**Design Principle: Absence of N and J**
 - FFT does not introduce **N** (particle number) or **J** (flux / current)
   as fundamental quantities.
 - Multiplicity (**N**) and flux (**J**) are **derived geometric consequences**
@@ -58,31 +55,29 @@ They are **mandatory companions** to the main theory.
 - Therefore, **FFT-1 is closed by construction**, not by completion or
   enumeration of interaction terms.
 
----
-
-# 2. How to Use the Appendices
+## 2. How to Use the Appendices
 
 You may navigate the appendices in two ways:
 
-## A. Section-driven reading  
+### A. Section-driven reading  
 Use the **Section–Appendix Map** (below) to open the appendix that supports the
 specific section you are reading in the main text.
 
-## B. Domain-driven reading  
+### B. Domain-driven reading  
 Appendices naturally cluster into four conceptual domains.
 
----
 
-# 3. Appendix Domains（Updated）
 
-## **1. Foundations（基礎）**  
+## 3. Appendix Domains（Updated）
+
+### **1. Foundations（基礎）**  
 Core definitions, χδ–ψ geometry, projection mathematics  
 - Z+0 — χδ–ψ foundational definitions  
 - Z+1 — Classification of T-wave / C-wave / ψ（appearance field）  
 - Z+2 — χδ geometry as 色即是空・空即是色  
 - Z+18 — Mathematical foundations of observation（projection f / reconstruction G）  
 
-## **2. Time & Observation（時間・観測）**  
+### **2. Time & Observation（時間・観測）**  
 τ geometry, collapse/decoherence, observation logic  
 - Z+6 — Collapse as ΔZ reduction  
 - Z+7 — Decoherence as ΔZ growth  
@@ -91,14 +86,14 @@ Core definitions, χδ–ψ geometry, projection mathematics
 - Z+14 — Observation without an observer  
 - Z+16 — Decoherence as Zχ-divergence  
 
-## **3. Optics & Perception（光学と知覚）**  
+### **3. Optics & Perception（光学と知覚）**  
 C-wave observables, ψ-based appearance geometry  
 - Z+8 — Three-layer ontology (T-wave / C-wave / ψ)  
 - Z+11 — Why constant-τ surfaces are spherical  
 - Z+12 — Physical observables of the C-wave  
 - Z+37B — Why the observable universe must appear spherical  
 
-## **4. Quantum & Cosmology（量子と宇宙論）**  
+### **4. Quantum & Cosmology（量子と宇宙論）**  
 χδ quantum limit, probability, dark sector, gravity  
 - Z+4 — Low-energy quantum limit of FFT  
 - Z+5 — Cosmological constant Λ from ψ-divergence  
@@ -117,69 +112,83 @@ Appendix A / B / C
 - curvature evolution simulations  
 - C-wave interference modeling  
 
----
 
-# 4. Section–Appendix Cross-Reference Map
 
-## **Section 1 — Foundations of χδ Geometry**  
+## 4. Section–Appendix Cross-Reference Map
+
+### **Section 1 — Foundations of χδ Geometry**  
+
 Z+0, Z+1, Z+2, Z+18  
 
-## **Section 2 — Field Dynamics（FFT-1, FFT-2, FFT-3）**  
+### **Section 2 — Field Dynamics（FFT-1, FFT-2, FFT-3）**  
+
 Appendix A, B, C  
 
-## **Section 3 — Time, Observation, Irreversibility**  
+### **Section 3 — Time, Observation, Irreversibility**  
+
 Z+6, Z+7, Z+9, Z+13, Z+14, Z+16  
 
-## **Section 4 — Perception, Optics, C-wave**  
+### **Section 4 — Perception, Optics, C-wave**  
+
 Z+8, Z+11, Z+12, Z+37B  
 
-## **Section 5 — Quantum Phenomena**  
+### **Section 5 — Quantum Phenomena**  
+
 Z+2, Z+4, Z+15, Z+17, Z+19, Z+20, **Z+23**
 
-## **Section 6 — Gravity, Curvature, Cosmology**  
+### **Section 6 — Gravity, Curvature, Cosmology**  
+
 Z+5, Z+6, Z+7, Z+21, Z+22  
 
-## **Section 7 — Consciousness & χ-selection**  
+### **Section 7 — Consciousness & χ-selection**  
+
 Z+6, Z+7, Z+9, Z+14, Z+16, Z+18  
 
----
+## 5. Open Problems ↔ Appendix Cross-References  
 
-# 5. Open Problems ↔ Appendix Cross-References  
 Supporting the main text Section 8.
 
-## **8.1 Rigorous definition of projection operator f**  
+### **8.1 Rigorous definition of projection operator f**  
+
 Z+18, Z+9, Z+14  
 
-## **8.2 Full characterization of the G-operator（χ-band）**  
+### **8.2 Full characterization of the G-operator（χ-band）**  
+
 Z+18, Z+6, Z+7  
 
-## **8.3 Experimental detection of the C-wave**  
+### **8.3 Experimental detection of the C-wave**  
+
 Z+12, Z+19, Z+20  
 
-## **8.4 Low-energy reduction to quantum mechanics**  
+### **8.4 Low-energy reduction to quantum mechanics**  
+
 Z+4, Z+17, Z+18  
 
-## **8.5 Origin of quantum probability and the Born rule**  
+### **8.5 Origin of quantum probability and the Born rule**  
+
 **Z+23**, Z+18, Z+2  
 
-## **8.6 Derivation of the cosmological constant Λ**  
+### **8.6 Derivation of the cosmological constant Λ**  
+
 Z+5, Z+7, Z+22  
 
-## **8.7 FFT ↔ GR correspondence**  
+### **8.7 FFT ↔ GR correspondence**  
+
 Z+21, Z+6  
 
-## **8.8 Stability & turbulence in ψ-dynamics**  
+### **8.8 Stability & turbulence in ψ-dynamics**  
+
 Appendix A/B/C, Z+22  
 
-## **8.9 Mathematical foundation of τ (phase-time)**  
+### **8.9 Mathematical foundation of τ (phase-time)**  
+
 Z+9, Z+11, Z+14, Z+37B  
 
-## **8.10 Conditions for consciousness in χδ–ψ geometry**  
+### **8.10 Conditions for consciousness in χδ–ψ geometry**  
+
 Z+14, Z+6, Z+7, Z+18, Z+16  
 
----
-
-# 6. Contribution Notes（更新ポリシー）
+## 6. Contribution Notes
 
 - Appendices must remain **self-contained** and consistent with FFT Sections 1–7.  
 - Updating Sections 1–7 requires updating this README.  
@@ -190,6 +199,4 @@ Z+14, Z+6, Z+7, Z+18, Z+16
 - New appendices must be added to both the **Domain Map** and the  
   **Open Problem Map**.
 
----
-
-# End of Appendix README
+End of Appendix README

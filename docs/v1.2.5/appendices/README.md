@@ -46,6 +46,18 @@ Appendices serve as:
 
 They are **mandatory companions** to the main theory.
 
+### Design Principle: Absence of N and J
+
+- FFT does not introduce **N** (particle number) or **J** (flux / current)
+  as fundamental quantities.
+- Multiplicity (**N**) and flux (**J**) are **derived geometric consequences**
+  of χδ interaction, not independent degrees of freedom.
+- Introducing N or J as primitive terms would reintroduce
+  particle-number conservation and current-conservation assumptions,
+  which FFT explicitly avoids.
+- Therefore, **FFT-1 is closed by construction**, not by completion or
+  enumeration of interaction terms.
+
 ---
 
 # 2. How to Use the Appendices

@@ -204,21 +204,21 @@ These operators constitute the analytic realization of the
 
 ## 5. Implications for Main Sections
 
-##### Sections 1–2
+**Sections 1–2**
 
 - precise operator structure of FFT-1, FFT-2, and FFT-3,  
 - explicit role of fractal and drift operators.
 
-##### Section 4
+**Section 4**
 
 - rigorous definition of the C-wave as XτZ / YτZ projection,  
 - clarification that ψ is an appearance field, not a wave.
 
-##### Section 5
+**Section 5**
 
 - identification of limits in which FFT operators reduce to quantum mechanics.
 
-##### Section 7
+**Section 7**
 
 - explanation of how ψ, ρ, and C interact to form stable χ-band
   inputs for consciousness.

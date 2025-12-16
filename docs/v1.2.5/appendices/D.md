@@ -1,4 +1,5 @@
 # Appendix D — Methodological Closure and Falsifiability in χδ Geometry  
+
 *(Fixed-Field Theory v1.2.x Supplemental Material)*
 
 ## 1. Purpose and Scope
@@ -114,19 +115,19 @@ These are not philosophical choices but consequences of χδ geometry.
 
 This appendix fixes the correct reading of the main text:
 
-- **Section 3 (Irreversibility)**  
+**Section 3 (Irreversibility)**  
   irreversibility arises from Z-history writing in χ.
 
-- **Section 4 (Observation)**  
+**Section 4 (Observation)**  
   observation is projection and ψ-generation, not an act of a subject.
 
-- **Section 5 (Quantum Phenomena)**  
+**Section 5 (Quantum Phenomena)**  
   quantum statistics arise from projection geometry, not axioms.
 
-- **Section 6 (Cosmology)**  
+**Section 6 (Cosmology)**  
   large-scale structure emerges from coarse-grained χδ curvature.
 
-- **Section 7 (Consciousness)**  
+**Section 7 (Consciousness)**  
   consciousness, if modeled, interacts with χ-selection geometry, not ψ as
   substance.
 

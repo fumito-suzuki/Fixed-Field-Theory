@@ -2,13 +2,12 @@
 
 *(Fixed-Field Theory v1.2.x — Internal / Incubation Materials)*
 
-
-
 ## 1. Purpose and Status
 
 Appendix β contains **non-canonical draft materials** for Fixed-Field Theory (FFT).
 
 These documents explore:
+
 - provisional interpretations,
 - candidate mathematical structures,
 - speculative physical implications,
@@ -17,8 +16,6 @@ These documents explore:
 that are **not adopted** into the official FFT v1.2.x framework.
 
 Material in this group serves as an **incubation layer** for future development.
-
-
 
 ## 2. Relationship to the Canonical FFT Structure
 
@@ -38,8 +35,6 @@ Accordingly:
 
 The presence of a draft in Appendix β **does not imply endorsement**.
 
-
-
 ## 3. Intended Use
 
 Documents in Appendix β may:
@@ -58,8 +53,6 @@ Possible future outcomes include:
 - partial extraction into equations or tools,
 - or complete archival.
 
-
-
 ## 4. Formatting Convention
 
 Appendix β documents follow the **same structural template** as other appendices:
@@ -74,8 +67,6 @@ Appendix β documents follow the **same structural template** as other appendice
 
 This uniformity is intentional and does **not** indicate equal status.
 
-
-
 ## 5. Reader Guidance
 
 Readers should interpret Appendix β texts as:
@@ -84,8 +75,6 @@ Readers should interpret Appendix β texts as:
 > not as finalized components of Fixed-Field Theory.
 
 No conclusions drawn solely from Appendix β should be attributed to FFT v1.2.x.
-
-
 
 ## 6. Summary
 

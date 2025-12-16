@@ -109,7 +109,7 @@ emerge naturally from Δᴰ acting on $\psi = \chi\delta$.
 
 This appendix refines the following sections of the main text.
 
-### Section 2 — FFT-1
+##### Section 2 — FFT-1
 
 The hybrid operator
 
@@ -126,7 +126,7 @@ generates complementary behavior:
 This explains the emergence of filamentary and nested curvature
 structures in Ψ.
 
-### Section 3 — Irreversibility and Decoherence
+##### Section 3 — Irreversibility and Decoherence
 
 The operator Δᴰ induces Z-direction superdiffusion:
 
@@ -144,7 +144,7 @@ This provides a geometric basis for:
 
 without invoking probabilistic collapse.
 
-### Section 4 — Perception and C-wave Geometry
+##### Section 4 — Perception and C-wave Geometry
 
 Δᴰ enhances interference contrast:
 
@@ -154,7 +154,7 @@ without invoking probabilistic collapse.
 
 Thus perceptual edges correspond to ψ-curvature amplified by Δᴰ.
 
-### Section 5 — Quantum Limit
+##### Section 5 — Quantum Limit
 
 In small-curvature regimes:
 

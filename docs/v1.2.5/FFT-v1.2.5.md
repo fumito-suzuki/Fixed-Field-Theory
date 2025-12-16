@@ -434,7 +434,7 @@ Thus, χ measures **how deeply causal structure is impressed upon the C-wave**.
 
 ### 2.2 δ: Interference density on the delayed projection planes  
 
-### (δ lives on XτZ and YτZ, not on the physical XY-plane)
+#### (δ lives on XτZ and YτZ, not on the physical XY-plane)
 
 In conventional optics δ is “interference on the XY-plane.”  
 FFT corrects this misunderstanding:
@@ -581,8 +581,6 @@ Hence:
 
 Quantum strangeness originates from the projection, not from the substance.
 
-
-
 ### 2.7 Summary of χδ geometry
 
 | Quantity | Meaning |
@@ -595,11 +593,6 @@ Quantum strangeness originates from the projection, not from the substance.
 
 ψ is the core of how the world *looks*,  
 but only Ψ (T-fiber/T-wave) constitutes what the world *is*.
-
-
-
-
-
 
 ## 3. Minimal Dynamics of the Fixed Field (T-fiber)
 
@@ -992,7 +985,6 @@ Thus:
 
 This replaces the “wave-particle duality” with a single geometric mechanism.
 
-
 ### 5.2 Entanglement = sharing the same C-label across observers
 
 Two detectors reading the **same C-label** will produce correlations that appear
@@ -1211,7 +1203,7 @@ $$
 
 where the metric emerges from repeated C-wave projections.
 
-## 6.3 Dark matter = χ-curvature that does not project into C
+### 6.3 Dark matter = χ-curvature that does not project into C
 
 When χ is strong but δ is weak or absent:
 
@@ -1823,9 +1815,9 @@ FFT is therefore:
 > **a complete conceptual framework,  
 > but an open mathematical program.**
 
-# 9. Conclusion: The Position of FFT as a Unified Geometric Framework  
+## 9. Conclusion: The Position of FFT as a Unified Geometric Framework  
 
-## (From Causal Reconstruction to Physical Law)
+### (From Causal Reconstruction to Physical Law)
 
 Fixed-Field Theory proposes a unified geometric picture in which the physical,
 cognitive, and cosmological layers of reality arise from the same generative
@@ -1921,7 +1913,6 @@ Thus:
 
 It is neither predetermined nor metaphysically free;  
 it is the ability to stabilize and redirect χ.
-
 
 ### 9.5 Limitations and Future Work
 

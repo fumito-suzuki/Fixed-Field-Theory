@@ -36,10 +36,10 @@ Current:
 $$
 \mathbf{J} =
 \frac{\hbar}{2mi}
-(\Psi^\*\nabla\Psi - \Psi\nabla\Psi^\*) +
+(\Psi^\nabla\Psi - \Psi\nabla\Psi^) +
 \ell_D^{2-D}
 \frac{\hbar}{2mi}
-(\Psi^\*\nabla^{D}\Psi - \Psi\nabla^{D}\Psi^\*) +
+(\Psi^nabla^{D}\Psi - \Psi\nabla^{D}\Psi^) +
 \rho\,\mathbf{v}_{\mathrm{geo}}.
 \tag{2.1}
 $$
@@ -49,7 +49,7 @@ Source / sink term:
 $$
 \mathcal{S}_\rho =
 \frac{2}{\hbar}
-\Im\big[\Psi^\*(\mathcal{N}+\mathcal{J})\Psi\big].
+\Im\big[\Psi^(\mathcal{N}+\mathcal{J})\Psi\big].
 \tag{2.2}
 $$
 
@@ -180,6 +180,7 @@ $$
 $$
 
 #### **(New) Behavioral-level definition**
+
 Conscious reflection corresponds to **minimizing the variance of χ** derived from ρ:
 
 $$
@@ -189,7 +190,8 @@ $$
 \tag{8.2B}
 $$
 
-### 8.3 Free Will = Operational Control of χ 
+### 8.3 Free Will = Operational Control of χ
+
 *(New equation from Section 7)*
 
 $$
@@ -202,6 +204,7 @@ $$
 A system with $ d\chi/dt \neq 0 $ possesses **agency / intentionality**.
 
 ### 8.4 ψ-strength condition for consciousness  
+
 *(Optional but recommended)*
 
 Conscious reconstruction is stable only when
@@ -229,6 +232,6 @@ Too weak ψ → unstable C-wave / χ-band divergence
 | ρ_T | T-wave density |
 | τ | phase-time |
 | χ-band | set of admissible causal directions derived from G[C] |
-| FreeWillBandwidth | |dχ/dt| |
+| FreeWillBandwidth | $\|dχ/dt\|$ |
 
-**End of Updated FFT Equation Catalogue**
+End of Updated FFT Equation Catalogue

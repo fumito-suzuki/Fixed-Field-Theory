@@ -17,6 +17,7 @@ It addresses the following goals:
 
 This appendix establishes Δᴰ as the formal mathematical expression of
 **fractal causality** in Fixed-Field Theory.
+In FFT, Δᴰ represents fractal causality, not stochastic non-locality.
 
 ## 2. Background (χδ–ψ Framework)
 
@@ -52,6 +53,8 @@ $$
 \qquad
 0 < D \le 1.
 $$
+
+For clarity, Δᴰ denotes the standard fractional Laplacian in the sense of Riesz.
 
 Its properties include:
 
